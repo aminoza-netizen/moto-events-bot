@@ -1,0 +1,37 @@
+{
+  "_comment": "Топ-30 источников. Бот обходит их каждый день. type определяется автоматически (RSS или HTML). Добавляй/удаляй свободно — сбой одного источника не ломает остальные.",
+  "sources": [
+    { "name": "ConcentracionesDeMotos — вся Испания", "url": "https://www.concentracionesdemotos.com/concentraciones/", "region": "España" },
+    { "name": "ConcentracionesDeMotos — Комунидад Валенсиана", "url": "https://www.concentracionesdemotos.com/comunidad-valenciana/", "region": "Valencia/Alicante" },
+    { "name": "ConcentracionesDeMotos — Мурсия", "url": "https://www.concentracionesdemotos.com/murcia/", "region": "Murcia" },
+    { "name": "EventoMotor — концентрации", "url": "https://www.eventomotor.com/disciplinas/concentraciones", "region": "España" },
+    { "name": "EventoMotor — календарь 2026", "url": "https://www.eventomotor.com/concentraciones-moteras-2026", "region": "España" },
+    { "name": "Moto-Ocasión — концентрации", "url": "https://www.moto-ocasion.com/magazine/concentraciones/concentraciones-moteras-2026-en-espana/", "region": "España" },
+    { "name": "Visit Benidorm — агенда", "url": "https://visitbenidorm.es/agenda/", "region": "Alicante" },
+    { "name": "MotoClub Motrix — агенда (1 день)", "url": "https://www.motoclubmotrix.org/eventos.php?ob=0", "region": "España" },
+    { "name": "MotoClub Motrix — концентрации (2+ дня)", "url": "https://www.motoclubmotrix.org/concentraciones.php", "region": "España" },
+    { "name": "PiezasDeMotos — eventos moteros", "url": "https://piezasdemotos.com/eventos-moteros/", "region": "España" },
+    { "name": "Railroader — календарь", "url": "https://www.railroader.es/calendario/", "region": "España" },
+    { "name": "Box Repsol — блог", "url": "https://www.boxrepsol.com/es/", "region": "España", "topic": "news" },
+
+    { "name": "Circuit Ricardo Tormo (Cheste) — события", "url": "https://www.circuitricardotormo.com/eventos/", "region": "Valencia" },
+    { "name": "Visit Valencia — мотор-агенда", "url": "https://www.visitvalencia.com/agenda-valencia/las-citas-del-motor-imprescindibles-en-el-circuito-ricardo-tormo-napa-racing", "region": "Valencia" },
+    { "name": "Racing100 — rodadas Ricardo Tormo", "url": "https://www.racing100.com/rodadas-en-ricardo-tormo-cheste/", "region": "Valencia" },
+    { "name": "Outlet MotoStore Valencia — блог/сообщество", "url": "https://www.outletmotostorevalencia.com/blog/blog-motostore-2/comunidad-motera-valencia-eventos-quedadas-y-clubes-2026-40", "region": "Valencia" },
+    { "name": "Valencia Bonita — новости/события", "url": "https://www.valenciabonita.es/feed/", "region": "Valencia" },
+    { "name": "Motosan — мото-новости Валенсия", "url": "https://www.motosan.es/feed/", "region": "Valencia" },
+
+    { "name": "Todocircuito — тандас/трек-дни", "url": "https://www.todocircuito.com/tandas", "region": "España" },
+    { "name": "Racing100 — главная (трек-дни)", "url": "https://www.racing100.com/", "region": "España" },
+
+    { "name": "DGT — пресс-релизы", "url": "https://www.dgt.es/comunicacion/notas-de-prensa/", "region": "España", "topic": "news" },
+    { "name": "SoyMotero — новости", "url": "https://soymotero.net/", "region": "España", "topic": "news" },
+    { "name": "Motociclismo.es", "url": "https://www.motociclismo.es/", "region": "España", "topic": "news" },
+    { "name": "Motorpasión Moto", "url": "https://www.motorpasionmoto.com/", "region": "España", "topic": "news" },
+    { "name": "Moto1Pro", "url": "https://www.moto1pro.com/", "region": "España", "topic": "news" },
+    { "name": "Fórmula Moto", "url": "https://www.formulamoto.es/", "region": "España", "topic": "news" },
+    { "name": "QuintaMarcha — мотор-новости", "url": "https://quintamarcha.com/", "region": "España", "topic": "news" },
+    { "name": "Conti Moto Blog — события/новости", "url": "https://conti-moto-blog.es/", "region": "España", "topic": "news" },
+    { "name": "Motauros (Тордесильяс) — зимний слёт", "url": "https://www.motauros.es/", "region": "España" }
+  ]
+}

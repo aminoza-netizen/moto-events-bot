@@ -15,7 +15,7 @@ echo TELEGRAM_BOT_TOKEN=%BOT_TOKEN%
 echo CHANNEL_ID=%CHANNEL%
 echo GROUP_ID=%GROUP%
 echo ANTHROPIC_API_KEY=%ANTHROPIC%
-echo CLAUDE_MODEL=claude-opus-4-8
+echo CLAUDE_MODEL=claude-sonnet-5
 echo POST_HOUR=%HOUR%
 ) > .env
 

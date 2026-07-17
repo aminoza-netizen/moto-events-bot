@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node src/index.js",
     "run-now": "node src/index.js run",
-    "test-post": "node src/index.js test"
+    "test-post": "node src/index.js test",
+    "sources": "node src/index.js sources"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.110.0",

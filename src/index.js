@@ -1,7 +1,7 @@
 require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
 const cron = require('node-cron');
 const store = require('./store');
-const { collect } = require('./collect');
+const { collectFromSources, collectFromSearch } = require('./collect');
 const { publish, sendToChannel } = require('./post');
 
 const MAX_ANNOUNCES_PER_RUN = 4;
@@ -35,17 +35,34 @@ async function runDaily() {
   const db = store.load();
   store.cleanup(db);
 
-  // 1. Сбор новых событий и новостей
+  // 1. Сбор новых событий и новостей — две независимые фазы
+  const upcomingKnown = () =>
+    db.events
+      .filter((e) => (store.daysUntil(e.date) ?? -1) >= 0)
+      .map((e) => ({ title: e.title, date: e.date, city: e.city }));
+
+  // Фаза 1: топ-30 постоянных источников (sources.json)
   try {
-    const upcoming = db.events.filter((e) => (store.daysUntil(e.date) ?? -1) >= 0);
-    const result = await collect(upcoming.map((e) => ({ title: e.title, date: e.date, city: e.city })));
-    const addedEv = store.addEvents(db, result.events);
-    const addedNews = store.addNews(db, result.news);
-    console.log(`Сбор: найдено ${result.events.length} событий (новых ${addedEv}), новостей ${result.news.length} (новых ${addedNews})`);
-    if (result.usage) console.log(`Токены: in=${result.usage.input_tokens} out=${result.usage.output_tokens}`);
+    const r1 = await collectFromSources(upcomingKnown());
+    const addedEv = store.addEvents(db, r1.events);
+    const addedNews = store.addNews(db, r1.news);
+    console.log(`Источники: событий ${r1.events.length} (новых ${addedEv}), новостей ${r1.news.length} (новых ${addedNews})`);
+    if (r1.usage) console.log(`Токены (источники): in=${r1.usage.input_tokens} out=${r1.usage.output_tokens}`);
     store.save(db);
   } catch (e) {
-    console.error('Ошибка сбора (постим из того, что уже есть):', e.message);
+    console.error('Ошибка фазы источников:', e.message);
+  }
+
+  // Фаза 2: дополнительный веб-поиск (уже знает всё найденное фазой 1)
+  try {
+    const r2 = await collectFromSearch(upcomingKnown());
+    const addedEv = store.addEvents(db, r2.events);
+    const addedNews = store.addNews(db, r2.news);
+    console.log(`Веб-поиск: событий ${r2.events.length} (новых ${addedEv}), новостей ${r2.news.length} (новых ${addedNews})`);
+    if (r2.usage) console.log(`Токены (поиск): in=${r2.usage.input_tokens} out=${r2.usage.output_tokens}`);
+    store.save(db);
+  } catch (e) {
+    console.error('Ошибка фазы веб-поиска (постим из того, что уже есть):', e.message);
   }
 
   const now = new Date().toISOString();
@@ -137,7 +154,15 @@ function checkEnv() {
 
 const mode = process.argv[2];
 
-if (mode === 'test') {
+if (mode === 'sources') {
+  // Проверка источников: что качается, что нет (без Claude и Telegram)
+  const { fetchAllSources } = require('./fetch-sources');
+  fetchAllSources().then(({ ok, failed }) => {
+    for (const s of ok) console.log(`OK   ${s.name} — ${s.content.length} симв.`);
+    for (const f of failed) console.log(`FAIL ${f.name} — ${f.error}`);
+    console.log(`\nИтого: ${ok.length} доступно, ${failed.length} с ошибкой`);
+  });
+} else if (mode === 'test') {
   // Проверка связи: тестовый пост в канал
   checkEnv();
   sendToChannel('🏍 <b>Тест!</b> Бот мото-афиши подключён и готов к работе. 🇪🇸')
