@@ -1,0 +1,16 @@
+{
+  "name": "moto-events-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot: collects motorcycle events in Spain and posts them to a channel in Russian",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "run-now": "node src/index.js run",
+    "test-post": "node src/index.js test"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.110.0",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3"
+  }
+}
