@@ -3,10 +3,38 @@ const cron = require('node-cron');
 const store = require('./store');
 const { collectFromSources, collectFromSearch } = require('./collect');
 const { publish, sendToChannel } = require('./post');
+const { getPageImage } = require('./images');
 
 const MAX_ANNOUNCES_PER_RUN = 4;
 const MAX_NEWS_PER_RUN = 2;
 const ANNOUNCE_WINDOW_DAYS = 35; // анонсируем примерно за месяц
+const WORK_START = () => parseInt(process.env.WORK_START || '9', 10);
+const WORK_END = () => parseInt(process.env.WORK_END || '21', 10);
+const POST_INTERVAL_SEC = () => parseInt(process.env.POST_INTERVAL_SEC || '45', 10);
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// Текущий час в Испании
+function madridHour() {
+  return parseInt(
+    new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/Madrid', hour: '2-digit', hourCycle: 'h23' }).format(new Date()),
+    10
+  );
+}
+
+function isWorkingHours() {
+  const h = madridHour();
+  return h >= WORK_START() && h < WORK_END();
+}
+
+// Картинка для поста: сначала та, что нашла модель, иначе og:image страницы источника.
+// Найденное кэшируем в объекте, чтобы напоминания использовали ту же картинку.
+async function resolveImage(item) {
+  if (item.image_url) return item.image_url;
+  const img = await getPageImage(item.url);
+  if (img) item.image_url = img;
+  return img;
+}
 
 function esc(s) {
   return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -65,8 +93,17 @@ async function runDaily() {
     console.error('Ошибка фазы веб-поиска (постим из того, что уже есть):', e.message);
   }
 
+  // Постим только в рабочее время по Испании — канал испанский
+  if (!isWorkingHours()) {
+    store.save(db);
+    console.log(`Сейчас ${madridHour()}:00 по Испании — вне рабочих часов (${WORK_START()}:00–${WORK_END()}:00). Сбор выполнен, посты отложены до следующего планового запуска.`);
+    return;
+  }
+
   const now = new Date().toISOString();
   let posted = 0;
+  // Пауза между постами, чтобы не заваливать ленту
+  const gap = async () => { if (posted > 0) await sleep(POST_INTERVAL_SEC() * 1000); };
 
   // 2. Анонсы новых событий (за ~месяц до даты)
   const toAnnounce = db.events
@@ -80,7 +117,8 @@ async function runDaily() {
 
   for (const ev of toAnnounce) {
     try {
-      await publish(ev.announce_ru);
+      await gap();
+      await publish(ev.announce_ru, await resolveImage(ev));
       ev.posted.announce = now;
       posted++;
       store.save(db);
@@ -98,7 +136,8 @@ async function runDaily() {
     // не дублируем, если анонс был меньше 2 дней назад
     if (Date.now() - new Date(ev.posted.announce).getTime() < 2 * 86400000) continue;
     try {
-      await publish(weekReminder(ev));
+      await gap();
+      await publish(weekReminder(ev), await resolveImage(ev));
       ev.posted.week = now;
       posted++;
       store.save(db);
@@ -115,7 +154,8 @@ async function runDaily() {
     const lastPost = ev.posted.week || ev.posted.announce;
     if (lastPost && Date.now() - new Date(lastPost).getTime() < 20 * 3600000) continue;
     try {
-      await publish(dayReminder(ev));
+      await gap();
+      await publish(dayReminder(ev), await resolveImage(ev));
       ev.posted.day = now;
       posted++;
       store.save(db);
@@ -129,7 +169,8 @@ async function runDaily() {
   const freshNews = db.news.filter((n) => !n.posted).slice(0, MAX_NEWS_PER_RUN);
   for (const n of freshNews) {
     try {
-      await publish(n.post_ru);
+      await gap();
+      await publish(n.post_ru, await resolveImage(n));
       n.posted = now;
       posted++;
       store.save(db);
@@ -176,6 +217,9 @@ if (mode === 'sources') {
   // Режим демона: ежедневный запуск по расписанию
   checkEnv();
   const hour = Math.min(23, Math.max(0, parseInt(process.env.POST_HOUR || '10', 10) || 10));
+  if (hour < WORK_START() || hour >= WORK_END()) {
+    console.warn(`Внимание: POST_HOUR=${hour} вне рабочих часов ${WORK_START()}–${WORK_END()} — посты будут откладываться. Поменяй POST_HOUR или WORK_START/WORK_END в .env.`);
+  }
   cron.schedule(`0 ${hour} * * *`, () => {
     runDaily().catch((e) => console.error('Ошибка ежедневного запуска:', e));
   }, { timezone: 'Europe/Madrid' });

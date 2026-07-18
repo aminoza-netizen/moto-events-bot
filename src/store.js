@@ -78,6 +78,7 @@ function addEvents(db, incoming) {
       city: ev.city || '',
       region: ev.region || '',
       url: ev.url || '',
+      image_url: ev.image_url || null,
       short_ru: ev.short_ru || '',
       announce_ru: ev.announce_ru || '',
       created_at: new Date().toISOString(),
@@ -99,6 +100,7 @@ function addNews(db, incoming) {
     db.news.push({
       title: n.title,
       url: n.url || '',
+      image_url: n.image_url || null,
       post_ru: n.post_ru,
       created_at: new Date().toISOString(),
       posted: null,

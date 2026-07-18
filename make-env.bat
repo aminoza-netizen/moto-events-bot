@@ -17,6 +17,9 @@ echo GROUP_ID=%GROUP%
 echo ANTHROPIC_API_KEY=%ANTHROPIC%
 echo CLAUDE_MODEL=claude-sonnet-5
 echo POST_HOUR=%HOUR%
+echo WORK_START=9
+echo WORK_END=21
+echo POST_INTERVAL_SEC=45
 ) > .env
 
 echo.
