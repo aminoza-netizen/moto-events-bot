@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T07:04:12.522Z",
+  "generated_at": "2026-07-19T14:06:35.713Z",
   "events": [
     {
       "id": "2311472045",
@@ -11,7 +11,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Баскский мото-слёт Soraluze Moto Topaketa"
+      "short_ru": "Баскский мото-слёт Soraluze Moto Topaketa",
+      "full_ru": "🏍️ <b>Soraluze Moto Topaketa 2026</b>\n\n18 июля 2026 в Соралусе (Гипускоа) пройдёт традиционная мотовстреча — общение, техника и баскский колорит.\n\n📍 <b>Локация:</b> Soraluze, Gipuzkoa"
     },
     {
       "id": "2ccc1aa96c",
@@ -23,7 +24,8 @@
       "venue": "",
       "url": "https://www.racing100.com/",
       "image_url": "https://www.racing100.com/wp-content/uploads/2026/01/tarjeta-regalo-r100-v2.jpg",
-      "short_ru": "Трек-день (rodada) в Честе сегодня, 19 июля"
+      "short_ru": "Трек-день (rodada) в Честе сегодня, 19 июля",
+      "full_ru": "🏎️ <b>Трек-день в Честе — уже сегодня!</b>\n\n19 июля Racing100 организует rodada на Circuit Ricardo Tormo — свободные заезды для разных уровней пилотажа.\n\nЧетыре группы по скорости: от новичков до тех, кто крутит из 1:45.\n\nЕсли готов рвануть на трек прямо сегодня — самое время."
     },
     {
       "id": "9f4a50250f",
@@ -35,7 +37,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "8-я годовщина мотоклуба Wild Horses RC в Ла-Фульола"
+      "short_ru": "8-я годовщина мотоклуба Wild Horses RC в Ла-Фульола",
+      "full_ru": "🎉 <b>VIII Aniversari Wild Horses RC</b>\n\n19 июля в Ла-Фульола (провинция Льейда, Каталония) отмечают восьмую годовщину мотоклуба Wild Horses RC. В программе — встреча байкеров, совместные покатушки и праздничная атмосфера для всех гостей.\n\n📍 <b>Локация:</b> La Fuliola, Lleida"
     },
     {
       "id": "acfdbc3141",
@@ -47,7 +50,8 @@
       "venue": "",
       "url": "https://www.concentracionesdemotos.com/concentraciones/",
       "image_url": null,
-      "short_ru": "Мото-слёт «Ruedas Raras» — три дня встреч, музыки и байкерской атмосферы"
+      "short_ru": "Мото-слёт «Ruedas Raras» — три дня встреч, музыки и байкерской атмосферы",
+      "full_ru": "🏍️ <b>XVI Concentración Ruedas Raras</b>\n\nС 24 по 26 июля 2026 в городе Торо (Самора) пройдёт традиционный мото-слёт «Колёса на любой вкус» — концерты, палаточный лагерь и общение байкеров со всей Испании.\n\n📍 <b>Локация:</b> Toro, Zamora"
     },
     {
       "id": "eb686683e1",
@@ -59,7 +63,8 @@
       "venue": "",
       "url": "https://www.concentracionesdemotos.com/galicia/",
       "image_url": null,
-      "short_ru": "Галисийский мото-слёт Boiromotos на три дня"
+      "short_ru": "Галисийский мото-слёт Boiromotos на три дня",
+      "full_ru": "🏍️ <b>Boiromotos 2026</b>\n\nС 24 по 26 июля 2026 в городе Бойро (Ла-Корунья) состоится ежегодный мото-слёт с концертами, площадками для отдыха и общением мотоциклистов Галисии.\n\n📍 <b>Локация:</b> Boiro, A Coruña"
     },
     {
       "id": "1b274ed114",
@@ -71,7 +76,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт в Харайс-де-ла-Вера, Касерес"
+      "short_ru": "Мото-слёт в Харайс-де-ла-Вера, Касерес",
+      "full_ru": "🏍️ <b>Concentración motera Jaraíz de la Vera 2026</b>\n\nС 24 по 26 июля в городе Харайс-де-ла-Вера (Касерес) пройдёт традиционный мото-слёт: лагерь для палаток, живая музыка и общение байкеров со всей Испании.\n\n📍 <b>Локация:</b> Jaraíz de la Vera, Cáceres"
     },
     {
       "id": "fc070d4c4a",
@@ -83,7 +89,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт «Ла Реконкиста» в Альмогере"
+      "short_ru": "Мото-слёт «Ла Реконкиста» в Альмогере",
+      "full_ru": "🏍️ <b>La Reconquista Motera 2026</b>\n\n25–26 июля 2026 в Альмогере (Гвадалахара) пройдёт мото-слёт «La Reconquista Motera» — два дня общения, музыки и совместных выездов.\n\n📍 <b>Локация:</b> Almoguera, Guadalajara"
     },
     {
       "id": "cb2e3d1b03",
@@ -95,7 +102,8 @@
       "venue": "",
       "url": "https://www.todocircuito.com/tandas",
       "image_url": null,
-      "short_ru": "Трек-день (тандас) в Монтмело — 26 июля, для всех уровней"
+      "short_ru": "Трек-день (тандас) в Монтмело — 26 июля, для всех уровней",
+      "full_ru": "🏍️ <b>Премиальные тандас в Монтмело</b>\n\n26 июля PhantomR Yamaha Riding School устраивает день заездов на Circuit de Barcelona-Catalunya (Монтмело).\n\nТандас и персональные курсы для любых уровней — от новичка до опытного гонщика.\n\nХороший повод выжать максимум из своего мотоцикла на одном из лучших треков Испании."
     },
     {
       "id": "8f2955982f",
@@ -107,7 +115,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классической техники (авто и мото) в Сагунто"
+      "short_ru": "Слёт классической техники (авто и мото) в Сагунто",
+      "full_ru": "🏍️🚗 <b>Concentración de Vehículos Clásicos Ciudad de Sagunto</b>\n\n26 июля 2026 в Сагунто (Валенсия) пройдёт слёт классических транспортных средств — ретро-мотоциклы и автомобили, выставка и общение любителей винтажной техники.\n\n📍 <b>Локация:</b> Sagunto, Valencia"
     },
     {
       "id": "1009f45f4c",
@@ -119,7 +128,8 @@
       "venue": "Circuito del Jarama",
       "url": "https://www.todocircuito.com/tandas",
       "image_url": null,
-      "short_ru": "Трек-дей (тандас) и курс пилотажа на трассе Харама от организатора Easyrace"
+      "short_ru": "Трек-дей (тандас) и курс пилотажа на трассе Харама от организатора Easyrace",
+      "full_ru": "🏁 <b>Тандас на Хараме</b>\n\n26 июля на легендарной трассе <b>Circuito del Jarama</b> под Мадридом пройдёт очередной день свободных заездов и курс пилотажа от Easyrace. Группы разбивают по уровню — можно и первый раз выйти на трек, и погонять по-серьёзному.\n\n📍 <b>Локация:</b> Circuito del Jarama, San Sebastián de los Reyes, Мадрид"
     },
     {
       "id": "feeac754bf",
@@ -131,7 +141,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Утренняя мотовстреча Egara 66 в Тарраса"
+      "short_ru": "Утренняя мотовстреча Egara 66 в Тарраса",
+      "full_ru": "☀️ <b>Matinal Egara 66</b>\n\n26 июля в Тарраса (провинция Барселона) пройдёт утренняя мотовстреча Egara 66 — традиционный формат для любителей позавтракать и пообщаться перед совместной поездкой.\n\n📍 <b>Локация:</b> Terrassa, Barcelona"
     },
     {
       "id": "0dcccb8eac",
@@ -143,7 +154,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мотофестиваль в Понтесесо, Ла-Корунья"
+      "short_ru": "Мотофестиваль в Понтесесо, Ла-Корунья",
+      "full_ru": "🏍️ <b>V Motofesta Ponteceso</b>\n\n31 июля – 1 августа в галисийском Понтесесо (провинция Ла-Корунья) состоится очередной мото-фестиваль с концертами и встречей байкеров.\n\n📍 <b>Локация:</b> Ponteceso, A Coruña"
     },
     {
       "id": "a391822b50",
@@ -155,7 +167,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Юбилейный мото-слёт в Каламонте, Бадахос"
+      "short_ru": "Юбилейный мото-слёт в Каламонте, Бадахос",
+      "full_ru": "🏍️ <b>XX Concentración motera Ciudad de Calamonte</b>\n\nС 31 июля по 2 августа в Каламонте (провинция Бадахос) пройдёт юбилейная, 20-я концентрация байкеров.\n\n📍 <b>Локация:</b> Calamonte, Badajoz"
     },
     {
       "id": "71ab14c629",
@@ -167,7 +180,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Трёхдневный мото-слёт в Льянесе"
+      "short_ru": "Трёхдневный мото-слёт в Льянесе",
+      "full_ru": "🏍️ <b>Concentración Motera de Llanes</b>\n\nС 1 по 3 августа 2026 в Льянесе (Астурия) пройдёт мото-слёт с музыкой, лагерем и совместными выездами по побережью.\n\n📍 <b>Локация:</b> Llanes, Asturias"
     },
     {
       "id": "889273512d",
@@ -179,7 +193,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классических авто и мото в долине Альто-Асон"
+      "short_ru": "Слёт классических авто и мото в долине Альто-Асон",
+      "full_ru": "🏍️🚗 <b>Concentración de Clásicos, Coches y Motos Alto Asón</b>\n\n1–2 августа 2026 в Рамалес-де-ла-Виктория (Кантабрия) пройдёт слёт классических автомобилей и мотоциклов с выставкой техники.\n\n📍 <b>Локация:</b> Ramales de la Victoria, Cantabria"
     },
     {
       "id": "b02db1c9a0",
@@ -191,7 +206,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотовстреча KDD To'Tieso в Торресилья-де-ла-Абадеса"
+      "short_ru": "Мотовстреча KDD To'Tieso в Торресилья-де-ла-Абадеса",
+      "full_ru": "🏍️ <b>XII KDD To'Tieso</b>\n\n1 августа в Торресилья-де-ла-Абадеса (провинция Вальядолид) состоится двенадцатая мотовстреча To'Tieso — традиционная кастильская квэдада с общением, едой и совместными покатушками.\n\n📍 <b>Локация:</b> Torrecilla de la Abadesa, Valladolid"
     },
     {
       "id": "19046b1f02",
@@ -203,7 +219,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классической техники (авто и мото) в Лас-Регерас"
+      "short_ru": "Слёт классической техники (авто и мото) в Лас-Регерас",
+      "full_ru": "🏍️🚗 <b>Concentración de Vehículos Clásicos Las Regueras</b>\n\n2 августа 2026 в Лас-Регерас (Астурия) пройдёт слёт классических транспортных средств — мотоциклы и автомобили разных эпох.\n\n📍 <b>Локация:</b> Las Regueras, Asturias"
     },
     {
       "id": "3ceed4ae41",
@@ -215,7 +232,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Утренняя мотовстреча в Хативе"
+      "short_ru": "Утренняя мотовстреча в Хативе",
+      "full_ru": "🌅 <b>XVIII Matinal motera Xátiva</b>\n\n2 августа в Хативе (провинция Валенсия) пройдёт восемнадцатая утренняя мотовстреча — завтрак, общение байкеров и небольшая совместная покатушка по округе.\n\n📍 <b>Локация:</b> Xàtiva, Valencia"
     },
     {
       "id": "d17e569b98",
@@ -227,7 +245,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотозавтрак в Форментера-дель-Сегура"
+      "short_ru": "Мотозавтрак в Форментера-дель-Сегура",
+      "full_ru": "🍽️ <b>XXII Motoalmuerzo Formentera del Segura</b>\n\n2 августа в Форментера-дель-Сегура (провинция Аликанте) пройдёт двадцать второй мотозавтрак — традиционная встреча местного байкерского сообщества с угощением и общением.\n\n📍 <b>Локация:</b> Formentera del Segura, Alicante"
     },
     {
       "id": "2dbc5a02d7",
@@ -239,7 +258,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/disciplinas/concentraciones",
       "image_url": "https://www.eventomotor.com/brand/eventomotor-app-icon-1024.png",
-      "short_ru": "Мото-слёт в Пеньисколе (Кастельон), 7–10 августа"
+      "short_ru": "Мото-слёт в Пеньисколе (Кастельон), 7–10 августа",
+      "full_ru": "🏍️ <b>Мото-слёт в Пеньисколе</b>\n\nС 7 по 10 августа курортный городок Пеньискола (Кастельон) традиционно принимает байкеров со всей округи.\n\nЧетыре дня движухи: стоянка мотоциклов у моря, общение, музыка и вечерние покатушки по побережью.\n\nДля тех, кто в Комунидад Валенсиана — отличный повод собраться компанией и рвануть на выходные к морю."
     },
     {
       "id": "f62028b021",
@@ -251,7 +271,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт у устья реки Ноя"
+      "short_ru": "Мото-слёт у устья реки Ноя",
+      "full_ru": "🏍️ <b>XVII Concentración Motera Ría de Noia</b>\n\nС 7 по 9 августа 2026 в городе Ноя (Ла-Корунья) пройдёт мото-слёт на берегу залива — концерты, лагерь и совместные маршруты.\n\n📍 <b>Локация:</b> Noia, A Coruña"
     },
     {
       "id": "b5b68e5778",
@@ -263,7 +284,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мотослёт в Хинсо-де-Лимия (Оренсе, Галисия)"
+      "short_ru": "Мотослёт в Хинсо-де-Лимия (Оренсе, Галисия)",
+      "full_ru": "🏍️ <b>Xuntanza Moteira Xinzo de Limia 2026</b>\n\n7 августа в городке Хинсо-де-Лимия (провинция Оренсе, Галисия) пройдёт традиционная мотовстреча. Байкеров ждут совместный выезд, живое общение и атмосфера галисийского гостеприимства.\n\n📍 <b>Локация:</b> Xinzo de Limia, Ourense"
     },
     {
       "id": "520ac77fb4",
@@ -275,7 +297,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт «La Pellejo» в Рибафораде, Наварра"
+      "short_ru": "Мото-слёт «La Pellejo» в Рибафораде, Наварра",
+      "full_ru": "🏍️ <b>XXVII Concentración de motos La Pellejo</b>\n\nС 7 по 9 августа в Рибафораде (Наварра) состоится 27-й традиционный мото-слёт с лагерем и вечерними концертами.\n\n📍 <b>Локация:</b> Ribaforada, Navarra"
     },
     {
       "id": "0d99441922",
@@ -287,7 +310,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мотовстреча в горном селении Топарес"
+      "short_ru": "Мотовстреча в горном селении Топарес",
+      "full_ru": "🏍️ <b>XVI Encuentro Motero Los Otros Topares</b>\n\n8 августа 2026 в Топаресе (Альмерия) состоится мотовстреча в живописном горном селении — общение и совместные выезды по региону.\n\n📍 <b>Локация:</b> Topares, Almería"
     },
     {
       "id": "865c9937ad",
@@ -299,7 +323,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Гоночный уик-энд Гран-при в Ла-Баньесе, Леон"
+      "short_ru": "Гоночный уик-энд Гран-при в Ла-Баньесе, Леон",
+      "full_ru": "🏁 <b>G.P. Velocidad «Ciudad de La Bañeza» 2026</b>\n\n8–9 августа в Ла-Баньесе (Леон) пройдёт традиционный уличный гоночный уик-энд — зрелищные заезды и байк-парад по историческому центру города.\n\n📍 <b>Локация:</b> La Bañeza, León"
     },
     {
       "id": "6ebc52db34",
@@ -311,7 +336,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-встреча в Риолобосе, Касерес"
+      "short_ru": "Мото-встреча в Риолобосе, Касерес",
+      "full_ru": "🏍️ <b>XI Arrejuntamiento Riolobos</b>\n\n8–9 августа в Риолобосе (Касерес) соберутся байкеры на очередную дружескую встречу с музыкой и лагерем.\n\n📍 <b>Локация:</b> Riolobos, Cáceres"
     },
     {
       "id": "9fe8be97df",
@@ -323,7 +349,8 @@
       "venue": "",
       "url": "https://www.concentracionesdemotos.com/castilla-la-mancha/",
       "image_url": null,
-      "short_ru": "Мото-завтрак в рамках ярмарки Mencatur"
+      "short_ru": "Мото-завтрак в рамках ярмарки Mencatur",
+      "full_ru": "🍳 <b>Moto Almuerzo Feria Mencatur</b>\n\n9 августа 2026 в Вильянуэва-де-ла-Фуэнте (Сьюдад-Реаль) пройдёт мотозавтрак в рамках местной ярмарки Mencatur — совместный выезд, угощение и общение байкеров.\n\n📍 <b>Локация:</b> Villanueva de la Fuente, Ciudad Real"
     },
     {
       "id": "7e9f4855bb",
@@ -335,7 +362,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Ежегодный слёт классической техники в долине Торансо"
+      "short_ru": "Ежегодный слёт классической техники в долине Торансо",
+      "full_ru": "🏍️🚗 <b>Concentración Anual de Clásicos Toranzo</b>\n\n9 августа 2026 в Пуэнте-Вьесго (Кантабрия) пройдёт ежегодный слёт классических транспортных средств, включая мотоциклы.\n\n📍 <b>Локация:</b> Puente Viesgo, Cantabria"
     },
     {
       "id": "89b15d1abf",
@@ -347,7 +375,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотовстреча в Уэтор-Веге"
+      "short_ru": "Мотовстреча в Уэтор-Веге",
+      "full_ru": "🏍️ <b>XIII Reunión motera Huétor Vega 2026</b>\n\n9 августа в Уэтор-Веге (провинция Гранада) состоится тринадцатая ежегодная мотовстреча — байкеры соберутся на совместный отдых, музыку и общение.\n\n📍 <b>Локация:</b> Huétor Vega, Granada"
     },
     {
       "id": "8eccc6499a",
@@ -359,7 +388,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Утренняя мотовстреча в Бельпуч"
+      "short_ru": "Утренняя мотовстреча в Бельпуч",
+      "full_ru": "🌄 <b>VII Matinal motera Bellpuig</b>\n\n9 августа в Бельпуч (провинция Льейда) пройдёт седьмая утренняя мотовстреча — завтрак и общение байкеров перед совместным выездом.\n\n📍 <b>Локация:</b> Bellpuig, Lleida"
     },
     {
       "id": "cb653906fe",
@@ -371,7 +401,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотозавтрак в Сеути"
+      "short_ru": "Мотозавтрак в Сеути",
+      "full_ru": "🍴 <b>XI Almuerzo motero Ceutí</b>\n\n9 августа в Сеути (Мурсия) пройдёт одиннадцатый мотозавтрак — традиционная встреча местных байкеров с едой и совместным общением.\n\n📍 <b>Локация:</b> Ceutí, Murcia"
     },
     {
       "id": "9747d87f64",
@@ -383,7 +414,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Байкерская неделя и мото-жаркое в Вильянуэва-де-Оскос"
+      "short_ru": "Байкерская неделя и мото-жаркое в Вильянуэва-де-Оскос",
+      "full_ru": "🏍️🔥 <b>Semana Grande Biker Friendly y III Motoasado BF</b>\n\nС 12 по 16 августа 2026 в Вильянуэва-де-Оскос (Астурия) пройдёт байкерская неделя с общим мото-жарким — насыщенная программа для мотопутешественников.\n\n📍 <b>Локация:</b> Villanueva de Oscos, Asturias"
     },
     {
       "id": "575962d86e",
@@ -395,7 +427,8 @@
       "venue": "",
       "url": "https://www.concentracionesdemotos.com/galicia/",
       "image_url": null,
-      "short_ru": "Мототуристический слёт в Ксинсо-де-Лимия"
+      "short_ru": "Мототуристический слёт в Ксинсо-де-Лимия",
+      "full_ru": "🏍️ <b>3ª Concentración Mototurística</b>\n\n14 августа 2026 в городе Ксинсо-де-Лимия (Оренсе) состоится третья мототуристическая концентрация — совместные маршруты и встреча мотоциклистов региона.\n\n📍 <b>Локация:</b> Xinzo de Limia, Ourense"
     },
     {
       "id": "255e6d3a0f",
@@ -407,7 +440,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт на побережье Тарраконы в Камбрильсе"
+      "short_ru": "Мото-слёт на побережье Тарраконы в Камбрильсе",
+      "full_ru": "🏍️ <b>Concentración Motera de Cambrils</b>\n\nС 14 по 17 августа 2026 в Камбрильсе (Таррагона) пройдёт мото-слёт на побережье — музыка, лагерь и общение байкеров.\n\n📍 <b>Локация:</b> Cambrils, Tarragona"
     },
     {
       "id": "4bfde0921b",
@@ -419,7 +453,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт «Пираты Адры» на юге Андалусии"
+      "short_ru": "Мото-слёт «Пираты Адры» на юге Андалусии",
+      "full_ru": "🏴‍☠️🏍️ <b>Concentración Motera Piratas de Adra</b>\n\nС 14 по 16 августа 2026 в Адре (Альмерия) пройдёт мото-слёт «Piratas de Adra» — концерты, лагерь и общение байкеров у моря.\n\n📍 <b>Локация:</b> Adra, Almería"
     },
     {
       "id": "6163287395",
@@ -431,7 +466,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мототуристическая концентрация в Синсо-де-Лимия, Оренсе"
+      "short_ru": "Мототуристическая концентрация в Синсо-де-Лимия, Оренсе",
+      "full_ru": "🏍️ <b>III Concentración mototurística Xinzo de Limia</b>\n\n14–15 августа в Синсо-де-Лимия (Оренсе) пройдёт мототуристическая концентрация с маршрутами по Галисии.\n\n📍 <b>Локация:</b> Xinzo de Limia, Ourense"
     },
     {
       "id": "d5fa87974d",
@@ -443,7 +479,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт в Медина-дель-Кампо"
+      "short_ru": "Мото-слёт в Медина-дель-Кампо",
+      "full_ru": "🏍️ <b>Concentración Motera Medina del Campo</b>\n\nС 15 по 18 августа 2026 в Медина-дель-Кампо (Вальядолид) пройдёт мото-слёт с насыщенной программой и общением мотоциклистов Кастилии.\n\n📍 <b>Локация:</b> Medina del Campo, Valladolid"
     },
     {
       "id": "02d3fed13e",
@@ -455,7 +492,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Юбилейный мото-слёт в Аловере"
+      "short_ru": "Юбилейный мото-слёт в Аловере",
+      "full_ru": "🏍️ <b>X Concentración Motera Alovera</b>\n\n15 августа 2026 в Аловере (Гвадалахара) пройдёт десятый юбилейный мото-слёт — праздник для местного байкерского сообщества.\n\n📍 <b>Локация:</b> Alovera, Guadalajara"
     },
     {
       "id": "31fd1aa891",
@@ -467,7 +505,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт «Арболеанос по миру» в Андалусии"
+      "short_ru": "Мото-слёт «Арболеанос по миру» в Андалусии",
+      "full_ru": "🏍️ <b>Concentración Motera Arboleanos por el Mundo</b>\n\n15–16 августа 2026 в Арболеасе (Альмерия) пройдёт мото-слёт «Arboleanos por el Mundo» — встреча и совместные выезды местных байкеров.\n\n📍 <b>Локация:</b> Arboleas, Almería"
     },
     {
       "id": "a162ba51c3",
@@ -479,7 +518,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Ночной мотопробег Los Tusos в Уэльве"
+      "short_ru": "Ночной мотопробег Los Tusos в Уэльве",
+      "full_ru": "🌙 <b>VI Nocturna Los Tusos</b>\n\n15 августа в Уэльве пройдёт шестой ночной мотопробег Los Tusos — вечерний выезд байкеров по городу и окрестностям с последующим общением.\n\n📍 <b>Локация:</b> Huelva"
     },
     {
       "id": "5f7d47a9c7",
@@ -491,7 +531,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Первая встреча классической техники в Саяго"
+      "short_ru": "Первая встреча классической техники в Саяго",
+      "full_ru": "🏍️🚗 <b>Quedada de Vehículos Clásicos de Sayago</b>\n\n16 августа 2026 в Бермильо-де-Саяго (Самора) состоится первая встреча классических транспортных средств — авто и мотоциклы прошлых лет.\n\n📍 <b>Локация:</b> Bermillo de Sayago, Zamora"
     },
     {
       "id": "d529d9e87b",
@@ -503,7 +544,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классических мотоциклов и автомобилей в Алькубласе"
+      "short_ru": "Слёт классических мотоциклов и автомобилей в Алькубласе",
+      "full_ru": "🏍️🚗 <b>Concentración de Motos y Coches Clásicos Alcublas</b>\n\n16 августа 2026 в Алькубласе (Валенсия) пройдёт слёт классических мотоциклов и автомобилей — выставка техники и общение владельцев.\n\n📍 <b>Локация:</b> Alcublas, Valencia"
     },
     {
       "id": "e8f6601da9",
@@ -515,7 +557,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классических авто и мото «Эль Регато» в Баракальдо"
+      "short_ru": "Слёт классических авто и мото «Эль Регато» в Баракальдо",
+      "full_ru": "🏍️🚗 <b>Concentración de Clásicos, Coches y Motos El Regato</b>\n\n16 августа 2026 в Баракальдо (Бискайя) пройдёт слёт классических автомобилей и мотоциклов «El Regato».\n\n📍 <b>Локация:</b> Barakaldo, Bizkaia"
     },
     {
       "id": "64f202b419",
@@ -527,7 +570,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Ралли Harley-Davidson Club Испания «Galerna» в Кантабрии"
+      "short_ru": "Ралли Harley-Davidson Club Испания «Galerna» в Кантабрии",
+      "full_ru": "🏍️ <b>Rally HDC España, Galerna 2026</b>\n\nС 20 по 23 августа Кабесон-де-ла-Саль (Кантабрия) примет национальный ралли Harley-Davidson Club España — большой слёт с маршрутами по северу страны.\n\n📍 <b>Локация:</b> Cabezón de la Sal, Cantabria"
     },
     {
       "id": "45c812eacb",
@@ -539,7 +583,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт в приграничном Ондаррибиа"
+      "short_ru": "Мото-слёт в приграничном Ондаррибиа",
+      "full_ru": "🏍️ <b>Concentración de Hondarribia</b>\n\nС 21 по 23 августа 2026 в Ондаррибиа (Гипускоа) пройдёт мото-слёт у границы с Францией — общение и совместные выезды.\n\n📍 <b>Локация:</b> Hondarribia, Gipuzkoa"
     },
     {
       "id": "3875b079fb",
@@ -551,7 +596,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Первый мото-слёт в Бехаре"
+      "short_ru": "Первый мото-слёт в Бехаре",
+      "full_ru": "🏍️ <b>I Concentración Motos por Béjar</b>\n\nС 21 по 23 августа 2026 в Бехаре (Саламанка) пройдёт первый мото-слёт — старт новой традиции для местных байкеров.\n\n📍 <b>Локация:</b> Béjar, Salamanca"
     },
     {
       "id": "f0ac6f81ff",
@@ -563,7 +609,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Кастом-слёт в Сокуэльямосе, Сьюдад-Реаль"
+      "short_ru": "Кастом-слёт в Сокуэльямосе, Сьюдад-Реаль",
+      "full_ru": "🏍️ <b>XXVIII Concentración Mancha Custom Club</b>\n\n21–23 августа в Сокуэльямосе (Сьюдад-Реаль) пройдёт кастом-слёт от Mancha Custom Club — выставка кастомных байков и вечерние концерты.\n\n📍 <b>Локация:</b> Socuéllamos, Ciudad Real"
     },
     {
       "id": "8e12612f9d",
@@ -575,7 +622,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Второй байкерский слёт в Рабаде"
+      "short_ru": "Второй байкерский слёт в Рабаде",
+      "full_ru": "🏍️ <b>Rábade Biker's II</b>\n\n22–23 августа 2026 в Рабаде (Луго) пройдёт второй байкерский слёт — концерты, лагерь и совместные маршруты по Галисии.\n\n📍 <b>Локация:</b> Rábade, Lugo"
     },
     {
       "id": "489fc92e02",
@@ -587,7 +635,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мотомарафон «от рассвета до заката» в Хихоне"
+      "short_ru": "Мотомарафон «от рассвета до заката» в Хихоне",
+      "full_ru": "🏍️☀️ <b>Sun To Sun Asturias — Gijón</b>\n\n22 августа 2026 в Хихоне (Астурия) пройдёт мотомарафон «Sun to Sun» — суточный заезд для проверки выносливости и духа товарищества.\n\n📍 <b>Локация:</b> Gijón, Asturias"
     },
     {
       "id": "24c45c902f",
@@ -599,7 +648,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классических мотоциклов «Motoabuelada»"
+      "short_ru": "Слёт классических мотоциклов «Motoabuelada»",
+      "full_ru": "🏍️ <b>XIX Motoabuelada</b>\n\n22–23 августа 2026 в Кастрильо-де-ла-Вега (Бургос) пройдёт слёт классических мотоциклов «Motoabuelada» — выставка старой техники и встреча коллекционеров.\n\n📍 <b>Локация:</b> Castrillo de la Vega, Burgos"
     },
     {
       "id": "ebb2b9449c",
@@ -611,7 +661,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотовстреча в Альфаррасе и округе"
+      "short_ru": "Мотовстреча в Альфаррасе и округе",
+      "full_ru": "🏍️ <b>V Trobada Motards Alfarrás i Comarca</b>\n\n23 августа в Альфаррасе (провинция Льейда) пройдёт пятая мотовстреча района — байкеры соберутся на совместный отдых и общение.\n\n📍 <b>Локация:</b> Alfarràs, Lleida"
     },
     {
       "id": "bc39bff2c9",
@@ -623,7 +674,8 @@
       "venue": "",
       "url": "https://www.concentracionesdemotos.com/concentraciones/",
       "image_url": null,
-      "short_ru": "Мотовыезд Cuenca Ride по красивым дорогам провинции"
+      "short_ru": "Мотовыезд Cuenca Ride по красивым дорогам провинции",
+      "full_ru": "🏍️ <b>Cuenca Ride</b>\n\n28 августа 2026 в Куэнке пройдёт мотособытие Cuenca Ride — совместный заезд по живописным дорогам провинции с финальной встречей участников.\n\n📍 <b>Локация:</b> Cuenca, Cuenca"
     },
     {
       "id": "50a7b7318e",
@@ -635,7 +687,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-маршрут «Bizkaia Rider» по Бискайе"
+      "short_ru": "Мото-маршрут «Bizkaia Rider» по Бискайе",
+      "full_ru": "🏍️ <b>Bizkaia Rider 2026</b>\n\n28–29 августа 2026 в Дуранго (Бискайя) пройдёт мото-маршрут «Bizkaia Rider» — совместные поездки по живописным дорогам провинции.\n\n📍 <b>Локация:</b> Durango, Bizkaia"
     },
     {
       "id": "2fb39741f5",
@@ -647,7 +700,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт в Юнкосе, Толедо"
+      "short_ru": "Мото-слёт в Юнкосе, Толедо",
+      "full_ru": "🏍️ <b>XIV Concentración motera Yuncos</b>\n\n28–29 августа в Юнкосе (Толедо) пройдёт очередной мото-слёт с концертами и общим лагерем.\n\n📍 <b>Локация:</b> Yuncos, Toledo"
     },
     {
       "id": "e4ba92dac9",
@@ -659,7 +713,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-встреча в Альдеасеке-де-ла-Армунья, Саламанка"
+      "short_ru": "Мото-встреча в Альдеасеке-де-ла-Армунья, Саламанка",
+      "full_ru": "🏍️ <b>X Quedada motera Aldeaseca de la Armuña</b>\n\n28–29 августа в Альдеасеке-де-ла-Армунья (Саламанка) состоится юбилейная, 10-я мото-встреча.\n\n📍 <b>Локация:</b> Aldeaseca de la Armuña, Salamanca"
     },
     {
       "id": "39ad47c6cd",
@@ -671,7 +726,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Национальный мото-слёт в Монтальбане, Теруэль"
+      "short_ru": "Национальный мото-слёт в Монтальбане, Теруэль",
+      "full_ru": "🏍️ <b>XXIX Concentración nacional motera Villa de Montalbán</b>\n\nС 28 по 30 августа Монтальбан (Теруэль) примет большую национальную концентрацию мотоциклистов с концертами и мото-лагерем.\n\n📍 <b>Локация:</b> Montalbán, Teruel"
     },
     {
       "id": "a449978af8",
@@ -683,7 +739,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Первая мототуристическая концентрация в Бетете, Куэнка"
+      "short_ru": "Первая мототуристическая концентрация в Бетете, Куэнка",
+      "full_ru": "🏍️ <b>I Concentración mototurística Demonios Lokos</b>\n\n28–30 августа в Бетете (Куэнка) пройдёт первая мототуристическая концентрация клуба Demonios Lokos.\n\n📍 <b>Локация:</b> Beteta, Cuenca"
     },
     {
       "id": "f0f1d68618",
@@ -695,7 +752,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-встреча «Город виадуков» в Редонделе"
+      "short_ru": "Мото-встреча «Город виадуков» в Редонделе",
+      "full_ru": "🏍️ <b>Xuntanza Motera Vila dos Viaductos</b>\n\n29 августа 2026 в Редонделе (Понтеведра) пройдёт мото-встреча «Город виадуков» — двенадцатое издание галисийского слёта.\n\n📍 <b>Локация:</b> Redondela, Pontevedra"
     },
     {
       "id": "fcb39013f1",
@@ -707,7 +765,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт «Jabatos Bravíos» в Луго"
+      "short_ru": "Мото-слёт «Jabatos Bravíos» в Луго",
+      "full_ru": "🏍️ <b>II Concentración Jabatos Bravíos</b>\n\n29–30 августа в Луго пройдёт вторая концентрация клуба Jabatos Bravíos — встреча байкеров с музыкой и лагерем.\n\n📍 <b>Локация:</b> Lugo, Lugo"
     },
     {
       "id": "a6dfebb65f",
@@ -719,7 +778,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотозавтрак в Плиего"
+      "short_ru": "Мотозавтрак в Плиего",
+      "full_ru": "🍽️ <b>XXXIII Almuerzo motero Pliego</b>\n\n30 августа в Плиего (Мурсия) пройдёт тридцать третий традиционный мотозавтрак — давняя встреча местного байкерского сообщества.\n\n📍 <b>Локация:</b> Pliego, Murcia"
     },
     {
       "id": "02191d001a",
@@ -731,7 +791,8 @@
       "venue": "Circuito del Jarama",
       "url": "https://www.todocircuito.com/tandas",
       "image_url": null,
-      "short_ru": "Трек-дей (тандас) и курс пилотажа на трассе Харама от организатора Easyrace"
+      "short_ru": "Трек-дей (тандас) и курс пилотажа на трассе Харама от организатора Easyrace",
+      "full_ru": "🏁 <b>Тандас на Хараме</b>\n\n4 сентября организатор Easyrace снова приглашает на трассу <b>Circuito del Jarama</b> под Мадридом: свободные заезды по группам и курс пилотажа для разных уровней подготовки.\n\n📍 <b>Локация:</b> Circuito del Jarama, San Sebastián de los Reyes, Мадрид"
     },
     {
       "id": "9803767759",
@@ -743,7 +804,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Слёт мотоклуба Caimanes в Ла-Робле, Леон"
+      "short_ru": "Слёт мотоклуба Caimanes в Ла-Робле, Леон",
+      "full_ru": "🏍️ <b>Concentración motoclub Caimanes</b>\n\nС 4 по 6 сентября в Ла-Робле (Леон) пройдёт слёт мотоклуба Caimanes — три дня встреч, музыки и мото-лагеря.\n\n📍 <b>Локация:</b> La Robla, León"
     },
     {
       "id": "2e444d311d",
@@ -755,7 +817,8 @@
       "venue": "",
       "url": "https://www.circuitricardotormo.com/eventos/",
       "image_url": null,
-      "short_ru": "Гонки MotoJunior (антесала MotoGP) в Честе — 5-6 сентября"
+      "short_ru": "Гонки MotoJunior (антесала MotoGP) в Честе — 5-6 сентября",
+      "full_ru": "🏁 <b>MotoJunior в Честе</b>\n\n5–6 сентября на Circuit Ricardo Tormo пройдёт пятый этап MotoJunior — «младшей лиги» перед MotoGP.\n\nЮные пилоты рвутся в звёзды мирового мотоспорта — отличный шанс увидеть будущих чемпионов вживую и недорого.\n\nВаленсия, для всех, кто любит гоночный движ по соседству."
     },
     {
       "id": "58b67e918f",
@@ -767,7 +830,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт в столице провинции Гвадалахара"
+      "short_ru": "Мото-слёт в столице провинции Гвадалахара",
+      "full_ru": "🏍️ <b>Concentración Motera Guadalajara</b>\n\n5–6 сентября 2026 в Гвадалахаре пройдёт мото-слёт с музыкальной программой и совместными выездами.\n\n📍 <b>Локация:</b> Guadalajara, Guadalajara"
     },
     {
       "id": "187129f7cd",
@@ -779,7 +843,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-встреча клуба Lechubikers под Мадридом"
+      "short_ru": "Мото-встреча клуба Lechubikers под Мадридом",
+      "full_ru": "🏍️ <b>Lechubikers 12+1 2026</b>\n\n5 сентября 2026 в Лоечесе (Мадрид) пройдёт встреча мотоклуба Lechubikers — тринадцатое издание с музыкой и общением.\n\n📍 <b>Локация:</b> Loeches, Madrid"
     },
     {
       "id": "65bfa5358c",
@@ -791,7 +856,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Второй мото-слёт в Кампос-дель-Рио"
+      "short_ru": "Второй мото-слёт в Кампос-дель-Рио",
+      "full_ru": "🏍️ <b>2.º Evento Motero Campos del Río</b>\n\n5 сентября 2026 в Кампос-дель-Рио (Мурсия) пройдёт второй мотослёт — общение мотоциклистов региона и совместные выезды.\n\n📍 <b>Локация:</b> Campos del Río, Murcia"
     },
     {
       "id": "97a42db9d9",
@@ -803,7 +869,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "17-я годовщина мотоклуба Sleepwalkers"
+      "short_ru": "17-я годовщина мотоклуба Sleepwalkers",
+      "full_ru": "🎉 <b>XVII Aniversario Sleepwalkers</b>\n\n5 сентября в Сальенте (провинция Барселона) отмечают семнадцатую годовщину мотоклуба Sleepwalkers — праздник с покатушками, музыкой и встречей байкеров со всей округи.\n\n📍 <b>Локация:</b> Sallent, Barcelona"
     },
     {
       "id": "656f8218af",
@@ -815,7 +882,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "34-я годовщина мотоклуба Gremlin's в Мотриле, Гранада"
+      "short_ru": "34-я годовщина мотоклуба Gremlin's в Мотриле, Гранада",
+      "full_ru": "🏍️ <b>XXXIV Aniversario Gremlin´s Motril</b>\n\n5–6 сентября в Мотриле (Гранада) отпразднуют 34-ю годовщину мотоклуба Gremlin's — концерты и большой мото-парад.\n\n📍 <b>Локация:</b> Motril, Granada"
     },
     {
       "id": "cd3b345b6f",
@@ -827,7 +895,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт в Байлене, Хаэн"
+      "short_ru": "Мото-слёт в Байлене, Хаэн",
+      "full_ru": "🏍️ <b>XV Concentración motera Ciudad de Bailén</b>\n\n5–6 сентября в Байлене (Хаэн) состоится 15-я городская концентрация мотоциклистов.\n\n📍 <b>Локация:</b> Bailén, Jaén"
     },
     {
       "id": "fe758e98ea",
@@ -839,7 +908,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мотозавтрак «Los Tárragas» в Сан-Педро-дель-Пинатар"
+      "short_ru": "Мотозавтрак «Los Tárragas» в Сан-Педро-дель-Пинатар",
+      "full_ru": "🍳🏍️ <b>XVII Almuerzo Motero Los Tárragas</b>\n\n6 сентября 2026 в Сан-Педро-дель-Пинатар (Мурсия) пройдёт традиционный мотозавтрак «Los Tárragas» — семнадцатое издание.\n\n📍 <b>Локация:</b> San Pedro del Pinatar, Murcia"
     },
     {
       "id": "77dc5a2ef7",
@@ -851,7 +921,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Байкерская вечеринка в аргентинском стиле в Бельвеи"
+      "short_ru": "Байкерская вечеринка в аргентинском стиле в Бельвеи",
+      "full_ru": "🏍️🎉 <b>Fiesta Argentina Cantera Biker Bellvei</b>\n\n6 сентября 2026 в Бельвеи (Таррагона) пройдёт байкерская вечеринка в аргентинском стиле с музыкой и общением.\n\n📍 <b>Локация:</b> Bellvei, Tarragona"
     },
     {
       "id": "8b1ce6f5f4",
@@ -863,7 +934,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотовстреча в Сидамоне"
+      "short_ru": "Мотовстреча в Сидамоне",
+      "full_ru": "🏍️ <b>III Trobada motera Sidamon</b>\n\n6 сентября в Сидамоне (провинция Льейда) пройдёт третья мотовстреча — байкеры соберутся на общение, еду и совместный выезд.\n\n📍 <b>Локация:</b> Sidamon, Lleida"
     },
     {
       "id": "dfaeb37d25",
@@ -875,7 +947,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Кастом-слёт Big Twin — сорок первое издание"
+      "short_ru": "Кастом-слёт Big Twin — сорок первое издание",
+      "full_ru": "🏍️ <b>Big Twin XLI</b>\n\nС 10 по 13 сентября 2026 в Кастельоне пройдёт культовый кастом-слёт Big Twin — сорок первое издание встречи Harley и кастом-мотоциклов.\n\n📍 <b>Локация:</b> Castellón, Castellón"
     },
     {
       "id": "17c6e7f1b8",
@@ -887,7 +960,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт в Сеуте"
+      "short_ru": "Мото-слёт в Сеуте",
+      "full_ru": "🏍️ <b>Concentración Motera Ciudad de Ceuta</b>\n\nС 11 по 13 сентября 2026 в Сеуте пройдёт пятый мото-слёт — встреча байкеров на границе двух континентов.\n\n📍 <b>Локация:</b> Ceuta"
     },
     {
       "id": "d7011bdf9b",
@@ -899,7 +973,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт пеньи Basurde в Сантестебане, Наварра"
+      "short_ru": "Мото-слёт пеньи Basurde в Сантестебане, Наварра",
+      "full_ru": "🏍️ <b>XI Concentración Basurde peña motera</b>\n\nС 11 по 13 сентября в Сантестебане (Наварра) пройдёт 11-я концентрация мото-пеньи Basurde.\n\n📍 <b>Локация:</b> Santesteban, Navarra"
     },
     {
       "id": "d9d9680730",
@@ -911,7 +986,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт «Descubridores» в Уэльве"
+      "short_ru": "Мото-слёт «Descubridores» в Уэльве",
+      "full_ru": "🏍️ <b>V Concentración Descubridores Huelva</b>\n\n11–13 сентября в Уэльве пройдёт 5-я концентрация клуба Descubridores.\n\n📍 <b>Локация:</b> Huelva, Huelva"
     },
     {
       "id": "eae98641eb",
@@ -923,7 +999,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Международная концентрация Rías Baixas в Санхенхо"
+      "short_ru": "Международная концентрация Rías Baixas в Санхенхо",
+      "full_ru": "🏍️ <b>XXXVIII Concentración internacional Rías Baixas Sanxenxo</b>\n\nС 11 по 13 сентября Санхенхо (Понтеведра) вновь примет одну из старейших международных концентраций Галисии — 38-й выпуск Rías Baixas.\n\n📍 <b>Локация:</b> Sanxenxo, Pontevedra"
     },
     {
       "id": "4eda15f091",
@@ -935,7 +1012,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мототуристическая концентрация в Мериде"
+      "short_ru": "Мототуристическая концентрация в Мериде",
+      "full_ru": "🏍️ <b>II Concentración mototurística Ciudad de Mérida</b>\n\n11–13 сентября в Мериде пройдёт вторая мототуристическая концентрация с маршрутами по Эстремадуре.\n\n📍 <b>Локация:</b> Mérida"
     },
     {
       "id": "d41da463b3",
@@ -947,7 +1025,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Третий мотозавтрак в Вильярехо-де-Сальванес"
+      "short_ru": "Третий мотозавтрак в Вильярехо-де-Сальванес",
+      "full_ru": "🍳🏍️ <b>III Motoalmuerzo Villarejo de Salvanes</b>\n\n12 сентября 2026 в Вильярехо-де-Сальванес (Мадрид) пройдёт мотозавтрак — совместный выезд и общение мотоциклистов.\n\n📍 <b>Локация:</b> Villarejo de Salvanes, Madrid"
     },
     {
       "id": "fdfee3606c",
@@ -959,7 +1038,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт в Поркуне"
+      "short_ru": "Мото-слёт в Поркуне",
+      "full_ru": "🏍️ <b>XIII Concentración Motera Porcuna</b>\n\n12–13 сентября 2026 в Поркуне (Хаэн) пройдёт мото-слёт — тринадцатое издание встречи байкеров Андалусии.\n\n📍 <b>Локация:</b> Porcuna, Jaén"
     },
     {
       "id": "2de5ad0676",
@@ -971,7 +1051,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классической техники (авто и мото) в Лейоа"
+      "short_ru": "Слёт классической техники (авто и мото) в Лейоа",
+      "full_ru": "🏍️🚗 <b>Concentración de Vehículos Clásicos Udondo</b>\n\n12 сентября 2026 в Лейоа (Бискайя) пройдёт слёт классических транспортных средств «Udondo» — четырнадцатое издание.\n\n📍 <b>Локация:</b> Leioa, Bizkaia"
     },
     {
       "id": "e2de6e3545",
@@ -983,7 +1064,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотослёт Los Cacharrejos в Вильялуэнга-де-ла-Сагра"
+      "short_ru": "Мотослёт Los Cacharrejos в Вильялуэнга-де-ла-Сагра",
+      "full_ru": "🏍️ <b>III Concentración motera Los Cacharrejos</b>\n\n12 сентября в Вильялуэнга-де-ла-Сагра (провинция Толедо) пройдёт третий мотослёт Los Cacharrejos — встреча байкеров с музыкой, едой и общением.\n\n📍 <b>Локация:</b> Villaluenga de la Sagra, Toledo"
     },
     {
       "id": "12acc38490",
@@ -995,7 +1077,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотопробег Ruta del Oso в Осуне"
+      "short_ru": "Мотопробег Ruta del Oso в Осуне",
+      "full_ru": "🐻 <b>Ruta del Oso 2026</b>\n\n12 сентября в Осуне (провинция Севилья) пройдёт мотопробег Ruta del Oso — совместный выезд байкеров с остановками и общением по пути.\n\n📍 <b>Локация:</b> Osuna, Sevilla"
     },
     {
       "id": "d2fc35ec15",
@@ -1007,7 +1090,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Юбилейный мото-слёт «Pichas Locas» в Нуэва-Картейе, Кордова"
+      "short_ru": "Юбилейный мото-слёт «Pichas Locas» в Нуэва-Картейе, Кордова",
+      "full_ru": "🏍️ <b>XXV Concentración motera Pichas Locas</b>\n\n12–13 сентября в Нуэва-Картейе (Кордова) отметят 25-летие концентрации Pichas Locas.\n\n📍 <b>Локация:</b> Nueva Carteya, Córdoba"
     },
     {
       "id": "d034ce365e",
@@ -1019,7 +1103,8 @@
       "venue": "",
       "url": "https://www.concentracionesdemotos.com/comunidad-valenciana/",
       "image_url": null,
-      "short_ru": "Кастом-слёт в Хативе, Валенсия — 13 сентября"
+      "short_ru": "Кастом-слёт в Хативе, Валенсия — 13 сентября",
+      "full_ru": "🔧 <b>Custom Meeting в Хативе</b>\n\n13 сентября в Хативе (Валенсия) пройдёт слёт кастом-мотоциклов.\n\nЧопперы, кастомайзеры, харлеи и просто красивые железные кони — если любишь необычные мотоциклы, стоит заглянуть.\n\nКомпактное, но атмосферное мероприятие совсем рядом с Валенсией."
     },
     {
       "id": "fc5aa04c51",
@@ -1031,7 +1116,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Юбилейный мотозавтрак в Муле"
+      "short_ru": "Юбилейный мотозавтрак в Муле",
+      "full_ru": "🍳🏍️ <b>X Almuerzo Motero Mula</b>\n\n13 сентября 2026 в Муле (Мурсия) пройдёт десятый юбилейный мотозавтрак — праздник для местного байкерского сообщества.\n\n📍 <b>Локация:</b> Mula, Murcia"
     },
     {
       "id": "5cbc37937a",
@@ -1043,7 +1129,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "14-я годовщина мотоклуба Yeye Bikers"
+      "short_ru": "14-я годовщина мотоклуба Yeye Bikers",
+      "full_ru": "🎉 <b>XIV Aniversario Yeye Bikers</b>\n\n13 сентября в Палафольсе (провинция Жирона) отмечают четырнадцатую годовщину мотоклуба Yeye Bikers — праздничная встреча с покатушками и живой музыкой.\n\n📍 <b>Локация:</b> Palafolls, Girona"
     },
     {
       "id": "61f013da2e",
@@ -1055,7 +1142,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "11-я годовщина клуба Iberian Motards"
+      "short_ru": "11-я годовщина клуба Iberian Motards",
+      "full_ru": "🎉 <b>XI Aniversario Iberian Motards</b>\n\n13 сентября в Алькасар-де-Сан-Хуан (провинция Сьюдад-Реаль) отмечают одиннадцатую годовщину мотоклуба Iberian Motards — байкерская вечеринка с покатушками и общением.\n\n📍 <b>Локация:</b> Alcázar de San Juan, Ciudad Real"
     },
     {
       "id": "02a84b5c51",
@@ -1067,7 +1155,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Юбилейный мото-слёт «Buitres Leonaos» в Касересе"
+      "short_ru": "Юбилейный мото-слёт «Buitres Leonaos» в Касересе",
+      "full_ru": "🏍️ <b>Buitres Leonaos XX</b>\n\nС 17 по 20 сентября 2026 в Касересе пройдёт юбилейный, двадцатый мото-слёт «Buitres Leonaos» — насыщенная программа для мотопутешественников.\n\n📍 <b>Локация:</b> Cáceres, Cáceres"
     },
     {
       "id": "d3fdf8a8d4",
@@ -1079,7 +1168,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт «Los Rebotaos» в Бискайе"
+      "short_ru": "Мото-слёт «Los Rebotaos» в Бискайе",
+      "full_ru": "🏍️ <b>Los Rebotaos XI</b>\n\nС 18 по 20 сентября 2026 в Бискайе пройдёт мото-слёт «Los Rebotaos» — одиннадцатое издание встречи байкеров.\n\n📍 <b>Локация:</b> Bizkaia"
     },
     {
       "id": "077240bb12",
@@ -1091,7 +1181,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт в Кониле-де-ла-Фронтера, Кадис"
+      "short_ru": "Мото-слёт в Кониле-де-ла-Фронтера, Кадис",
+      "full_ru": "🏍️ <b>XVIII Concentración Villa de Conil</b>\n\nС 18 по 20 сентября Кониль (Кадис) примет 18-ю концентрацию байкеров на побережье Атлантики.\n\n📍 <b>Локация:</b> Conil, Cádiz"
     },
     {
       "id": "93db3ddd2c",
@@ -1103,7 +1194,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мототуристическая концентрация «Os Mouchos» в Параделе, Луго"
+      "short_ru": "Мототуристическая концентрация «Os Mouchos» в Параделе, Луго",
+      "full_ru": "🏍️ <b>XXV Concentración mototurística Os Mouchos</b>\n\n18–20 сентября в Параделе (Луго) пройдёт 25-я мототуристическая концентрация Os Mouchos.\n\n📍 <b>Локация:</b> Paradela, Lugo"
     },
     {
       "id": "fc8553d40e",
@@ -1115,7 +1207,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт «Ay Pollito la que Has Liao» в Эль-Франко, Астурия"
+      "short_ru": "Мото-слёт «Ay Pollito la que Has Liao» в Эль-Франко, Астурия",
+      "full_ru": "🏍️ <b>IV Concentración Ay Pollito la que Has Liao</b>\n\n18–20 сентября в Эль-Франко (Астурия) пройдёт четвёртая концентрация с этим колоритным названием — музыка, лагерь и байки.\n\n📍 <b>Локация:</b> El Franco, Asturias"
     },
     {
       "id": "74c706a2ff",
@@ -1127,7 +1220,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Благотворительный мото-слёт «Motíberos» в Аренс-де-Льедо, Теруэль"
+      "short_ru": "Благотворительный мото-слёт «Motíberos» в Аренс-де-Льедо, Теруэль",
+      "full_ru": "🏍️ <b>II Concentración motera solidaria Motíberos</b>\n\n18–20 сентября в Аренс-де-Льедо (регион Матаранья, Теруэль) пройдёт благотворительная концентрация Motíberos.\n\n📍 <b>Локация:</b> Arens de Lledó-Matarraña, Teruel"
     },
     {
       "id": "da5e150fda",
@@ -1139,7 +1233,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/concentraciones.php",
       "image_url": null,
-      "short_ru": "Мото-слёт в Тапиа-де-Касариего, Астурия"
+      "short_ru": "Мото-слёт в Тапиа-де-Касариего, Астурия",
+      "full_ru": "🏍️ <b>XI Concentración de motos Villa de Tapia</b>\n\nС 18 по 20 сентября Тапиа-де-Касариего (Астурия) примет 11-ю концентрацию мотоциклистов на берегу Кантабрийского моря.\n\n📍 <b>Локация:</b> Tapia de Casariego, Asturias"
     },
     {
       "id": "2dd593c170",
@@ -1151,7 +1246,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт в Саламанке"
+      "short_ru": "Мото-слёт в Саламанке",
+      "full_ru": "🏍️ <b>Concentración Motera Salamanca</b>\n\nС 19 по 21 сентября 2026 в Саламанке пройдёт мото-слёт — насыщенная программа и общение мотоциклистов региона.\n\n📍 <b>Локация:</b> Salamanca, Salamanca"
     },
     {
       "id": "256555945a",
@@ -1163,7 +1259,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мотомарафон «от рассвета до заката» в Мадриде"
+      "short_ru": "Мотомарафон «от рассвета до заката» в Мадриде",
+      "full_ru": "🏍️☀️ <b>Sun To Sun Madrid 2026</b>\n\n19 сентября 2026 в Мадриде пройдёт мотомарафон «Sun to Sun» — суточный маршрут для проверки выносливости и духа товарищества.\n\n📍 <b>Локация:</b> Madrid"
     },
     {
       "id": "81c92389be",
@@ -1175,7 +1272,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классической техники (авто и мото) в Альхаме"
+      "short_ru": "Слёт классической техники (авто и мото) в Альхаме",
+      "full_ru": "🏍️🚗 <b>Concentración de Vehículos Clásicos Villa de Alhama</b>\n\n19 сентября 2026 в Альхама-де-Мурсия пройдёт слёт классических транспортных средств — семнадцатое издание.\n\n📍 <b>Локация:</b> Alhama de Murcia, Murcia"
     },
     {
       "id": "7d22e3485f",
@@ -1187,7 +1285,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классической техники (авто и мото) в Картаме"
+      "short_ru": "Слёт классической техники (авто и мото) в Картаме",
+      "full_ru": "🏍️🚗 <b>Concentración de Vehículos Clásicos de Cártama</b>\n\n19 сентября 2026 в Картаме (Малага) пройдёт слёт классических транспортных средств — второе издание.\n\n📍 <b>Локация:</b> Cártama, Málaga"
     },
     {
       "id": "9b68e1bc2f",
@@ -1199,7 +1298,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотослёт Os Keimaos в Кальдас-де-Рейс"
+      "short_ru": "Мотослёт Os Keimaos в Кальдас-де-Рейс",
+      "full_ru": "🏍️ <b>IX Xuntanza moteira Os Keimaos</b>\n\n19 сентября в Кальдас-де-Рейс (провинция Понтеведра, Галисия) пройдёт девятая мотовстреча Os Keimaos — общение байкеров, еда и совместные покатушки.\n\n📍 <b>Локация:</b> Caldas de Reis, Pontevedra"
     },
     {
       "id": "2d1d150437",
@@ -1211,7 +1311,8 @@
       "venue": "Circuito de Albacete",
       "url": "https://www.todocircuito.com/tandas",
       "image_url": null,
-      "short_ru": "Трек-дей (тандас) и курс пилотажа на трассе Альбасете от организатора AB Riders"
+      "short_ru": "Трек-дей (тандас) и курс пилотажа на трассе Альбасете от организатора AB Riders",
+      "full_ru": "🏍️ <b>Тандас в Альбасете</b>\n\n20 сентября на трассе <b>Circuito de Albacete</b> состоится день свободных заездов и курс пилотажа от AB Riders. Отличный повод прокатиться на треке с распределением по группам скорости.\n\n📍 <b>Локация:</b> Circuito de Albacete, Альбасете"
     },
     {
       "id": "16cdd97f6e",
@@ -1223,7 +1324,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотослёт в Серосе"
+      "short_ru": "Мотослёт в Серосе",
+      "full_ru": "🏍️ <b>VII Concentració motera Seròs</b>\n\n20 сентября в Серосе (провинция Льейда) состоится седьмой мотослёт — встреча байкеров со всей округи, музыка и совместный отдых.\n\n📍 <b>Локация:</b> Seròs, Lleida"
     },
     {
       "id": "a4568e1c08",
@@ -1235,7 +1337,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-ралли «Pistón» по Кантабрии"
+      "short_ru": "Мото-ралли «Pistón» по Кантабрии",
+      "full_ru": "🏍️ <b>Rally Pistón</b>\n\nС 24 по 27 сентября 2026 в Кантабрии пройдёт четырёхдневный мото-ралли «Pistón» — маршруты по горным дорогам и общее празднование.\n\n📍 <b>Локация:</b> Cantabria"
     },
     {
       "id": "5aa95dbb3c",
@@ -1247,7 +1350,8 @@
       "venue": "",
       "url": "https://www.concentracionesdemotos.com/aragon/",
       "image_url": null,
-      "short_ru": "Мотособытие в Теруэле с необычным «динозавровым» названием"
+      "short_ru": "Мотособытие в Теруэле с необычным «динозавровым» названием",
+      "full_ru": "🦖🏍️ <b>Rider Dinosaurios Teruel</b>\n\n25 сентября 2026 в Теруэле пройдёт байкерская встреча «Rider Dinosaurios» — совместный выезд и общение мотоциклистов Арагона.\n\n📍 <b>Локация:</b> Teruel, Teruel"
     },
     {
       "id": "ce45506024",
@@ -1259,7 +1363,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Внедорожное мотособытие Xtreme Challenge в Мадриде"
+      "short_ru": "Внедорожное мотособытие Xtreme Challenge в Мадриде",
+      "full_ru": "🏍️🌲 <b>Xtreme Challenge Madrid</b>\n\n25–26 сентября 2026 в Мадриде пройдёт внедорожное мотособытие Xtreme Challenge — испытание для эндуро и трайл-мотоциклистов.\n\n📍 <b>Локация:</b> Madrid"
     },
     {
       "id": "1887197409",
@@ -1271,7 +1376,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт в столице Ла-Риохи"
+      "short_ru": "Мото-слёт в столице Ла-Риохи",
+      "full_ru": "🏍️ <b>Concentración Motera Logroño</b>\n\nС 26 по 28 сентября 2026 в Логроньо пройдёт мото-слёт с музыкальной программой и совместными выездами по региону вина.\n\n📍 <b>Локация:</b> Logroño, La Rioja"
     },
     {
       "id": "5a29f027e2",
@@ -1283,7 +1389,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Внедорожное мотособытие Xtreme Challenge в Толедо"
+      "short_ru": "Внедорожное мотособытие Xtreme Challenge в Толедо",
+      "full_ru": "🏍️🌲 <b>Xtreme Challenge Toledo</b>\n\n26 сентября 2026 в Толедо пройдёт внедорожное мотособытие Xtreme Challenge — испытание для эндуро-мотоциклистов.\n\n📍 <b>Локация:</b> Toledo, Toledo"
     },
     {
       "id": "9d52959b56",
@@ -1295,7 +1402,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "21-я годовщина мотоклуба Raiders Granada"
+      "short_ru": "21-я годовщина мотоклуба Raiders Granada",
+      "full_ru": "🎉 <b>XXI Aniversario Raiders Granada</b>\n\n26 сентября в Охихаресе (провинция Гранада) отмечают двадцать первую годовщину мотоклуба Raiders Granada — праздничная встреча байкеров с покатушками и вечеринкой.\n\n📍 <b>Локация:</b> Ogíjares, Granada"
     },
     {
       "id": "cc670dce35",
@@ -1307,7 +1415,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт в Бильбао"
+      "short_ru": "Мото-слёт в Бильбао",
+      "full_ru": "🏍️ <b>Concentración Motera Bilbao</b>\n\nС 27 по 29 сентября 2026 в Бильбао пройдёт мото-слёт — музыкальная программа и встреча байкеров Страны Басков.\n\n📍 <b>Локация:</b> Bilbao, Bizkaia"
     },
     {
       "id": "e5fc663c2e",
@@ -1319,7 +1428,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Мотовстреча Custom Lumbreras"
+      "short_ru": "Мотовстреча Custom Lumbreras",
+      "full_ru": "🏍️ <b>XVI Encuentro motero Custom Lumbreras</b>\n\n27 сентября в Пуэрто-Лумбрерас (Мурсия) пройдёт шестнадцатая кастом-встреча байкеров — выставка мотоциклов, музыка и общение.\n\n📍 <b>Локация:</b> Puerto Lumbreras, Murcia"
     },
     {
       "id": "cc92c8c34d",
@@ -1331,7 +1441,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "Утренняя мотовстреча Depredadores de Asfalto MG"
+      "short_ru": "Утренняя мотовстреча Depredadores de Asfalto MG",
+      "full_ru": "🌅 <b>VI Matinal motera Depredadores de Asfalto MG</b>\n\n27 сентября в Гольмесе (провинция Льейда) пройдёт шестая утренняя мотовстреча клуба Depredadores de Asfalto MG — завтрак и общение байкеров.\n\n📍 <b>Локация:</b> Golmés, Lleida"
     },
     {
       "id": "5c02e420f6",
@@ -1343,7 +1454,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт «Вила де Флих» — 29-е издание"
+      "short_ru": "Мото-слёт «Вила де Флих» — 29-е издание",
+      "full_ru": "🏍️ <b>Vila de Flix XXIX</b>\n\nС 2 по 4 октября 2026 в Флише (Таррагона) пройдёт 29-й мото-слёт «Vila de Flix» — традиционная встреча каталонских байкеров.\n\n📍 <b>Локация:</b> Flix, Tarragona"
     },
     {
       "id": "0c76864c5d",
@@ -1355,7 +1467,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мотофестиваль NavaRider Day в Памплоне"
+      "short_ru": "Мотофестиваль NavaRider Day в Памплоне",
+      "full_ru": "🏍️ <b>NavaRider Day 2026</b>\n\n3 октября 2026 в Памплоне пройдёт мотофестиваль NavaRider Day — совместный маршрут и встреча мотоциклистов Наварры.\n\n📍 <b>Локация:</b> Pamplona, Navarra"
     },
     {
       "id": "8dfd679344",
@@ -1367,7 +1480,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Слёт классической техники (авто и мото) в Вильяэрмосе"
+      "short_ru": "Слёт классической техники (авто и мото) в Вильяэрмосе",
+      "full_ru": "🏍️🚗 <b>Concentración de Vehículos Clásicos Villahermosa</b>\n\n4 октября 2026 в Вильяэрмосе (Сьюдад-Реаль) пройдёт слёт классических транспортных средств, среди которых будут ретро-мотоциклы.\n\n📍 <b>Локация:</b> Villahermosa, Ciudad Real"
     },
     {
       "id": "a747104e8f",
@@ -1379,7 +1493,8 @@
       "venue": "",
       "url": "https://www.motoclubmotrix.org/eventos.php?ob=0",
       "image_url": null,
-      "short_ru": "29-я мотовстреча в Росселло"
+      "short_ru": "29-я мотовстреча в Росселло",
+      "full_ru": "🏍️ <b>XXIX Trobada a Rosselló</b>\n\n4 октября в Росселло (провинция Льейда) пройдёт двадцать девятая традиционная мотовстреча — байкеры соберутся на совместный отдых и общение.\n\n📍 <b>Локация:</b> Rosselló, Lleida"
     },
     {
       "id": "3686c493ce",
@@ -1391,7 +1506,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт «Кочевники» на Лансароте"
+      "short_ru": "Мото-слёт «Кочевники» на Лансароте",
+      "full_ru": "🏍️🌋 <b>Concentración de Motos Nómadas Lanzarote</b>\n\nС 9 по 11 октября 2026 в Аресифе (Лансароте) пройдёт 31-й мото-слёт «Nómadas» — вулканические пейзажи и общение байкеров Канарских островов.\n\n📍 <b>Локация:</b> Arrecife, Las Palmas"
     },
     {
       "id": "d915dba181",
@@ -1403,7 +1519,8 @@
       "venue": "Circuit Ricardo Tormo",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Track day — трассовые заезды на Ricardo Tormo"
+      "short_ru": "Track day — трассовые заезды на Ricardo Tormo",
+      "full_ru": "🏁 <b>Tandas Biker's Days Ricardo Tormo</b>\n\nС 10 по 12 октября 2026 на трассе Ricardo Tormo в Честе (Валенсия) пройдут track day — трассовые тренировочные заезды для мотоциклистов разного уровня.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Cheste, Valencia"
     },
     {
       "id": "e184736e8c",
@@ -1415,7 +1532,8 @@
       "venue": "",
       "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
       "image_url": null,
-      "short_ru": "Мото-слёт в Бургосе"
+      "short_ru": "Мото-слёт в Бургосе",
+      "full_ru": "🏍️ <b>Concentración Motera Burgos</b>\n\nС 11 по 13 октября 2026 в Бургосе пройдёт мото-слёт — насыщенная программа и встреча мотоциклистов Кастилии и Леона.\n\n📍 <b>Локация:</b> Burgos, Burgos"
     },
     {
       "id": "c4488b3ef8",
@@ -1427,7 +1545,8 @@
       "venue": "",
       "url": "https://www.concentracionesdemotos.com/aragon/",
       "image_url": null,
-      "short_ru": "Слёт классических мотоциклов Motoretroguara"
+      "short_ru": "Слёт классических мотоциклов Motoretroguara",
+      "full_ru": "🏍️ <b>Motoretroguara</b>\n\n17 октября 2026 в Колунго (Уэска) пройдёт слёт классических мотоциклов Motoretroguara — выставка ретро-техники и встреча коллекционеров.\n\n📍 <b>Локация:</b> Colungo, Huesca"
     }
   ],
   "news": [
