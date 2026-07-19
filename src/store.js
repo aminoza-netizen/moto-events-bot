@@ -77,6 +77,7 @@ function addEvents(db, incoming) {
       end_date: ev.end_date || null,
       city: ev.city || '',
       region: ev.region || '',
+      venue: ev.venue || '',
       url: ev.url || '',
       image_url: ev.image_url || null,
       short_ru: ev.short_ru || '',

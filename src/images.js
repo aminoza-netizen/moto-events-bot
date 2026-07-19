@@ -10,7 +10,11 @@ function absolutize(imgUrl, pageUrl) {
 }
 
 function looksLikeImage(url) {
-  return /^https?:\/\//i.test(url) && !/\.svg(\?|$)/i.test(url);
+  if (!/^https?:\/\//i.test(url)) return false;
+  if (/\.svg(\?|$)/i.test(url)) return false;
+  // логотипы/иконки сайтов вместо афиши события — не берём
+  if (/logo|icon|favicon|brand|avatar|placeholder|default[-_.]/i.test(url)) return false;
+  return true;
 }
 
 // Вернёт прямой URL картинки или null. Никогда не бросает.

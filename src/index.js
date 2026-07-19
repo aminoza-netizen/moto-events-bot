@@ -48,20 +48,29 @@ function fmtDateRu(dateStr) {
   return `${d} ${months[m - 1]}`;
 }
 
+function locationLine(ev) {
+  const place = ev.venue ? `${ev.venue}${ev.city && !ev.venue.includes(ev.city) ? ', ' + ev.city : ''}` : ev.city;
+  return place ? `\n📍 <b>Локация:</b> ${esc(place)}` : '';
+}
+
 function weekReminder(ev) {
-  const link = ev.url ? `\n\n<a href="${esc(ev.url)}">Подробнее</a>` : '';
-  return `⏰ <b>Уже через неделю!</b>\n\n🏍 <b>${esc(ev.title)}</b>\n📅 ${fmtDateRu(ev.date)} · 📍 ${esc(ev.city)}\n\n${esc(ev.short_ru)}${link}`;
+  const link = ev.url ? `\n<a href="${esc(ev.url)}">Подробнее</a>` : '';
+  return `⏰ <b>Уже через неделю!</b>\n\n🏍 <b>${esc(ev.title)}</b>\n📅 ${fmtDateRu(ev.date)}\n\n${esc(ev.short_ru)}\n${locationLine(ev)}${link}`;
 }
 
 function dayReminder(ev) {
-  const link = ev.url ? `\n\n<a href="${esc(ev.url)}">Подробнее</a>` : '';
-  return `🔥 <b>Сегодня!</b>\n\n🏍 <b>${esc(ev.title)}</b>\n📍 ${esc(ev.city)}\n\n${esc(ev.short_ru)}\n\nКто едет — увидимся там! 😎${link}`;
+  const link = ev.url ? `\n<a href="${esc(ev.url)}">Подробнее</a>` : '';
+  return `🔥 <b>Сегодня!</b>\n\n🏍 <b>${esc(ev.title)}</b>\n\n${esc(ev.short_ru)}\n\nКто едет — увидимся там! 😎\n${locationLine(ev)}${link}`;
 }
 
-async function runDaily() {
+async function runDaily(skipCollect = false) {
   console.log(`[${new Date().toISOString()}] Ежедневный запуск...`);
   const db = store.load();
   store.cleanup(db);
+
+  if (skipCollect) {
+    console.log('Режим "только постинг": сбор пропущен, публикуем из базы.');
+  } else {
 
   // 1. Сбор новых событий и новостей — две независимые фазы
   const upcomingKnown = () =>
@@ -92,6 +101,7 @@ async function runDaily() {
   } catch (e) {
     console.error('Ошибка фазы веб-поиска (постим из того, что уже есть):', e.message);
   }
+  } // конец сбора (skipCollect)
 
   // Постим только в рабочее время по Испании — канал испанский
   if (!isWorkingHours()) {
@@ -213,6 +223,10 @@ if (mode === 'sources') {
   // Разовый запуск полного цикла (сбор + публикация)
   checkEnv();
   runDaily().catch((e) => { console.error('Ошибка:', e); process.exit(1); });
+} else if (mode === 'post') {
+  // Только публикация того, что уже в базе (без сбора)
+  checkEnv();
+  runDaily(true).catch((e) => { console.error('Ошибка:', e); process.exit(1); });
 } else {
   // Режим демона: ежедневный запуск по расписанию
   checkEnv();

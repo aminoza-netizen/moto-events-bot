@@ -6,7 +6,13 @@ const GROUP = () => (process.env.GROUP_ID || '').trim();
 // Лимит Telegram: подпись к фото — 1024 символа, обычный текст — 4096
 const CAPTION_LIMIT = 1000;
 
+// SILENT_POSTS=1 — отправка без звука уведомлений
+const silent = () => process.env.SILENT_POSTS === '1';
+
 async function tg(method, payload) {
+  if (silent() && (method === 'sendMessage' || method === 'sendPhoto' || method === 'forwardMessage')) {
+    payload = { ...payload, disable_notification: true };
+  }
   const res = await fetch(`https://api.telegram.org/bot${TOKEN()}/${method}`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
