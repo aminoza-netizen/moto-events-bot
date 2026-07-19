@@ -47,7 +47,7 @@ function isParseError(e) {
 
 // Отправить пост в канал: фото с подписью, если есть картинка и текст влезает,
 // иначе обычное сообщение. Возвращает message_id.
-async function sendToChannel(html, imageUrl) {
+async function sendToChannel(html, imageUrl, opts = {}) {
   // 1) Фото + подпись
   if (imageUrl && html.length <= CAPTION_LIMIT) {
     try {
@@ -77,7 +77,7 @@ async function sendToChannel(html, imageUrl) {
       chat_id: CHANNEL(),
       text: html,
       parse_mode: 'HTML',
-      link_preview_options: { is_disabled: false },
+      link_preview_options: { is_disabled: !!opts.noPreview },
       reply_markup: calendarKb(),
     });
     return msg.message_id;
@@ -103,8 +103,8 @@ async function forwardToGroup(messageId) {
 }
 
 // Пост в канал + пересылка в группу одним вызовом
-async function publish(html, imageUrl) {
-  const messageId = await sendToChannel(html, imageUrl);
+async function publish(html, imageUrl, opts = {}) {
+  const messageId = await sendToChannel(html, imageUrl, opts);
   try {
     await forwardToGroup(messageId);
   } catch (e) {

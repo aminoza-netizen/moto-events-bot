@@ -7,9 +7,9 @@ const { getPageImage } = require('./images');
 const { exportWeb } = require('./export-web');
 const { startAdminBridge } = require('./admin-bridge');
 
-const MAX_ANNOUNCES_PER_RUN = 4;
-const MAX_NEWS_PER_RUN = 2;
-const ANNOUNCE_WINDOW_DAYS = 35; // анонсируем примерно за месяц
+const MAX_ANNOUNCES_PER_RUN = () => parseInt(process.env.MAX_ANNOUNCES || '4', 10);
+const MAX_NEWS_PER_RUN = () => parseInt(process.env.MAX_NEWS || '2', 10);
+const ANNOUNCE_WINDOW_DAYS = () => parseInt(process.env.ANNOUNCE_WINDOW || '35', 10); // анонс примерно за месяц
 const WORK_START = () => parseInt(process.env.WORK_START || '9', 10);
 const WORK_END = () => parseInt(process.env.WORK_END || '21', 10);
 const POST_INTERVAL_SEC = () => parseInt(process.env.POST_INTERVAL_SEC || '45', 10);
@@ -122,10 +122,10 @@ async function runDaily(skipCollect = false) {
     .filter((e) => !e.posted.announce && e.announce_ru)
     .filter((e) => {
       const d = store.daysUntil(e.date);
-      return d !== null && d >= 0 && d <= ANNOUNCE_WINDOW_DAYS;
+      return d !== null && d >= 0 && d <= ANNOUNCE_WINDOW_DAYS();
     })
     .sort((a, b) => (store.daysUntil(a.date) ?? 999) - (store.daysUntil(b.date) ?? 999))
-    .slice(0, MAX_ANNOUNCES_PER_RUN);
+    .slice(0, MAX_ANNOUNCES_PER_RUN());
 
   for (const ev of toAnnounce) {
     try {
@@ -178,7 +178,7 @@ async function runDaily(skipCollect = false) {
   }
 
   // 5. Новости
-  const freshNews = db.news.filter((n) => !n.posted).slice(0, MAX_NEWS_PER_RUN);
+  const freshNews = db.news.filter((n) => !n.posted).slice(0, MAX_NEWS_PER_RUN());
   for (const n of freshNews) {
     try {
       await gap();
