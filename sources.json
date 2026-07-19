@@ -3,6 +3,9 @@
   "sources": [
     { "name": "ConcentracionesDeMotos — вся Испания", "url": "https://www.concentracionesdemotos.com/concentraciones/", "region": "España" },
     { "name": "ConcentracionesDeMotos — Комунидад Валенсиана", "url": "https://www.concentracionesdemotos.com/comunidad-valenciana/", "region": "Valencia/Alicante" },
+    { "name": "ConcentracionesDeMotos — провинция Аликанте", "url": "https://www.concentracionesdemotos.com/alicante/", "region": "Alicante" },
+    { "name": "ConcentracionesDeMotos — провинция Валенсия", "url": "https://www.concentracionesdemotos.com/valencia/", "region": "Valencia" },
+    { "name": "ConcentracionesDeMotos — провинция Кастельон", "url": "https://www.concentracionesdemotos.com/castellon/", "region": "Castellón" },
     { "name": "ConcentracionesDeMotos — Мурсия", "url": "https://www.concentracionesdemotos.com/murcia/", "region": "Murcia" },
     { "name": "EventoMotor — концентрации", "url": "https://www.eventomotor.com/disciplinas/concentraciones", "region": "España" },
     { "name": "EventoMotor — календарь 2026", "url": "https://www.eventomotor.com/concentraciones-moteras-2026", "region": "España" },
