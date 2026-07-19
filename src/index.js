@@ -17,6 +17,8 @@ const WORK_END = () => parseInt(process.env.WORK_END || '21', 10);
 const POST_INTERVAL_SEC = () => parseInt(process.env.POST_INTERVAL_SEC || '45', 10);
 const COLLECT_HOUR = () => parseInt(process.env.COLLECT_HOUR || '9', 10);        // час сбора
 const POST_HOURS = () => (process.env.POST_HOURS || '10,12,14,16,18,20');        // часы публикаций
+// Дни веб-поиска (дорогая фаза; 1=пн...7=вс). Источники обходим ежедневно — они дёшевы.
+const SEARCH_DAYS = () => (process.env.SEARCH_DAYS || '1,4').split(',').map((d) => parseInt(d.trim(), 10));
 
 // Приоритет для пересылки в группу: наша аудитория
 const PRIORITY_REGION = /alicante|valencia|castell|murcia|benidorm|torrevieja|elche|cheste/i;
@@ -186,12 +188,18 @@ async function collectAll() {
   } catch (e) {
     console.error('Ошибка фазы источников:', e.message);
   }
-  try {
-    const r2 = await collectFromSearch(known(), knownNews());
-    console.log(`Веб-поиск: событий ${r2.events.length} (новых ${store.addEvents(db, r2.events)}), новостей ${r2.news.length} (новых ${store.addNews(db, r2.news)})`);
-    store.save(db);
-  } catch (e) {
-    console.error('Ошибка фазы веб-поиска:', e.message);
+  // Веб-поиск — только в заданные дни недели (по умолч. пн и чт): дорого, а новое приносят источники
+  const dow = ((new Date(new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Madrid' }).format(new Date())).getUTCDay() + 6) % 7) + 1;
+  if (SEARCH_DAYS().includes(dow)) {
+    try {
+      const r2 = await collectFromSearch(known(), knownNews());
+      console.log(`Веб-поиск: событий ${r2.events.length} (новых ${store.addEvents(db, r2.events)}), новостей ${r2.news.length} (новых ${store.addNews(db, r2.news)})`);
+      store.save(db);
+    } catch (e) {
+      console.error('Ошибка фазы веб-поиска:', e.message);
+    }
+  } else {
+    console.log(`Веб-поиск сегодня пропущен (дни поиска: ${SEARCH_DAYS().join(',')} — пн/чт по умолчанию).`);
   }
   store.save(db);
   exportWeb(db); // обновить календарь мини-аппа

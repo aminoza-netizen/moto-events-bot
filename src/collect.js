@@ -153,7 +153,7 @@ ${JSON_SCHEMA_BLOCK}`;
     {
       type: 'web_search_20260209',
       name: 'web_search',
-      max_uses: 6,
+      max_uses: 4,
       user_location: { type: 'approximate', country: 'ES', timezone: 'Europe/Madrid' },
     },
   ];
