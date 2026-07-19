@@ -21,6 +21,15 @@ const POST_HOURS = () => (process.env.POST_HOURS || '10,12,14,16,18,20');       
 // Приоритет для пересылки в группу: наша аудитория
 const PRIORITY_REGION = /alicante|valencia|castell|murcia|benidorm|torrevieja|elche|cheste/i;
 
+// Ссылка «Подробнее» ведёт в НАШУ афишу на карточку события (весь трафик у нас;
+// внешние ссылки на билеты/регистрацию живут внутри мини-аппа)
+const APP_LINK = () => process.env.APP_DIRECT_LINK || 'https://t.me/spainmotonews_bot/afisha';
+const appEventLink = (ev) => `${APP_LINK()}?startapp=ev_${ev.id}`;
+// Убрать финальную внешнюю ссылку из старых текстов анонсов
+function stripTrailingLink(html) {
+  return String(html || '').replace(/\n*<a href="[^"]*">[^<]*<\/a>\s*$/i, '').trimEnd();
+}
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 function madridHour() {
@@ -61,13 +70,15 @@ function locationLine(ev) {
 }
 
 function weekReminder(ev) {
-  const link = ev.url ? `\n<a href="${esc(ev.url)}">Подробнее</a>` : '';
-  return `⏰ <b>Уже через неделю!</b>\n\n🏍 <b>${esc(ev.title)}</b>\n📅 ${fmtDateRu(ev.date)}\n\n${esc(ev.short_ru)}\n${locationLine(ev)}${link}`;
+  return `⏰ <b>Уже через неделю!</b>\n\n🏍 <b>${esc(ev.title)}</b>\n📅 ${fmtDateRu(ev.date)}\n\n${esc(ev.short_ru)}\n${locationLine(ev)}\n<a href="${appEventLink(ev)}">➡️ Подробнее в афише</a>`;
 }
 
 function dayReminder(ev) {
-  const link = ev.url ? `\n<a href="${esc(ev.url)}">Подробнее</a>` : '';
-  return `🔥 <b>Сегодня!</b>\n\n🏍 <b>${esc(ev.title)}</b>\n\n${esc(ev.short_ru)}\n\nКто едет — увидимся там! 😎\n${locationLine(ev)}${link}`;
+  return `🔥 <b>Сегодня!</b>\n\n🏍 <b>${esc(ev.title)}</b>\n\n${esc(ev.short_ru)}\n\nКто едет — увидимся там! 😎\n${locationLine(ev)}\n<a href="${appEventLink(ev)}">➡️ Подробнее в афише</a>`;
+}
+
+function announceHtml(ev) {
+  return stripTrailingLink(ev.announce_ru) + `\n\n<a href="${appEventLink(ev)}">➡️ Подробнее в афише</a>`;
 }
 
 // ─── Пересылка в группу: максимум MAX_FORWARDS самых важных в день ───
@@ -85,7 +96,7 @@ function shouldForward(db, { isNews, ev }) {
 
 // ─── Публикация одного элемента ───
 async function postEvent(db, ev, kind) {
-  const html = kind === 'week' ? weekReminder(ev) : kind === 'day' ? dayReminder(ev) : ev.announce_ru;
+  const html = kind === 'week' ? weekReminder(ev) : kind === 'day' ? dayReminder(ev) : announceHtml(ev);
   const fwd = shouldForward(db, { ev });
   await publish(html, await resolveImage(ev), { forward: fwd });
   const meta = store.todayMeta(db);

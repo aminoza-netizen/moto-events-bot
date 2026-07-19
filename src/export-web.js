@@ -24,6 +24,7 @@ function buildWebData(db) {
       return d !== null && d >= -1; // показываем до дня после окончания
     })
     .map((e) => ({
+      id: e.id,
       title: e.title,
       date: e.date,
       end_date: e.end_date || null,

@@ -12,6 +12,8 @@ function esc(s) {
   return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
+const APP_LINK = () => process.env.APP_DIRECT_LINK || 'https://t.me/spainmotonews_bot/afisha';
+
 function lineFor(ev) {
   const [, m, d] = ev.date.split('-').map(Number);
   let dd = `${String(d).padStart(2, '0')}.${String(m).padStart(2, '0')}`;
@@ -19,7 +21,8 @@ function lineFor(ev) {
     const [, m2, d2] = ev.end_date.split('-').map(Number);
     dd += `–${String(d2).padStart(2, '0')}.${String(m2).padStart(2, '0')}`;
   }
-  const name = ev.url ? `<a href="${esc(ev.url)}">${esc(ev.title)}</a>` : `<b>${esc(ev.title)}</b>`;
+  // ссылка ведёт в нашу афишу на карточку события (не на внешний сайт)
+  const name = ev.id ? `<a href="${APP_LINK()}?startapp=ev_${ev.id}">${esc(ev.title)}</a>` : `<b>${esc(ev.title)}</b>`;
   const place = [ev.city, ev.region && ev.region !== ev.city ? ev.region : ''].filter(Boolean).join(', ');
   return `🔹 ${dd} — ${name}${place ? ' — ' + esc(place) : ''}`;
 }

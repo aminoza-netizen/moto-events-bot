@@ -2,6 +2,7 @@
 // Атомарная запись (tmp + rename), авто-создание файла.
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const FILE = path.join(DATA_DIR, 'events.json');
@@ -12,6 +13,7 @@ function load() {
     const db = JSON.parse(raw);
     if (!Array.isArray(db.events)) db.events = [];
     if (!Array.isArray(db.news)) db.news = [];
+    for (const e of db.events) if (!e.id) e.id = evId(e); // миграция старых записей
     return db;
   } catch (e) {
     return { events: [], news: [] };
@@ -37,6 +39,11 @@ function normTitle(title) {
 
 function eventKey(ev) {
   return `${normTitle(ev.title)}|${ev.date}`;
+}
+
+// Стабильный короткий id события — для deep-link в мини-апп
+function evId(ev) {
+  return crypto.createHash('md5').update(eventKey(ev)).digest('hex').slice(0, 10);
 }
 
 // Дата "сегодня" в часовом поясе Испании, формат YYYY-MM-DD
@@ -72,6 +79,7 @@ function addEvents(db, incoming) {
     });
     if (fuzzy) continue;
     db.events.push({
+      id: evId(ev),
       title: ev.title,
       date: ev.date,
       end_date: ev.end_date || null,

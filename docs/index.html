@@ -42,6 +42,8 @@
     background: var(--bg); border-radius: 14px; margin: 6px 12px; padding: 12px 14px;
     display: flex; gap: 12px; align-items: flex-start;
   }
+  .card.hl { outline: 2px solid var(--accent); animation: hlPulse 2.2s ease-out 1; }
+  @keyframes hlPulse { 0% { box-shadow: 0 0 0 6px rgba(209,87,47,.35); } 100% { box-shadow: 0 0 0 0 rgba(209,87,47,0); } }
   .card .datebox {
     min-width: 46px; text-align: center; background: var(--bg2); border-radius: 10px; padding: 6px 4px;
   }
@@ -145,6 +147,7 @@
 <script>
 const tg = window.Telegram && window.Telegram.WebApp;
 if (tg) { tg.ready(); tg.expand(); }
+if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
 function openTg(url) { tg && tg.openTelegramLink ? tg.openTelegramLink(url) : window.open(url, '_blank'); }
 function openUrl(url) { tg && tg.openLink ? tg.openLink(url) : window.open(url, '_blank'); }
 
@@ -189,7 +192,7 @@ function card(ev, badge) {
   const [ , m, d] = ev.date.split('-').map(Number);
   const place = [ev.venue, ev.city].filter(Boolean).filter((v,i,a) => a.indexOf(v) === i);
   const loc = place.length ? place.join(', ') : ev.region;
-  return `<div class="card">
+  return `<div class="card" data-ev="${ev.id || ''}">
     <div class="datebox"><div class="d">${d}</div><div class="m">${MONTHS[m-1].slice(0,3)}</div></div>
     <div class="info">
       ${badge ? `<span class="badge">${badge}</span>` : ''}
@@ -285,6 +288,27 @@ document.getElementById('next').onclick = () => { selDay = null; calM++; if (cal
     DATA = await res.json();
   } catch (e) { /* оставим пустые данные */ }
   renderFilters(); renderFeed(); renderCal(); renderNews();
+
+  // Deep-link из поста: t.me/.../afisha?startapp=ev_<id> → скроллим к карточке
+  const sp = (tg && tg.initDataUnsafe && tg.initDataUnsafe.start_param) ||
+             new URLSearchParams(location.search).get('startapp') ||
+             new URLSearchParams(location.search).get('tgWebAppStartParam');
+  if (sp && sp.startsWith('ev_')) {
+    const id = sp.slice(3);
+    const target = DATA.events.find(e => e.id === id);
+    if (target) {
+      // сбрасываем фильтры, чтобы карточка точно была видна
+      fRegion = ''; fCity = ''; renderFilters(); renderFeed();
+      const goTo = () => {
+        const el = document.querySelector(`#view-feed .card[data-ev="${id}"]`);
+        if (el) { el.classList.add('hl'); el.scrollIntoView({ behavior: 'auto', block: 'center' }); }
+      };
+      setTimeout(goTo, 300);
+      setTimeout(goTo, 900); // на случай, если браузер успел восстановить старый скролл
+
+    }
+  }
+
   if (DATA.generated_at) {
     const d = new Date(DATA.generated_at);
     document.getElementById('updated').textContent = 'Обновлено: ' + d.toLocaleString('ru-RU', { day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' });
