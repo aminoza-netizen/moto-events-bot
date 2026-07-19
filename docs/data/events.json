@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-07-19T04:18:39.600Z",
+  "generated_at": "2026-07-19T04:33:26.169Z",
   "events": [
     {
+      "id": "2311472045",
       "title": "Soraluze Moto Topaketa 2026",
       "date": "2026-07-18",
       "end_date": null,
@@ -13,6 +14,7 @@
       "short_ru": "Баскский мото-слёт Soraluze Moto Topaketa"
     },
     {
+      "id": "2ccc1aa96c",
       "title": "Rodada Racing100 en Ricardo Tormo",
       "date": "2026-07-19",
       "end_date": null,
@@ -24,6 +26,7 @@
       "short_ru": "Трек-день (rodada) в Честе сегодня, 19 июля"
     },
     {
+      "id": "9f4a50250f",
       "title": "VIII Aniversari Wild Horses RC",
       "date": "2026-07-19",
       "end_date": null,
@@ -35,6 +38,7 @@
       "short_ru": "8-я годовщина мотоклуба Wild Horses RC в Ла-Фульола"
     },
     {
+      "id": "acfdbc3141",
       "title": "XVI Concentración Ruedas Raras",
       "date": "2026-07-24",
       "end_date": "2026-07-26",
@@ -46,6 +50,7 @@
       "short_ru": "Мото-слёт «Ruedas Raras» — три дня встреч, музыки и байкерской атмосферы"
     },
     {
+      "id": "eb686683e1",
       "title": "Boiromotos 2026",
       "date": "2026-07-24",
       "end_date": "2026-07-26",
@@ -57,6 +62,7 @@
       "short_ru": "Галисийский мото-слёт Boiromotos на три дня"
     },
     {
+      "id": "1b274ed114",
       "title": "Concentración motera Jaraíz de la Vera 2026",
       "date": "2026-07-24",
       "end_date": "2026-07-26",
@@ -68,6 +74,7 @@
       "short_ru": "Мото-слёт в Харайс-де-ла-Вера, Касерес"
     },
     {
+      "id": "fc070d4c4a",
       "title": "La Reconquista Motera 2026",
       "date": "2026-07-25",
       "end_date": "2026-07-26",
@@ -79,6 +86,7 @@
       "short_ru": "Мото-слёт «Ла Реконкиста» в Альмогере"
     },
     {
+      "id": "cb2e3d1b03",
       "title": "PhantomR Yamaha Riding School — tandas premium en Montmeló",
       "date": "2026-07-26",
       "end_date": null,
@@ -90,6 +98,7 @@
       "short_ru": "Трек-день (тандас) в Монтмело — 26 июля, для всех уровней"
     },
     {
+      "id": "8f2955982f",
       "title": "XIII Concentración de Vehículos Clásicos Ciudad de Sagunto 2026",
       "date": "2026-07-26",
       "end_date": null,
@@ -101,6 +110,7 @@
       "short_ru": "Слёт классической техники (авто и мото) в Сагунто"
     },
     {
+      "id": "1009f45f4c",
       "title": "Tandas libres y curso en el Circuito del Jarama (Easyrace)",
       "date": "2026-07-26",
       "end_date": null,
@@ -112,6 +122,7 @@
       "short_ru": "Трек-дей (тандас) и курс пилотажа на трассе Харама от организатора Easyrace"
     },
     {
+      "id": "feeac754bf",
       "title": "Matinal Egara 66",
       "date": "2026-07-26",
       "end_date": null,
@@ -123,6 +134,7 @@
       "short_ru": "Утренняя мотовстреча Egara 66 в Тарраса"
     },
     {
+      "id": "0dcccb8eac",
       "title": "V Motofesta Ponteceso",
       "date": "2026-07-31",
       "end_date": "2026-08-01",
@@ -134,6 +146,7 @@
       "short_ru": "Мотофестиваль в Понтесесо, Ла-Корунья"
     },
     {
+      "id": "a391822b50",
       "title": "XX Concentración motera Ciudad de Calamonte",
       "date": "2026-07-31",
       "end_date": "2026-08-02",
@@ -145,6 +158,7 @@
       "short_ru": "Юбилейный мото-слёт в Каламонте, Бадахос"
     },
     {
+      "id": "71ab14c629",
       "title": "Concentración Motera de Llanes",
       "date": "2026-08-01",
       "end_date": "2026-08-03",
@@ -156,6 +170,7 @@
       "short_ru": "Трёхдневный мото-слёт в Льянесе"
     },
     {
+      "id": "889273512d",
       "title": "XIV Concentración de Clásicos, Coches y Motos Alto Asón 2026",
       "date": "2026-08-01",
       "end_date": "2026-08-02",
@@ -167,6 +182,7 @@
       "short_ru": "Слёт классических авто и мото в долине Альто-Асон"
     },
     {
+      "id": "b02db1c9a0",
       "title": "XII KDD To'Tieso",
       "date": "2026-08-01",
       "end_date": null,
@@ -178,6 +194,7 @@
       "short_ru": "Мотовстреча KDD To'Tieso в Торресилья-де-ла-Абадеса"
     },
     {
+      "id": "19046b1f02",
       "title": "V Concentración de Vehículos Clásicos Las Regueras 2026",
       "date": "2026-08-02",
       "end_date": null,
@@ -189,6 +206,7 @@
       "short_ru": "Слёт классической техники (авто и мото) в Лас-Регерас"
     },
     {
+      "id": "3ceed4ae41",
       "title": "XVIII Matinal motera Xátiva",
       "date": "2026-08-02",
       "end_date": null,
@@ -200,6 +218,7 @@
       "short_ru": "Утренняя мотовстреча в Хативе"
     },
     {
+      "id": "d17e569b98",
       "title": "XXII Motoalmuerzo Formentera del Segura",
       "date": "2026-08-02",
       "end_date": null,
@@ -211,6 +230,7 @@
       "short_ru": "Мотозавтрак в Форментера-дель-Сегура"
     },
     {
+      "id": "2dbc5a02d7",
       "title": "Concentración Motera de Peñíscola",
       "date": "2026-08-07",
       "end_date": "2026-08-10",
@@ -222,6 +242,7 @@
       "short_ru": "Мото-слёт в Пеньисколе (Кастельон), 7–10 августа"
     },
     {
+      "id": "f62028b021",
       "title": "XVII Concentración Motera Ría de Noia 2026",
       "date": "2026-08-07",
       "end_date": "2026-08-09",
@@ -233,6 +254,7 @@
       "short_ru": "Мото-слёт у устья реки Ноя"
     },
     {
+      "id": "b5b68e5778",
       "title": "Xuntanza Moteira Xinzo de Limia 2026",
       "date": "2026-08-07",
       "end_date": null,
@@ -244,6 +266,7 @@
       "short_ru": "Мотослёт в Хинсо-де-Лимия (Оренсе, Галисия)"
     },
     {
+      "id": "520ac77fb4",
       "title": "XXVII Concentración de motos La Pellejo",
       "date": "2026-08-07",
       "end_date": "2026-08-09",
@@ -255,6 +278,7 @@
       "short_ru": "Мото-слёт «La Pellejo» в Рибафораде, Наварра"
     },
     {
+      "id": "0d99441922",
       "title": "XVI Encuentro Motero Los Otros Topares 2026",
       "date": "2026-08-08",
       "end_date": null,
@@ -266,6 +290,7 @@
       "short_ru": "Мотовстреча в горном селении Топарес"
     },
     {
+      "id": "865c9937ad",
       "title": "G.P.Velocidad «Ciudad de La Bañeza» 2026",
       "date": "2026-08-08",
       "end_date": "2026-08-09",
@@ -277,6 +302,7 @@
       "short_ru": "Гоночный уик-энд Гран-при в Ла-Баньесе, Леон"
     },
     {
+      "id": "6ebc52db34",
       "title": "XI Arrejuntamiento Riolobos",
       "date": "2026-08-08",
       "end_date": "2026-08-09",
@@ -288,6 +314,7 @@
       "short_ru": "Мото-встреча в Риолобосе, Касерес"
     },
     {
+      "id": "9fe8be97df",
       "title": "Moto Almuerzo Feria Mencatur",
       "date": "2026-08-09",
       "end_date": null,
@@ -299,6 +326,7 @@
       "short_ru": "Мото-завтрак в рамках ярмарки Mencatur"
     },
     {
+      "id": "7e9f4855bb",
       "title": "Concentración Anual de Clásicos Toranzo 2026",
       "date": "2026-08-09",
       "end_date": null,
@@ -310,6 +338,7 @@
       "short_ru": "Ежегодный слёт классической техники в долине Торансо"
     },
     {
+      "id": "89b15d1abf",
       "title": "XIII Reunión motera Huétor Vega 2026",
       "date": "2026-08-09",
       "end_date": null,
@@ -321,6 +350,7 @@
       "short_ru": "Мотовстреча в Уэтор-Веге"
     },
     {
+      "id": "8eccc6499a",
       "title": "VII Matinal motera Bellpuig",
       "date": "2026-08-09",
       "end_date": null,
@@ -332,6 +362,7 @@
       "short_ru": "Утренняя мотовстреча в Бельпуч"
     },
     {
+      "id": "cb653906fe",
       "title": "XI Almuerzo motero Ceutí",
       "date": "2026-08-09",
       "end_date": null,
@@ -343,6 +374,7 @@
       "short_ru": "Мотозавтрак в Сеути"
     },
     {
+      "id": "9747d87f64",
       "title": "Semana Grande Biker Friendly y III Motoasado BF 2026",
       "date": "2026-08-12",
       "end_date": "2026-08-16",
@@ -354,6 +386,7 @@
       "short_ru": "Байкерская неделя и мото-жаркое в Вильянуэва-де-Оскос"
     },
     {
+      "id": "575962d86e",
       "title": "3ª Concentración Mototurística",
       "date": "2026-08-14",
       "end_date": null,
@@ -365,6 +398,7 @@
       "short_ru": "Мототуристический слёт в Ксинсо-де-Лимия"
     },
     {
+      "id": "255e6d3a0f",
       "title": "Concentración Motera de Cambrils",
       "date": "2026-08-14",
       "end_date": "2026-08-17",
@@ -376,6 +410,7 @@
       "short_ru": "Мото-слёт на побережье Тарраконы в Камбрильсе"
     },
     {
+      "id": "4bfde0921b",
       "title": "XVII Concentración Motera Piratas de Adra 2026",
       "date": "2026-08-14",
       "end_date": "2026-08-16",
@@ -387,6 +422,7 @@
       "short_ru": "Мото-слёт «Пираты Адры» на юге Андалусии"
     },
     {
+      "id": "6163287395",
       "title": "III Concentración mototurística Xinzo de Limia",
       "date": "2026-08-14",
       "end_date": "2026-08-15",
@@ -398,6 +434,7 @@
       "short_ru": "Мототуристическая концентрация в Синсо-де-Лимия, Оренсе"
     },
     {
+      "id": "d5fa87974d",
       "title": "Concentración Motera Medina del Campo",
       "date": "2026-08-15",
       "end_date": "2026-08-18",
@@ -409,6 +446,7 @@
       "short_ru": "Мото-слёт в Медина-дель-Кампо"
     },
     {
+      "id": "02d3fed13e",
       "title": "X Concentración Motera Alovera 2026",
       "date": "2026-08-15",
       "end_date": null,
@@ -420,6 +458,7 @@
       "short_ru": "Юбилейный мото-слёт в Аловере"
     },
     {
+      "id": "31fd1aa891",
       "title": "V Concentración Motera Arboleanos por el Mundo 2026",
       "date": "2026-08-15",
       "end_date": "2026-08-16",
@@ -431,6 +470,7 @@
       "short_ru": "Мото-слёт «Арболеанос по миру» в Андалусии"
     },
     {
+      "id": "a162ba51c3",
       "title": "VI Nocturna Los Tusos",
       "date": "2026-08-15",
       "end_date": null,
@@ -442,6 +482,7 @@
       "short_ru": "Ночной мотопробег Los Tusos в Уэльве"
     },
     {
+      "id": "5f7d47a9c7",
       "title": "I Quedada de Vehículos Clásicos de Sayago 2026",
       "date": "2026-08-16",
       "end_date": null,
@@ -453,6 +494,7 @@
       "short_ru": "Первая встреча классической техники в Саяго"
     },
     {
+      "id": "d529d9e87b",
       "title": "Concentración de Motos y Coches Clásicos Alcublas 2026",
       "date": "2026-08-16",
       "end_date": null,
@@ -464,6 +506,7 @@
       "short_ru": "Слёт классических мотоциклов и автомобилей в Алькубласе"
     },
     {
+      "id": "e8f6601da9",
       "title": "IV Concentración de Clásicos, Coches y Motos El Regato 2026",
       "date": "2026-08-16",
       "end_date": null,
@@ -475,6 +518,7 @@
       "short_ru": "Слёт классических авто и мото «Эль Регато» в Баракальдо"
     },
     {
+      "id": "64f202b419",
       "title": "Rally HDC España, Galerna 2026",
       "date": "2026-08-20",
       "end_date": "2026-08-23",
@@ -486,6 +530,7 @@
       "short_ru": "Ралли Harley-Davidson Club Испания «Galerna» в Кантабрии"
     },
     {
+      "id": "45c812eacb",
       "title": "Concentración de Hondarribia",
       "date": "2026-08-21",
       "end_date": "2026-08-23",
@@ -497,6 +542,7 @@
       "short_ru": "Мото-слёт в приграничном Ондаррибиа"
     },
     {
+      "id": "3875b079fb",
       "title": "I Concentración Motos por Béjar 2026",
       "date": "2026-08-21",
       "end_date": "2026-08-23",
@@ -508,6 +554,7 @@
       "short_ru": "Первый мото-слёт в Бехаре"
     },
     {
+      "id": "f0ac6f81ff",
       "title": "XXVIII Concentración Mancha Custom Club",
       "date": "2026-08-21",
       "end_date": "2026-08-23",
@@ -519,6 +566,7 @@
       "short_ru": "Кастом-слёт в Сокуэльямосе, Сьюдад-Реаль"
     },
     {
+      "id": "8e12612f9d",
       "title": "Rábade Biker's II",
       "date": "2026-08-22",
       "end_date": "2026-08-23",
@@ -530,6 +578,7 @@
       "short_ru": "Второй байкерский слёт в Рабаде"
     },
     {
+      "id": "489fc92e02",
       "title": "Sun To Sun Asturias - Gijón 2026",
       "date": "2026-08-22",
       "end_date": null,
@@ -541,6 +590,7 @@
       "short_ru": "Мотомарафон «от рассвета до заката» в Хихоне"
     },
     {
+      "id": "24c45c902f",
       "title": "XIX Motoabuelada 2026",
       "date": "2026-08-22",
       "end_date": "2026-08-23",
@@ -552,6 +602,7 @@
       "short_ru": "Слёт классических мотоциклов «Motoabuelada»"
     },
     {
+      "id": "ebb2b9449c",
       "title": "V Trobada Motards Alfarrás i Comarca",
       "date": "2026-08-23",
       "end_date": null,
@@ -563,6 +614,7 @@
       "short_ru": "Мотовстреча в Альфаррасе и округе"
     },
     {
+      "id": "bc39bff2c9",
       "title": "Cuenca Ride",
       "date": "2026-08-28",
       "end_date": null,
@@ -574,6 +626,7 @@
       "short_ru": "Мотовыезд Cuenca Ride по красивым дорогам провинции"
     },
     {
+      "id": "50a7b7318e",
       "title": "Bizkaia Rider 2026",
       "date": "2026-08-28",
       "end_date": "2026-08-29",
@@ -585,6 +638,7 @@
       "short_ru": "Мото-маршрут «Bizkaia Rider» по Бискайе"
     },
     {
+      "id": "2fb39741f5",
       "title": "XIV Concentración motera Yuncos",
       "date": "2026-08-28",
       "end_date": "2026-08-29",
@@ -596,6 +650,7 @@
       "short_ru": "Мото-слёт в Юнкосе, Толедо"
     },
     {
+      "id": "e4ba92dac9",
       "title": "X Quedada motera Aldeaseca de la Armuña",
       "date": "2026-08-28",
       "end_date": "2026-08-29",
@@ -607,6 +662,7 @@
       "short_ru": "Мото-встреча в Альдеасеке-де-ла-Армунья, Саламанка"
     },
     {
+      "id": "39ad47c6cd",
       "title": "XXIX Concentración nacional motera Villa de Montalbán",
       "date": "2026-08-28",
       "end_date": "2026-08-30",
@@ -618,6 +674,7 @@
       "short_ru": "Национальный мото-слёт в Монтальбане, Теруэль"
     },
     {
+      "id": "a449978af8",
       "title": "I Concentración mototurística Demonios Lokos",
       "date": "2026-08-28",
       "end_date": "2026-08-30",
@@ -629,6 +686,7 @@
       "short_ru": "Первая мототуристическая концентрация в Бетете, Куэнка"
     },
     {
+      "id": "f0f1d68618",
       "title": "XII Xuntanza Motera Vila dos Viaductos 2026",
       "date": "2026-08-29",
       "end_date": null,
@@ -640,6 +698,7 @@
       "short_ru": "Мото-встреча «Город виадуков» в Редонделе"
     },
     {
+      "id": "fcb39013f1",
       "title": "II Concentración Jabatos Bravíos",
       "date": "2026-08-29",
       "end_date": "2026-08-30",
@@ -651,6 +710,7 @@
       "short_ru": "Мото-слёт «Jabatos Bravíos» в Луго"
     },
     {
+      "id": "a6dfebb65f",
       "title": "XXXIII Almuerzo motero Pliego",
       "date": "2026-08-30",
       "end_date": null,
@@ -662,6 +722,7 @@
       "short_ru": "Мотозавтрак в Плиего"
     },
     {
+      "id": "02191d001a",
       "title": "Tandas libres y curso en el Circuito del Jarama (Easyrace)",
       "date": "2026-09-04",
       "end_date": null,
@@ -673,6 +734,7 @@
       "short_ru": "Трек-дей (тандас) и курс пилотажа на трассе Харама от организатора Easyrace"
     },
     {
+      "id": "9803767759",
       "title": "Concentración motoclub Caimanes",
       "date": "2026-09-04",
       "end_date": "2026-09-06",
@@ -684,6 +746,7 @@
       "short_ru": "Слёт мотоклуба Caimanes в Ла-Робле, Леон"
     },
     {
+      "id": "2e444d311d",
       "title": "MotoJunior en el Circuit Ricardo Tormo",
       "date": "2026-09-05",
       "end_date": "2026-09-06",
@@ -695,6 +758,7 @@
       "short_ru": "Гонки MotoJunior (антесала MotoGP) в Честе — 5-6 сентября"
     },
     {
+      "id": "58b67e918f",
       "title": "Concentración Motera Guadalajara",
       "date": "2026-09-05",
       "end_date": "2026-09-06",
@@ -706,6 +770,7 @@
       "short_ru": "Мото-слёт в столице провинции Гвадалахара"
     },
     {
+      "id": "187129f7cd",
       "title": "Lechubikers 12+1 2026",
       "date": "2026-09-05",
       "end_date": null,
@@ -717,6 +782,7 @@
       "short_ru": "Мото-встреча клуба Lechubikers под Мадридом"
     },
     {
+      "id": "65bfa5358c",
       "title": "2.º Evento Motero Campos del Río 2026",
       "date": "2026-09-05",
       "end_date": null,
@@ -728,6 +794,7 @@
       "short_ru": "Второй мото-слёт в Кампос-дель-Рио"
     },
     {
+      "id": "97a42db9d9",
       "title": "XVII Aniversario Sleepwalkers",
       "date": "2026-09-05",
       "end_date": null,
@@ -739,6 +806,7 @@
       "short_ru": "17-я годовщина мотоклуба Sleepwalkers"
     },
     {
+      "id": "656f8218af",
       "title": "XXXIV Aniversario Gremlin´s Motril",
       "date": "2026-09-05",
       "end_date": "2026-09-06",
@@ -750,6 +818,7 @@
       "short_ru": "34-я годовщина мотоклуба Gremlin's в Мотриле, Гранада"
     },
     {
+      "id": "cd3b345b6f",
       "title": "XV Concentración motera Ciudad de Bailén",
       "date": "2026-09-05",
       "end_date": "2026-09-06",
@@ -761,6 +830,7 @@
       "short_ru": "Мото-слёт в Байлене, Хаэн"
     },
     {
+      "id": "fe758e98ea",
       "title": "XVII Almuerzo Motero Los Tárragas 2026",
       "date": "2026-09-06",
       "end_date": null,
@@ -772,6 +842,7 @@
       "short_ru": "Мотозавтрак «Los Tárragas» в Сан-Педро-дель-Пинатар"
     },
     {
+      "id": "77dc5a2ef7",
       "title": "Fiesta Argentina Cantera Biker Bellvei 2026",
       "date": "2026-09-06",
       "end_date": null,
@@ -783,6 +854,7 @@
       "short_ru": "Байкерская вечеринка в аргентинском стиле в Бельвеи"
     },
     {
+      "id": "8b1ce6f5f4",
       "title": "III Trobada motera Sidamon",
       "date": "2026-09-06",
       "end_date": null,
@@ -794,6 +866,7 @@
       "short_ru": "Мотовстреча в Сидамоне"
     },
     {
+      "id": "dfaeb37d25",
       "title": "Big Twin XLI",
       "date": "2026-09-10",
       "end_date": "2026-09-13",
@@ -805,6 +878,7 @@
       "short_ru": "Кастом-слёт Big Twin — сорок первое издание"
     },
     {
+      "id": "17c6e7f1b8",
       "title": "V Concentración Motera Ciudad de Ceuta 2026",
       "date": "2026-09-11",
       "end_date": "2026-09-13",
@@ -816,6 +890,7 @@
       "short_ru": "Мото-слёт в Сеуте"
     },
     {
+      "id": "d7011bdf9b",
       "title": "XI Concentración Basurde peña motera",
       "date": "2026-09-11",
       "end_date": "2026-09-13",
@@ -827,6 +902,7 @@
       "short_ru": "Мото-слёт пеньи Basurde в Сантестебане, Наварра"
     },
     {
+      "id": "d9d9680730",
       "title": "V Concentración Descubridores Huelva",
       "date": "2026-09-11",
       "end_date": "2026-09-13",
@@ -838,6 +914,7 @@
       "short_ru": "Мото-слёт «Descubridores» в Уэльве"
     },
     {
+      "id": "eae98641eb",
       "title": "XXXVIII Concentración internacional Rías Baixas Sanxenxo",
       "date": "2026-09-11",
       "end_date": "2026-09-13",
@@ -849,6 +926,7 @@
       "short_ru": "Международная концентрация Rías Baixas в Санхенхо"
     },
     {
+      "id": "4eda15f091",
       "title": "II Concentración mototurística Ciudad de Mérida",
       "date": "2026-09-11",
       "end_date": "2026-09-13",
@@ -860,6 +938,7 @@
       "short_ru": "Мототуристическая концентрация в Мериде"
     },
     {
+      "id": "d41da463b3",
       "title": "III Motoalmuerzo Villarejo de Salvanes 2026",
       "date": "2026-09-12",
       "end_date": null,
@@ -871,6 +950,7 @@
       "short_ru": "Третий мотозавтрак в Вильярехо-де-Сальванес"
     },
     {
+      "id": "fdfee3606c",
       "title": "XIII Concentración Motera Porcuna 2026",
       "date": "2026-09-12",
       "end_date": "2026-09-13",
@@ -882,6 +962,7 @@
       "short_ru": "Мото-слёт в Поркуне"
     },
     {
+      "id": "2de5ad0676",
       "title": "XIV Concentración de Vehículos Clásicos Udondo 2026",
       "date": "2026-09-12",
       "end_date": null,
@@ -893,6 +974,7 @@
       "short_ru": "Слёт классической техники (авто и мото) в Лейоа"
     },
     {
+      "id": "e2de6e3545",
       "title": "III Concentración motera Los Cacharrejos",
       "date": "2026-09-12",
       "end_date": null,
@@ -904,6 +986,7 @@
       "short_ru": "Мотослёт Los Cacharrejos в Вильялуэнга-де-ла-Сагра"
     },
     {
+      "id": "12acc38490",
       "title": "Ruta del Oso 2026",
       "date": "2026-09-12",
       "end_date": null,
@@ -915,6 +998,7 @@
       "short_ru": "Мотопробег Ruta del Oso в Осуне"
     },
     {
+      "id": "d2fc35ec15",
       "title": "XXV Concentración motera Pichas Locas",
       "date": "2026-09-12",
       "end_date": "2026-09-13",
@@ -926,6 +1010,7 @@
       "short_ru": "Юбилейный мото-слёт «Pichas Locas» в Нуэва-Картейе, Кордова"
     },
     {
+      "id": "d034ce365e",
       "title": "Custom Meeting Xàtiva",
       "date": "2026-09-13",
       "end_date": null,
@@ -937,6 +1022,7 @@
       "short_ru": "Кастом-слёт в Хативе, Валенсия — 13 сентября"
     },
     {
+      "id": "fc5aa04c51",
       "title": "X Almuerzo Motero Mula 2026",
       "date": "2026-09-13",
       "end_date": null,
@@ -948,6 +1034,7 @@
       "short_ru": "Юбилейный мотозавтрак в Муле"
     },
     {
+      "id": "5cbc37937a",
       "title": "XIV Aniversario Yeye Bikers",
       "date": "2026-09-13",
       "end_date": null,
@@ -959,6 +1046,7 @@
       "short_ru": "14-я годовщина мотоклуба Yeye Bikers"
     },
     {
+      "id": "61f013da2e",
       "title": "XI Aniversario Iberian Motards",
       "date": "2026-09-13",
       "end_date": null,
@@ -970,6 +1058,7 @@
       "short_ru": "11-я годовщина клуба Iberian Motards"
     },
     {
+      "id": "02a84b5c51",
       "title": "Buitres Leonaos XX",
       "date": "2026-09-17",
       "end_date": "2026-09-20",
@@ -981,6 +1070,7 @@
       "short_ru": "Юбилейный мото-слёт «Buitres Leonaos» в Касересе"
     },
     {
+      "id": "d3fdf8a8d4",
       "title": "Los Rebotaos XI",
       "date": "2026-09-18",
       "end_date": "2026-09-20",
@@ -992,6 +1082,7 @@
       "short_ru": "Мото-слёт «Los Rebotaos» в Бискайе"
     },
     {
+      "id": "077240bb12",
       "title": "XVIII Concentración Villa de Conil",
       "date": "2026-09-18",
       "end_date": "2026-09-20",
@@ -1003,6 +1094,7 @@
       "short_ru": "Мото-слёт в Кониле-де-ла-Фронтера, Кадис"
     },
     {
+      "id": "93db3ddd2c",
       "title": "XXV Concentración mototurística Os Mouchos",
       "date": "2026-09-18",
       "end_date": "2026-09-20",
@@ -1014,6 +1106,7 @@
       "short_ru": "Мототуристическая концентрация «Os Mouchos» в Параделе, Луго"
     },
     {
+      "id": "fc8553d40e",
       "title": "IV Concentración Ay Pollito la que Has Liao",
       "date": "2026-09-18",
       "end_date": "2026-09-20",
@@ -1025,6 +1118,7 @@
       "short_ru": "Мото-слёт «Ay Pollito la que Has Liao» в Эль-Франко, Астурия"
     },
     {
+      "id": "74c706a2ff",
       "title": "II Concentración motera solidaria Motíberos",
       "date": "2026-09-18",
       "end_date": "2026-09-20",
@@ -1036,6 +1130,7 @@
       "short_ru": "Благотворительный мото-слёт «Motíberos» в Аренс-де-Льедо, Теруэль"
     },
     {
+      "id": "da5e150fda",
       "title": "XI Concentración de motos Villa de Tapia",
       "date": "2026-09-18",
       "end_date": "2026-09-20",
@@ -1047,6 +1142,7 @@
       "short_ru": "Мото-слёт в Тапиа-де-Касариего, Астурия"
     },
     {
+      "id": "2dd593c170",
       "title": "Concentración Motera Salamanca",
       "date": "2026-09-19",
       "end_date": "2026-09-21",
@@ -1058,6 +1154,7 @@
       "short_ru": "Мото-слёт в Саламанке"
     },
     {
+      "id": "256555945a",
       "title": "Sun To Sun Madrid 2026",
       "date": "2026-09-19",
       "end_date": null,
@@ -1069,6 +1166,7 @@
       "short_ru": "Мотомарафон «от рассвета до заката» в Мадриде"
     },
     {
+      "id": "81c92389be",
       "title": "XVII Concentración de Vehículos Clásicos Villa de Alhama 2026",
       "date": "2026-09-19",
       "end_date": null,
@@ -1080,6 +1178,7 @@
       "short_ru": "Слёт классической техники (авто и мото) в Альхаме"
     },
     {
+      "id": "7d22e3485f",
       "title": "II Concentración de Vehículos Clásicos de Cártama 2026",
       "date": "2026-09-19",
       "end_date": null,
@@ -1091,6 +1190,7 @@
       "short_ru": "Слёт классической техники (авто и мото) в Картаме"
     },
     {
+      "id": "9b68e1bc2f",
       "title": "IX Xuntanza moteira Os Keimaos",
       "date": "2026-09-19",
       "end_date": null,
@@ -1102,6 +1202,7 @@
       "short_ru": "Мотослёт Os Keimaos в Кальдас-де-Рейс"
     },
     {
+      "id": "2d1d150437",
       "title": "Tandas libres y curso en el Circuito de Albacete (AB Riders)",
       "date": "2026-09-20",
       "end_date": null,
@@ -1113,6 +1214,7 @@
       "short_ru": "Трек-дей (тандас) и курс пилотажа на трассе Альбасете от организатора AB Riders"
     },
     {
+      "id": "16cdd97f6e",
       "title": "VII Concentració motera Seròs",
       "date": "2026-09-20",
       "end_date": null,
@@ -1124,6 +1226,7 @@
       "short_ru": "Мотослёт в Серосе"
     },
     {
+      "id": "a4568e1c08",
       "title": "Rally Pistón",
       "date": "2026-09-24",
       "end_date": "2026-09-27",
@@ -1135,6 +1238,7 @@
       "short_ru": "Мото-ралли «Pistón» по Кантабрии"
     },
     {
+      "id": "5aa95dbb3c",
       "title": "Rider Dinosaurios Teruel",
       "date": "2026-09-25",
       "end_date": null,
@@ -1146,6 +1250,7 @@
       "short_ru": "Мотособытие в Теруэле с необычным «динозавровым» названием"
     },
     {
+      "id": "ce45506024",
       "title": "Xtreme Challenge Madrid 2026",
       "date": "2026-09-25",
       "end_date": "2026-09-26",
@@ -1157,6 +1262,7 @@
       "short_ru": "Внедорожное мотособытие Xtreme Challenge в Мадриде"
     },
     {
+      "id": "1887197409",
       "title": "Concentración Motera Logroño",
       "date": "2026-09-26",
       "end_date": "2026-09-28",
@@ -1168,6 +1274,7 @@
       "short_ru": "Мото-слёт в столице Ла-Риохи"
     },
     {
+      "id": "5a29f027e2",
       "title": "Xtreme Challenge Toledo 2026",
       "date": "2026-09-26",
       "end_date": null,
@@ -1179,6 +1286,7 @@
       "short_ru": "Внедорожное мотособытие Xtreme Challenge в Толедо"
     },
     {
+      "id": "9d52959b56",
       "title": "XXI Aniversario Raiders Granada",
       "date": "2026-09-26",
       "end_date": null,
@@ -1190,6 +1298,7 @@
       "short_ru": "21-я годовщина мотоклуба Raiders Granada"
     },
     {
+      "id": "cc670dce35",
       "title": "Concentración Motera Bilbao",
       "date": "2026-09-27",
       "end_date": "2026-09-29",
@@ -1201,6 +1310,7 @@
       "short_ru": "Мото-слёт в Бильбао"
     },
     {
+      "id": "e5fc663c2e",
       "title": "XVI Encuentro motero Custom Lumbreras",
       "date": "2026-09-27",
       "end_date": null,
@@ -1212,6 +1322,7 @@
       "short_ru": "Мотовстреча Custom Lumbreras"
     },
     {
+      "id": "cc92c8c34d",
       "title": "VI Matinal motera Depredadores de Asfalto MG",
       "date": "2026-09-27",
       "end_date": null,
@@ -1223,6 +1334,7 @@
       "short_ru": "Утренняя мотовстреча Depredadores de Asfalto MG"
     },
     {
+      "id": "5c02e420f6",
       "title": "Vila de Flix XXIX",
       "date": "2026-10-02",
       "end_date": "2026-10-04",
@@ -1234,6 +1346,7 @@
       "short_ru": "Мото-слёт «Вила де Флих» — 29-е издание"
     },
     {
+      "id": "0c76864c5d",
       "title": "NavaRider Day 2026",
       "date": "2026-10-03",
       "end_date": null,
@@ -1245,6 +1358,7 @@
       "short_ru": "Мотофестиваль NavaRider Day в Памплоне"
     },
     {
+      "id": "8dfd679344",
       "title": "Concentración vehículos clásicos Villahermosa 2026",
       "date": "2026-10-04",
       "end_date": null,
@@ -1256,6 +1370,7 @@
       "short_ru": "Слёт классической техники (авто и мото) в Вильяэрмосе"
     },
     {
+      "id": "a747104e8f",
       "title": "XXIX Trobada a Rosselló",
       "date": "2026-10-04",
       "end_date": null,
@@ -1267,6 +1382,7 @@
       "short_ru": "29-я мотовстреча в Росселло"
     },
     {
+      "id": "3686c493ce",
       "title": "XXXI Concentración de Motos Nómadas Lanzarote 2026",
       "date": "2026-10-09",
       "end_date": "2026-10-11",
@@ -1278,6 +1394,7 @@
       "short_ru": "Мото-слёт «Кочевники» на Лансароте"
     },
     {
+      "id": "d915dba181",
       "title": "Tandas Biker's Days Ricardo Tormo 2026",
       "date": "2026-10-10",
       "end_date": "2026-10-12",
@@ -1289,6 +1406,7 @@
       "short_ru": "Track day — трассовые заезды на Ricardo Tormo"
     },
     {
+      "id": "e184736e8c",
       "title": "Concentración Motera Burgos",
       "date": "2026-10-11",
       "end_date": "2026-10-13",
@@ -1300,6 +1418,7 @@
       "short_ru": "Мото-слёт в Бургосе"
     },
     {
+      "id": "c4488b3ef8",
       "title": "Motoretroguara",
       "date": "2026-10-17",
       "end_date": null,
