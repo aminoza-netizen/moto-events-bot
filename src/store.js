@@ -122,4 +122,13 @@ function cleanup(db) {
   db.news = db.news.filter((n) => new Date(n.created_at).getTime() > cutoff);
 }
 
-module.exports = { load, save, addEvents, addNews, cleanup, daysUntil, todayMadrid };
+// Счётчики за сегодня (анонсы/новости/пересылки в группу) — сбрасываются с новым днём
+function todayMeta(db) {
+  const today = todayMadrid();
+  if (!db.meta || db.meta.date !== today) {
+    db.meta = { date: today, announces: 0, news: 0, forwards: 0 };
+  }
+  return db.meta;
+}
+
+module.exports = { load, save, addEvents, addNews, cleanup, daysUntil, todayMadrid, todayMeta };

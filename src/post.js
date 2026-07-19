@@ -102,13 +102,16 @@ async function forwardToGroup(messageId) {
   return msg.message_id;
 }
 
-// Пост в канал + пересылка в группу одним вызовом
+// Пост в канал; в группу пересылаем только по флагу opts.forward
+// (отбор «самых важных, не больше N в день» делает вызывающий код)
 async function publish(html, imageUrl, opts = {}) {
   const messageId = await sendToChannel(html, imageUrl, opts);
-  try {
-    await forwardToGroup(messageId);
-  } catch (e) {
-    console.error('Пересылка в группу не удалась:', e.message);
+  if (opts.forward) {
+    try {
+      await forwardToGroup(messageId);
+    } catch (e) {
+      console.error('Пересылка в группу не удалась:', e.message);
+    }
   }
   return messageId;
 }
