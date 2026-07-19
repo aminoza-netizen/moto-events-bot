@@ -278,7 +278,7 @@ function fmtRange(ev) {
 
 function filtered() {
   return DATA.events.filter(e =>
-    (!fRegion || e.region === fRegion) && (!fCity || e.city === fCity)
+    (!fRegion || e.zone === fRegion) && (!fCity || e.city === fCity)
   );
 }
 
@@ -315,8 +315,18 @@ function renderFeed() {
 }
 
 function renderFilters() {
-  const regions = [...new Set(DATA.events.map(e => e.region).filter(Boolean))].sort();
-  const cities = [...new Set(DATA.events.filter(e => !fRegion || e.region === fRegion).map(e => e.city).filter(Boolean))].sort();
+  // регионы = автономные сообщества (без дублей), приоритетные — сверху
+  const TOP = ['Комунидад Валенсиана', 'Мурсия'];
+  const zones = [...new Set(DATA.events.map(e => e.zone).filter(Boolean))]
+    .sort((a, b) => {
+      const ia = TOP.indexOf(a), ib = TOP.indexOf(b);
+      if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
+      if (a === 'Другие регионы') return 1;
+      if (b === 'Другие регионы') return -1;
+      return a.localeCompare(b, 'ru');
+    });
+  const regions = zones;
+  const cities = [...new Set(DATA.events.filter(e => !fRegion || e.zone === fRegion).map(e => e.city).filter(Boolean))].sort();
   const rSel = document.getElementById('f-region'), cSel = document.getElementById('f-city');
   rSel.innerHTML = '<option value="">Все регионы</option>' + regions.map(r => `<option ${r===fRegion?'selected':''}>${esc(r)}</option>`).join('');
   cSel.innerHTML = '<option value="">Все города</option>' + cities.map(c => `<option ${c===fCity?'selected':''}>${esc(c)}</option>`).join('');
