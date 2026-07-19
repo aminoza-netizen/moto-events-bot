@@ -34,6 +34,8 @@ function buildWebData(db) {
       url: e.url || '',
       image_url: e.image_url || null,
       short_ru: e.short_ru || '',
+      // полный текст для детальной карточки в мини-аппе (без внешней ссылки в конце)
+      full_ru: String(e.announce_ru || '').replace(/\n*<a href="[^"]*">[^<]*<\/a>\s*$/i, '').trimEnd(),
     }))
     .sort((a, b) => a.date.localeCompare(b.date));
 
