@@ -6,6 +6,10 @@ const GROUP = () => (process.env.GROUP_ID || '').trim();
 // Лимит Telegram: подпись к фото — 1024 символа, обычный текст — 4096
 const CAPTION_LIMIT = 1000;
 
+// Кнопка «календарь» под каждым постом — прямая ссылка на мини-апп
+const APP_LINK = () => process.env.APP_DIRECT_LINK || 'https://t.me/spainmotonews_bot/afisha';
+const calendarKb = () => ({ inline_keyboard: [[{ text: '📅 Календарь всех событий', url: APP_LINK() }]] });
+
 // SILENT_POSTS=1 — отправка без звука уведомлений
 const silent = () => process.env.SILENT_POSTS === '1';
 
@@ -52,12 +56,13 @@ async function sendToChannel(html, imageUrl) {
         photo: imageUrl,
         caption: html,
         parse_mode: 'HTML',
+        reply_markup: calendarKb(),
       });
       return msg.message_id;
     } catch (e) {
       if (isParseError(e)) {
         try {
-          const msg = await tg('sendPhoto', { chat_id: CHANNEL(), photo: imageUrl, caption: stripHtml(html) });
+          const msg = await tg('sendPhoto', { chat_id: CHANNEL(), photo: imageUrl, caption: stripHtml(html), reply_markup: calendarKb() });
           return msg.message_id;
         } catch (e2) { /* картинка битая — падаем в текст */ }
       }
@@ -73,12 +78,13 @@ async function sendToChannel(html, imageUrl) {
       text: html,
       parse_mode: 'HTML',
       link_preview_options: { is_disabled: false },
+      reply_markup: calendarKb(),
     });
     return msg.message_id;
   } catch (e) {
     // Невалидный HTML от модели — шлём без разметки
     if (isParseError(e)) {
-      const msg = await tg('sendMessage', { chat_id: CHANNEL(), text: stripHtml(html) });
+      const msg = await tg('sendMessage', { chat_id: CHANNEL(), text: stripHtml(html), reply_markup: calendarKb() });
       return msg.message_id;
     }
     throw e;
