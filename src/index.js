@@ -4,6 +4,8 @@ const store = require('./store');
 const { collectFromSources, collectFromSearch } = require('./collect');
 const { publish, sendToChannel } = require('./post');
 const { getPageImage } = require('./images');
+const { exportWeb } = require('./export-web');
+const { startAdminBridge } = require('./admin-bridge');
 
 const MAX_ANNOUNCES_PER_RUN = 4;
 const MAX_NEWS_PER_RUN = 2;
@@ -191,6 +193,7 @@ async function runDaily(skipCollect = false) {
   }
 
   store.save(db);
+  exportWeb(db); // обновить данные мини-аппа (календарь на GitHub Pages)
   console.log(`Готово. Опубликовано постов: ${posted}. Событий в базе: ${db.events.length}, новостей: ${db.news.length}`);
 }
 
@@ -223,6 +226,10 @@ if (mode === 'sources') {
   // Разовый запуск полного цикла (сбор + публикация)
   checkEnv();
   runDaily().catch((e) => { console.error('Ошибка:', e); process.exit(1); });
+} else if (mode === 'export') {
+  // Только пересобрать данные мини-аппа из базы
+  const db = store.load();
+  exportWeb(db);
 } else if (mode === 'post') {
   // Только публикация того, что уже в базе (без сбора)
   checkEnv();
@@ -239,4 +246,5 @@ if (mode === 'sources') {
   }, { timezone: 'Europe/Madrid' });
   console.log(`Бот мото-афиши запущен. Ежедневный пост в ${hour}:00 по времени Испании (Europe/Madrid).`);
   console.log('Разовый запуск: node src/index.js run | Тест канала: node src/index.js test');
+  startAdminBridge(); // «написать админу»: пересылка личных сообщений бота
 }

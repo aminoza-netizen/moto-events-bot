@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Мото-афиша Испании</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+  :root {
+    --bg: var(--tg-theme-bg-color, #ffffff);
+    --bg2: var(--tg-theme-secondary-bg-color, #f1f2f6);
+    --text: var(--tg-theme-text-color, #111);
+    --hint: var(--tg-theme-hint-color, #8a8f98);
+    --link: var(--tg-theme-link-color, #2678b6);
+    --btn: var(--tg-theme-button-color, #d1572f);
+    --btn-text: var(--tg-theme-button-text-color, #fff);
+    --accent: #d1572f;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    font-family: -apple-system, system-ui, Roboto, sans-serif;
+    background: var(--bg2); color: var(--text);
+    padding-bottom: 84px; -webkit-tap-highlight-color: transparent;
+  }
+  header { padding: 14px 16px 8px; background: var(--bg); }
+  header h1 { font-size: 19px; }
+  header .sub { color: var(--hint); font-size: 12.5px; margin-top: 2px; }
+
+  .tabs { display: flex; background: var(--bg); border-bottom: 1px solid rgba(128,128,128,.15); position: sticky; top: 0; z-index: 5; }
+  .tab { flex: 1; text-align: center; padding: 11px 0 9px; font-size: 14px; color: var(--hint); border-bottom: 2px solid transparent; cursor: pointer; }
+  .tab.active { color: var(--accent); border-color: var(--accent); font-weight: 600; }
+
+  .filters { display: flex; gap: 8px; padding: 10px 12px 4px; overflow-x: auto; }
+  .filters select {
+    appearance: none; border: none; background: var(--bg); color: var(--text);
+    padding: 8px 12px; border-radius: 10px; font-size: 13.5px; max-width: 47vw;
+  }
+
+  .section-title { padding: 12px 16px 6px; font-size: 13px; font-weight: 700; color: var(--hint); text-transform: uppercase; letter-spacing: .4px; }
+
+  .card {
+    background: var(--bg); border-radius: 14px; margin: 6px 12px; padding: 12px 14px;
+    display: flex; gap: 12px; align-items: flex-start;
+  }
+  .card .datebox {
+    min-width: 46px; text-align: center; background: var(--bg2); border-radius: 10px; padding: 6px 4px;
+  }
+  .card .datebox .d { font-size: 19px; font-weight: 700; line-height: 1.1; }
+  .card .datebox .m { font-size: 11px; color: var(--hint); text-transform: uppercase; }
+  .card .info { flex: 1; min-width: 0; }
+  .card .t { font-size: 14.5px; font-weight: 600; line-height: 1.25; }
+  .card .loc { font-size: 12.5px; color: var(--hint); margin-top: 3px; }
+  .card .desc { font-size: 13px; margin-top: 5px; line-height: 1.35; }
+  .card a.more { font-size: 13px; color: var(--link); text-decoration: none; display: inline-block; margin-top: 5px; }
+  .badge { display: inline-block; font-size: 10.5px; font-weight: 700; color: #fff; background: var(--accent); border-radius: 6px; padding: 2px 6px; margin-bottom: 4px; }
+  .empty { text-align: center; color: var(--hint); padding: 34px 20px; font-size: 14px; }
+
+  /* календарь */
+  .cal { background: var(--bg); border-radius: 14px; margin: 10px 12px; padding: 12px; }
+  .cal-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+  .cal-head .nav { border: none; background: var(--bg2); color: var(--text); width: 34px; height: 34px; border-radius: 10px; font-size: 16px; }
+  .cal-head .mon { font-weight: 700; font-size: 15px; text-transform: capitalize; }
+  .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px; }
+  .cal-grid .wd { text-align: center; font-size: 11px; color: var(--hint); padding: 4px 0; }
+  .day {
+    aspect-ratio: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+    border-radius: 9px; font-size: 13.5px; position: relative; cursor: pointer;
+  }
+  .day.today { outline: 1.5px solid var(--accent); }
+  .day.has { background: var(--bg2); font-weight: 600; }
+  .day.sel { background: var(--accent); color: #fff; }
+  .day .dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); position: absolute; bottom: 5px; }
+  .day.sel .dot { background: #fff; }
+  .day.out { opacity: .3; }
+
+  /* новости */
+  .news-card { background: var(--bg); border-radius: 14px; margin: 8px 12px; padding: 13px 15px; font-size: 13.5px; line-height: 1.4; }
+  .news-card .nd { color: var(--hint); font-size: 11.5px; margin-bottom: 6px; }
+  .news-card a { color: var(--link); }
+  .news-card b { display: inline-block; }
+
+  /* нижние кнопки */
+  .footer {
+    position: fixed; bottom: 0; left: 0; right: 0; display: flex; gap: 8px;
+    padding: 10px 12px calc(10px + env(safe-area-inset-bottom)); background: var(--bg);
+    border-top: 1px solid rgba(128,128,128,.15);
+  }
+  .fbtn {
+    flex: 1; border: none; border-radius: 12px; padding: 11px 4px; font-size: 12.5px; font-weight: 600;
+    background: var(--bg2); color: var(--text); cursor: pointer;
+  }
+  .fbtn.primary { background: var(--btn); color: var(--btn-text); }
+  .updated { text-align: center; color: var(--hint); font-size: 11px; padding: 10px 0 4px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🏍 Мото-афиша Испании</h1>
+  <div class="sub">Слёты, выставки, трек-дни · Аликанте, Валенсия и вся Испания</div>
+</header>
+
+<div class="tabs">
+  <div class="tab active" data-tab="feed">Афиша</div>
+  <div class="tab" data-tab="cal">Календарь</div>
+  <div class="tab" data-tab="news">Новости</div>
+</div>
+
+<div id="view-feed">
+  <div class="filters">
+    <select id="f-region"><option value="">Все регионы</option></select>
+    <select id="f-city"><option value="">Все города</option></select>
+  </div>
+  <div id="soon-wrap">
+    <div class="section-title">🔥 Ближайшие 7 дней</div>
+    <div id="soon"></div>
+  </div>
+  <div class="section-title">📅 Все события</div>
+  <div id="list"></div>
+</div>
+
+<div id="view-cal" style="display:none">
+  <div class="cal">
+    <div class="cal-head">
+      <button class="nav" id="prev">‹</button>
+      <div class="mon" id="mon"></div>
+      <button class="nav" id="next">›</button>
+    </div>
+    <div class="cal-grid" id="grid"></div>
+  </div>
+  <div id="cal-list"></div>
+</div>
+
+<div id="view-news" style="display:none">
+  <div id="news"></div>
+</div>
+
+<div class="updated" id="updated"></div>
+
+<div class="footer">
+  <button class="fbtn primary" onclick="openTg('https://t.me/MotorcyclesSpain')">💬 Группа</button>
+  <button class="fbtn" onclick="openTg('https://t.me/motospainnew')">📣 Канал</button>
+  <button class="fbtn" onclick="openTg('https://t.me/spainmotonews_bot')">✉️ Админу</button>
+</div>
+
+<script>
+const tg = window.Telegram && window.Telegram.WebApp;
+if (tg) { tg.ready(); tg.expand(); }
+function openTg(url) { tg && tg.openTelegramLink ? tg.openTelegramLink(url) : window.open(url, '_blank'); }
+function openUrl(url) { tg && tg.openLink ? tg.openLink(url) : window.open(url, '_blank'); }
+
+const MONTHS = ['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
+const MONTHS_N = ['Январь','Февраль','Март','Апрель','Май','Июнь','Июль','Август','Сентябрь','Октябрь','Ноябрь','Декабрь'];
+const WD = ['Пн','Вт','Ср','Чт','Пт','Сб','Вс'];
+
+let DATA = { events: [], news: [] };
+let fRegion = '', fCity = '';
+let calY, calM, selDay = null;
+
+const todayStr = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Madrid' }).format(new Date());
+function dayDiff(dateStr) {
+  const [y1,m1,d1] = todayStr.split('-').map(Number);
+  const [y2,m2,d2] = dateStr.split('-').map(Number);
+  return Math.round((Date.UTC(y2,m2-1,d2) - Date.UTC(y1,m1-1,d1)) / 86400000);
+}
+function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+// разрешаем только b/i/a из наших же постов
+function safeHtml(s) {
+  let t = esc(s || '');
+  t = t.replace(/&lt;(\/?)(b|i)&gt;/g, '<$1$2>');
+  t = t.replace(/&lt;a href="(https?:[^"]+)"&gt;/g, '<a href="$1" target="_blank">').replace(/&lt;\/a&gt;/g, '</a>');
+  return t.replace(/\n/g, '<br>');
+}
+function fmtRange(ev) {
+  const [y,m,d] = ev.date.split('-').map(Number);
+  if (ev.end_date && ev.end_date !== ev.date) {
+    const [y2,m2,d2] = ev.end_date.split('-').map(Number);
+    return m === m2 ? `${d}–${d2} ${MONTHS[m-1]}` : `${d} ${MONTHS[m-1]} – ${d2} ${MONTHS[m2-1]}`;
+  }
+  return `${d} ${MONTHS[m-1]}`;
+}
+
+function filtered() {
+  return DATA.events.filter(e =>
+    (!fRegion || e.region === fRegion) && (!fCity || e.city === fCity)
+  );
+}
+
+function card(ev, badge) {
+  const [ , m, d] = ev.date.split('-').map(Number);
+  const place = [ev.venue, ev.city].filter(Boolean).filter((v,i,a) => a.indexOf(v) === i);
+  const loc = place.length ? place.join(', ') : ev.region;
+  return `<div class="card">
+    <div class="datebox"><div class="d">${d}</div><div class="m">${MONTHS[m-1].slice(0,3)}</div></div>
+    <div class="info">
+      ${badge ? `<span class="badge">${badge}</span>` : ''}
+      <div class="t">${esc(ev.title)}</div>
+      <div class="loc">📍 ${esc(loc)}${ev.region && !loc.includes(ev.region) ? ' · ' + esc(ev.region) : ''} · ${fmtRange(ev)}</div>
+      ${ev.short_ru ? `<div class="desc">${esc(ev.short_ru)}</div>` : ''}
+      ${ev.url ? `<a class="more" href="javascript:void(0)" onclick="openUrl('${esc(ev.url)}')">Подробнее →</a>` : ''}
+    </div>
+  </div>`;
+}
+
+function renderFeed() {
+  const evs = filtered();
+  const soon = evs.filter(e => { const d = dayDiff(e.date); const de = dayDiff(e.end_date || e.date); return de >= 0 && d <= 7; });
+  const later = evs.filter(e => dayDiff(e.date) > 7);
+  const soonEl = document.getElementById('soon');
+  const soonWrap = document.getElementById('soon-wrap');
+  if (soon.length) {
+    soonWrap.style.display = '';
+    soonEl.innerHTML = soon.map(e => card(e, dayDiff(e.date) <= 0 ? 'Сегодня' : 'Скоро')).join('');
+  } else soonWrap.style.display = 'none';
+  const listEl = document.getElementById('list');
+  listEl.innerHTML = later.length ? later.map(e => card(e)).join('')
+    : (soon.length ? '' : '<div class="empty">Пока нет событий по выбранным фильтрам 🤷‍♂️<br>Загляни позже — бот ищет каждый день!</div>');
+}
+
+function renderFilters() {
+  const regions = [...new Set(DATA.events.map(e => e.region).filter(Boolean))].sort();
+  const cities = [...new Set(DATA.events.filter(e => !fRegion || e.region === fRegion).map(e => e.city).filter(Boolean))].sort();
+  const rSel = document.getElementById('f-region'), cSel = document.getElementById('f-city');
+  rSel.innerHTML = '<option value="">Все регионы</option>' + regions.map(r => `<option ${r===fRegion?'selected':''}>${esc(r)}</option>`).join('');
+  cSel.innerHTML = '<option value="">Все города</option>' + cities.map(c => `<option ${c===fCity?'selected':''}>${esc(c)}</option>`).join('');
+}
+
+function eventsOnDay(y, m, d) {
+  const ds = `${y}-${String(m+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+  return DATA.events.filter(e => e.date <= ds && (e.end_date || e.date) >= ds);
+}
+
+function renderCal() {
+  document.getElementById('mon').textContent = MONTHS_N[calM] + ' ' + calY;
+  const grid = document.getElementById('grid');
+  let html = WD.map(w => `<div class="wd">${w}</div>`).join('');
+  const first = new Date(Date.UTC(calY, calM, 1));
+  let startWd = (first.getUTCDay() + 6) % 7;
+  const dim = new Date(Date.UTC(calY, calM + 1, 0)).getUTCDate();
+  for (let i = 0; i < startWd; i++) html += '<div class="day out"></div>';
+  const [ty, tm, td] = todayStr.split('-').map(Number);
+  for (let d = 1; d <= dim; d++) {
+    const has = eventsOnDay(calY, calM, d).length > 0;
+    const isToday = calY === ty && calM === tm - 1 && d === td;
+    const isSel = selDay === d;
+    html += `<div class="day ${has?'has':''} ${isToday?'today':''} ${isSel?'sel':''}" onclick="pickDay(${d})">${d}${has?'<div class="dot"></div>':''}</div>`;
+  }
+  grid.innerHTML = html;
+  const list = document.getElementById('cal-list');
+  if (selDay) {
+    const evs = eventsOnDay(calY, calM, selDay);
+    list.innerHTML = evs.length ? evs.map(e => card(e)).join('') : '<div class="empty">В этот день событий нет</div>';
+  } else {
+    const evs = DATA.events.filter(e => { const [y,m] = e.date.split('-').map(Number); return y === calY && m === calM + 1; });
+    list.innerHTML = evs.length ? evs.map(e => card(e)).join('') : '<div class="empty">В этом месяце событий пока нет</div>';
+  }
+}
+function pickDay(d) { selDay = selDay === d ? null : d; renderCal(); }
+
+function renderNews() {
+  const el = document.getElementById('news');
+  el.innerHTML = DATA.news.length
+    ? DATA.news.map(n => {
+        const dt = n.created_at ? new Date(n.created_at) : null;
+        const ds = dt ? `${dt.getDate()} ${MONTHS[dt.getMonth()]}` : '';
+        return `<div class="news-card">${ds ? `<div class="nd">${ds}</div>` : ''}${safeHtml(n.post_ru)}</div>`;
+      }).join('')
+    : '<div class="empty">Новостей пока нет</div>';
+}
+
+document.querySelectorAll('.tab').forEach(t => t.onclick = () => {
+  document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+  t.classList.add('active');
+  ['feed','cal','news'].forEach(v => document.getElementById('view-' + v).style.display = t.dataset.tab === v ? '' : 'none');
+});
+document.getElementById('f-region').onchange = (e) => { fRegion = e.target.value; fCity = ''; renderFilters(); renderFeed(); };
+document.getElementById('f-city').onchange = (e) => { fCity = e.target.value; renderFeed(); };
+document.getElementById('prev').onclick = () => { selDay = null; calM--; if (calM < 0) { calM = 11; calY--; } renderCal(); };
+document.getElementById('next').onclick = () => { selDay = null; calM++; if (calM > 11) { calM = 0; calY++; } renderCal(); };
+
+(async () => {
+  const [ty, tm] = todayStr.split('-').map(Number);
+  calY = ty; calM = tm - 1;
+  try {
+    const res = await fetch('data/events.json?v=' + Date.now());
+    DATA = await res.json();
+  } catch (e) { /* оставим пустые данные */ }
+  renderFilters(); renderFeed(); renderCal(); renderNews();
+  if (DATA.generated_at) {
+    const d = new Date(DATA.generated_at);
+    document.getElementById('updated').textContent = 'Обновлено: ' + d.toLocaleString('ru-RU', { day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' });
+  }
+})();
+</script>
+</body>
+</html>
