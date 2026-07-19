@@ -98,7 +98,8 @@ function shouldForward(db, { isNews, ev }) {
 async function postEvent(db, ev, kind) {
   const html = kind === 'week' ? weekReminder(ev) : kind === 'day' ? dayReminder(ev) : announceHtml(ev);
   const fwd = shouldForward(db, { ev });
-  await publish(html, await resolveImage(ev), { forward: fwd });
+  const msgId = await publish(html, await resolveImage(ev), { forward: fwd });
+  ev.channel_msg_id = msgId; // пригодится для редактирования/удаления
   const meta = store.todayMeta(db);
   ev.posted[kind === 'announce' ? 'announce' : kind] = new Date().toISOString();
   if (kind === 'announce') meta.announces++;
@@ -110,7 +111,8 @@ async function postEvent(db, ev, kind) {
 
 async function postNews(db, n) {
   const fwd = shouldForward(db, { isNews: true });
-  await publish(n.post_ru, await resolveImage(n), { forward: fwd });
+  const msgId = await publish(n.post_ru, await resolveImage(n), { forward: fwd });
+  n.channel_msg_id = msgId;
   const meta = store.todayMeta(db);
   n.posted = new Date().toISOString();
   meta.news++;
@@ -175,16 +177,17 @@ async function collectAll() {
   store.cleanup(db);
   const known = () =>
     db.events.filter((e) => (store.daysUntil(e.date) ?? -1) >= 0).map((e) => ({ title: e.title, date: e.date, city: e.city }));
+  const knownNews = () => db.news.slice(-15).map((n) => n.title);
 
   try {
-    const r1 = await collectFromSources(known());
+    const r1 = await collectFromSources(known(), knownNews());
     console.log(`Источники: событий ${r1.events.length} (новых ${store.addEvents(db, r1.events)}), новостей ${r1.news.length} (новых ${store.addNews(db, r1.news)})`);
     store.save(db);
   } catch (e) {
     console.error('Ошибка фазы источников:', e.message);
   }
   try {
-    const r2 = await collectFromSearch(known());
+    const r2 = await collectFromSearch(known(), knownNews());
     console.log(`Веб-поиск: событий ${r2.events.length} (новых ${store.addEvents(db, r2.events)}), новостей ${r2.news.length} (новых ${store.addNews(db, r2.news)})`);
     store.save(db);
   } catch (e) {

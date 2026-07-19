@@ -17,6 +17,12 @@ function knownList(knownEvents) {
     : '(пока пусто)';
 }
 
+function knownNewsList(knownNews) {
+  return knownNews && knownNews.length
+    ? knownNews.map((t) => `- ${t}`).join('\n')
+    : '(пока пусто)';
+}
+
 const JSON_SCHEMA_BLOCK = `Ответ верни СТРОГО в виде одного JSON-блока в fence \`\`\`json ... \`\`\` без другого текста после него:
 
 {
@@ -80,7 +86,7 @@ function parseResult(response) {
 }
 
 // ФАЗА 1: дайджест из sources.json → Claude извлекает события/новости (без веб-поиска)
-async function collectFromSources(knownEvents) {
+async function collectFromSources(knownEvents, knownNews = []) {
   const { ok, failed } = await fetchAllSources();
   if (failed.length) {
     console.log(`Источники недоступны (${failed.length}): ${failed.map((f) => f.name).join(', ')}`);
@@ -103,6 +109,9 @@ async function collectFromSources(knownEvents) {
 УЖЕ ИЗВЕСТНЫЕ события (НЕ включай повторно, даже с немного другим названием или датой):
 ${knownList(knownEvents)}
 
+УЖЕ ОПУБЛИКОВАННЫЕ НОВОСТИ (НЕ включай ту же тему повторно, даже в другой формулировке — например, если про штраф за перчатки уже писали, вторая новость про перчатки НЕ нужна):
+${knownNewsList(knownNews)}
+
 ${JSON_SCHEMA_BLOCK}
 
 ДАЙДЖЕСТ:
@@ -122,7 +131,7 @@ ${digest}`;
 }
 
 // ФАЗА 2: дополнительный веб-поиск (то, чего нет в постоянных источниках)
-async function collectFromSearch(knownEvents) {
+async function collectFromSearch(knownEvents, knownNews = []) {
   const prompt = `Сегодня ${todayMadrid()}. ${AUDIENCE}
 
 Наши постоянные источники уже проверены. Найди через веб-поиск ДОПОЛНИТЕЛЬНО:
@@ -133,6 +142,9 @@ async function collectFromSearch(knownEvents) {
 
 УЖЕ ИЗВЕСТНЫЕ события (НЕ включай повторно, даже с немного другим названием или датой):
 ${knownList(knownEvents)}
+
+УЖЕ ОПУБЛИКОВАННЫЕ НОВОСТИ (НЕ включай ту же тему повторно, даже в другой формулировке):
+${knownNewsList(knownNews)}
 
 ${JSON_SCHEMA_BLOCK}`;
 
