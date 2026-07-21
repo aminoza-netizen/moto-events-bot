@@ -101,6 +101,19 @@
   }
   .empty { text-align: center; color: var(--hint); padding: 36px 20px; font-size: 14px; }
 
+  /* баннер подписки */
+  .sub-banner {
+    display: flex; align-items: center; gap: 10px;
+    background: var(--bg); border-radius: 16px; margin: 10px 12px 2px; padding: 11px 12px;
+    box-shadow: var(--shadow); border: 1.5px dashed rgba(224,86,42,.5);
+  }
+  .sub-banner .txt { flex: 1; font-size: 13px; line-height: 1.35; }
+  .sub-banner .go {
+    border: none; border-radius: 10px; padding: 9px 12px; font-size: 12.5px; font-weight: 700;
+    background: var(--grad); color: #fff; cursor: pointer; white-space: nowrap;
+  }
+  .sub-banner .x { color: var(--hint); font-size: 16px; padding: 4px 6px; cursor: pointer; }
+
   /* детальная карточка события */
   .detail {
     position: fixed; inset: 0; z-index: 50; background: var(--bg2);
@@ -191,6 +204,11 @@
 </div>
 
 <div id="view-feed">
+  <div class="sub-banner" id="sub-banner" style="display:none">
+    <div class="txt">🔔 <b>Получай афишу в личку</b> — важные события и новости от бота</div>
+    <button class="go" onclick="subscribe()">Подписаться</button>
+    <span class="x" onclick="dismissSub()">✕</span>
+  </div>
   <div class="filters">
     <select id="f-region"><option value="">Все регионы</option></select>
     <select id="f-city"><option value="">Все города</option></select>
@@ -399,6 +417,28 @@ function closeDetail() {
   if (tg && tg.BackButton) { tg.BackButton.hide(); tg.BackButton.offClick(closeDetail); }
 }
 
+// ─── Подписка на личные сообщения от бота ───
+function initSubBanner() {
+  // показываем только внутри Telegram и только если ещё не решили
+  const done = localStorage.getItem('sub_state');
+  if (tg && tg.initDataUnsafe && tg.initDataUnsafe.user && tg.requestWriteAccess && !done) {
+    document.getElementById('sub-banner').style.display = '';
+  }
+}
+function subscribe() {
+  if (!tg || !tg.requestWriteAccess) return;
+  tg.requestWriteAccess((granted) => {
+    if (granted) {
+      localStorage.setItem('sub_state', 'yes');
+      document.getElementById('sub-banner').style.display = 'none';
+    }
+  });
+}
+function dismissSub() {
+  localStorage.setItem('sub_state', 'no');
+  document.getElementById('sub-banner').style.display = 'none';
+}
+
 function renderNews() {
   const el = document.getElementById('news');
   el.innerHTML = DATA.news.length
@@ -432,6 +472,7 @@ document.getElementById('next').onclick = () => { selDay = null; calM++; if (cal
   // статистика в шапке
   document.getElementById('st-events').textContent = `${DATA.events.length} событий`;
   document.getElementById('st-cities').textContent = `${new Set(DATA.events.map(e => e.city).filter(Boolean)).size} городов`;
+  initSubBanner();
 
   // Deep-link из поста: t.me/.../afisha?startapp=ev_<id> → скроллим к карточке
   const sp = (tg && tg.initDataUnsafe && tg.initDataUnsafe.start_param) ||

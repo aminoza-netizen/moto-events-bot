@@ -130,6 +130,54 @@ function cleanup(db) {
   db.news = db.news.filter((n) => new Date(n.created_at).getTime() > cutoff);
 }
 
+// ─── База пользователей бота (для рассылок): data/users.json ───
+const USERS_FILE = path.join(DATA_DIR, 'users.json');
+
+function loadUsers() {
+  try {
+    const db = JSON.parse(fs.readFileSync(USERS_FILE, 'utf8'));
+    if (!Array.isArray(db.users)) db.users = [];
+    return db;
+  } catch (e) {
+    return { users: [] };
+  }
+}
+
+function saveUsers(db) {
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+  const tmp = USERS_FILE + '.tmp';
+  fs.writeFileSync(tmp, JSON.stringify(db, null, 2), 'utf8');
+  fs.renameSync(tmp, USERS_FILE);
+}
+
+// Добавить/обновить пользователя. Возвращает true, если новый.
+function addUser(u) {
+  if (!u || !u.id) return false;
+  const db = loadUsers();
+  const ex = db.users.find((x) => x.id === u.id);
+  if (ex) {
+    ex.username = u.username || ex.username;
+    ex.blocked = false;
+    saveUsers(db);
+    return false;
+  }
+  db.users.push({
+    id: u.id,
+    first_name: u.first_name || '',
+    username: u.username || '',
+    first_seen: new Date().toISOString(),
+    blocked: false,
+  });
+  saveUsers(db);
+  return true;
+}
+
+function markBlocked(id) {
+  const db = loadUsers();
+  const u = db.users.find((x) => x.id === id);
+  if (u) { u.blocked = true; saveUsers(db); }
+}
+
 // Счётчики за сегодня (анонсы/новости/пересылки в группу) — сбрасываются с новым днём
 function todayMeta(db) {
   const today = todayMadrid();
@@ -139,4 +187,4 @@ function todayMeta(db) {
   return db.meta;
 }
 
-module.exports = { load, save, addEvents, addNews, cleanup, daysUntil, todayMadrid, todayMeta };
+module.exports = { load, save, addEvents, addNews, cleanup, daysUntil, todayMadrid, todayMeta, loadUsers, addUser, markBlocked };
