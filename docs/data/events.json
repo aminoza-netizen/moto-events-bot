@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:00:46.234Z",
+  "generated_at": "2026-07-22T07:01:08.846Z",
   "events": [
     {
       "id": "acfdbc3141",
@@ -1134,6 +1134,20 @@
       "image_url": null,
       "short_ru": "Юбилейный мото-слёт «Pichas Locas» в Нуэва-Картейе, Кордова",
       "full_ru": "🏍️ <b>XXV Concentración motera Pichas Locas</b>\n\n12–13 сентября в Нуэва-Картейе (Кордова) отметят 25-летие концентрации Pichas Locas.\n\n📍 <b>Локация:</b> Nueva Carteya, Córdoba"
+    },
+    {
+      "id": "08d930816c",
+      "title": "ESBK – Campeonato de España de Velocidad",
+      "date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "city": "Cheste",
+      "region": "Valencia",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Circuit Ricardo Tormo, Cheste",
+      "url": "https://www.circuitricardotormo.com/eventos/",
+      "image_url": null,
+      "short_ru": "Этап чемпионата Испании по скоростным мотогонкам (RFME) на трассе Рикардо Тормо",
+      "full_ru": "🏁 <b>ESBK в Чеште — чемпионат Испании по гонкам</b>\n\n12–13 сентября трасса Circuit Ricardo Tormo примет этап национального чемпионата Испании по скоростным мотогонкам (ESBK), который организует RFME.\n\nДва дня настоящих гонок разных классов совсем рядом с Валенсией — можно приехать на день, посмотреть заезды и погулять по паддоку без толп, как на MotoGP.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Cheste (Valencia)"
     },
     {
       "id": "d034ce365e",
