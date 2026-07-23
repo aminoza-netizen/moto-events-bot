@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T07:01:08.846Z",
+  "generated_at": "2026-07-23T01:37:50.355Z",
   "events": [
     {
       "id": "acfdbc3141",
@@ -982,6 +982,20 @@
       "full_ru": "🏍️ <b>Big Twin XLI</b>\n\nС 10 по 13 сентября 2026 в Кастельоне пройдёт культовый кастом-слёт Big Twin — сорок первое издание встречи Harley и кастом-мотоциклов.\n\n📍 <b>Локация:</b> Castellón, Castellón"
     },
     {
+      "id": "51ae6e2d03",
+      "title": "ESBK — Campeonato de España de Superbike, ronda Valencia",
+      "date": "2026-09-10",
+      "end_date": "2026-09-13",
+      "city": "Cheste",
+      "region": "Valencia",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Circuit Ricardo Tormo, Cheste",
+      "url": "https://rfme.com/campeonatos/campeonato-de-espana-de-superbike/",
+      "image_url": null,
+      "short_ru": "Этап чемпионата Испании по супербайку на трассе Рикардо Тормо",
+      "full_ru": "🏁 <b>Супербайк в Честе: этап чемпионата Испании</b>\n\n10–13 сентября на Circuit Ricardo Tormo пройдёт этап ESBK — чемпионата Испании по супербайку. Четыре дня гонок: квалификации, заезды нескольких категорий, паддок и мото-движ.\n\nОт Аликанте — около полутора часов по AP-7. Отличный повод посмотреть настоящие гонки вживую, билеты на трибуны недорогие.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Cheste (Валенсия)"
+    },
+    {
       "id": "17c6e7f1b8",
       "title": "V Concentración Motera Ciudad de Ceuta 2026",
       "date": "2026-09-11",
@@ -1652,6 +1666,62 @@
       "image_url": null,
       "short_ru": "Слёт классических мотоциклов Motoretroguara",
       "full_ru": "🏍️ <b>Motoretroguara</b>\n\n17 октября 2026 в Колунго (Уэска) пройдёт слёт классических мотоциклов Motoretroguara — выставка ретро-техники и встреча коллекционеров.\n\n📍 <b>Локация:</b> Colungo, Huesca"
+    },
+    {
+      "id": "68ef41e279",
+      "title": "Concentración Motera Valencia 2026",
+      "date": "2026-10-25",
+      "end_date": "2026-10-27",
+      "city": "Valencia",
+      "region": "Valencia",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Valencia",
+      "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
+      "image_url": null,
+      "short_ru": "Большой мото-слёт в Валенсии, три дня",
+      "full_ru": "🏍 <b>Мото-слёт в Валенсии</b>\n\n25–27 октября в Валенсии пройдёт большая мото-концентрация: три дня музыки, выставок, покатушек и вечернего движа.\n\nОдно из главных осенних событий региона — если хочется масштаба, а не тихого завтрака, это оно.\n\n📍 <b>Локация:</b> Valencia"
+    },
+    {
+      "id": "67a5374366",
+      "title": "XIX Motoalmuerzo Boulevard Racing Rafal 2026",
+      "date": "2026-10-26",
+      "end_date": null,
+      "city": "Rafal",
+      "region": "Alicante",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Rafal, Vega Baja",
+      "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
+      "image_url": null,
+      "short_ru": "Мото-завтрак Boulevard Racing в Рафале (Вега-Баха, Аликанте)",
+      "full_ru": "🍳 <b>Мото-завтрак в Рафале</b>\n\n26 октября клуб Boulevard Racing проводит XIX Motoalmuerzo в Рафале — это Вега-Баха, рядом с Ориуэлой и Торревьехой.\n\nКлассический формат: сбор с утра, завтрак, розыгрыши, много железа на площади и разговоры до обеда. Отлично заходит для тех, кто живёт на юге провинции.\n\n📍 <b>Локация:</b> Rafal, Alicante"
+    },
+    {
+      "id": "18e568161b",
+      "title": "Concentración Motera Cierre de Temporada Valencia",
+      "date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "city": "Valencia",
+      "region": "Valencia",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Valencia",
+      "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
+      "image_url": null,
+      "short_ru": "Закрытие мото-сезона в Валенсии",
+      "full_ru": "🍂 <b>Закрытие сезона в Валенсии</b>\n\n28–29 ноября — традиционное закрытие мото-сезона: последний большой сбор перед зимой, тёплая компания и подведение итогов года.\n\nВ Испании, конечно, катают круглый год, но повод собраться всем вместе — отличный.\n\n📍 <b>Локация:</b> Valencia"
+    },
+    {
+      "id": "545b5f6d9d",
+      "title": "VIII Motoalmuerzo Dorsal Zero Ciudad de Torrevieja 2026",
+      "date": "2026-11-29",
+      "end_date": null,
+      "city": "Torrevieja",
+      "region": "Alicante",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Recinto de Ferias y Eventos (junto a Aquopolis), Torrevieja",
+      "url": "https://www.concentracionesdemotos.com/alicante/",
+      "image_url": null,
+      "short_ru": "Крупнейший мото-завтрак провинции Аликанте — Торревьеха",
+      "full_ru": "🍳 <b>Мото-завтрак в Торревьехе</b>\n\n29 ноября — VIII Motoalmuerzo Dorsal Zero, один из самых массовых мото-завтраков провинции Аликанте. Площадка у Aquopolis, с утра до вечера: завтрак, выставка мотоциклов, розыгрыши, живая музыка.\n\nСобирает несколько сотен байкеров со всей Коста-Бланки — если живёшь на юге провинции, это событие года.\n\n📍 <b>Локация:</b> Recinto de Ferias y Eventos (рядом с Aquopolis), Torrevieja"
     }
   ],
   "news": [
