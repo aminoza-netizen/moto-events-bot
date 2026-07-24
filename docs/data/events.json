@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:06:25.175Z",
+  "generated_at": "2026-07-24T07:01:01.108Z",
   "events": [
     {
       "id": "acfdbc3141",
@@ -560,6 +560,20 @@
       "image_url": null,
       "short_ru": "Слёт классических авто и мото «Эль Регато» в Баракальдо",
       "full_ru": "🏍️🚗 <b>Concentración de Clásicos, Coches y Motos El Regato</b>\n\n16 августа 2026 в Баракальдо (Бискайя) пройдёт слёт классических автомобилей и мотоциклов «El Regato».\n\n📍 <b>Локация:</b> Barakaldo, Bizkaia"
+    },
+    {
+      "id": "e1ad7da844",
+      "title": "Rodada Racing100 en Circuito de Navarra",
+      "date": "2026-08-16",
+      "end_date": null,
+      "city": "Los Arcos",
+      "region": "Navarra",
+      "zone": "Наварра",
+      "venue": "Circuito de Navarra",
+      "url": "https://www.racing100.com/",
+      "image_url": null,
+      "short_ru": "Трек-дей (родада) для разных уровней пилотажа на Circuito de Navarra",
+      "full_ru": "🏍️ <b>Трек-дей в Наварре</b>\n\n16 августа на Circuito de Navarra пройдёт очередная родада от Racing100 — заезды для мотоциклистов разных уровней подготовки.\n\nЧетыре группы по скорости, 6 заездов за день: от новичков (до 2'05'') до продвинутых райдеров (быстрее 1'45'').\n\nШанс погонять на закрытом треке в своё удовольствие — без камер, штрафов и встречки. Если давно хотели попробовать трек-дей, но не решались — самое время.\n\n📍 <b>Локация:</b> Circuito de Navarra, Los Arcos, Navarra"
     },
     {
       "id": "64f202b419",
