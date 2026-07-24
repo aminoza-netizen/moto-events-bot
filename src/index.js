@@ -130,12 +130,14 @@ function nextCandidate(db) {
 
   // 1. «Сегодня!» — день события
   for (const ev of db.events) {
+    if (ev.no_post) continue; // напр. рядовые тренировки на закрытых трассах — не для канала
     if (store.daysUntil(ev.date) !== 0 || ev.posted.day) continue;
     if (fresh(ev.posted.week) || fresh(ev.posted.announce)) continue;
     return { type: 'event', kind: 'day', item: ev };
   }
   // 2. Напоминание за неделю
   for (const ev of db.events) {
+    if (ev.no_post) continue;
     const d = store.daysUntil(ev.date);
     if (d === null || d > 7 || d < 5) continue;
     if (ev.posted.week || !ev.posted.announce) continue;
@@ -150,7 +152,7 @@ function nextCandidate(db) {
   // 4. Анонс ближайшего события в окне (лимит в день)
   if (meta.announces < MAX_ANNOUNCES()) {
     const ev = db.events
-      .filter((e) => !e.posted.announce && e.announce_ru)
+      .filter((e) => !e.no_post && !e.posted.announce && e.announce_ru)
       .filter((e) => { const d = store.daysUntil(e.date); return d !== null && d >= 0 && d <= ANNOUNCE_WINDOW(); })
       .sort((a, b) => (store.daysUntil(a.date) ?? 999) - (store.daysUntil(b.date) ?? 999))[0];
     if (ev) return { type: 'event', kind: 'announce', item: ev };

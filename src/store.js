@@ -41,6 +41,14 @@ function eventKey(ev) {
   return `${normTitle(ev.title)}|${ev.date}`;
 }
 
+// Рядовые контролируемые тренировки федерации на закрытых трассах — держим в базе
+// (для календаря), но не постим в канал/группу: не интересны широкой аудитории.
+// Не путать с tandas/track days (открытые заезды для всех) — те постим как обычно.
+const TRAINING_RE = /entrenamientos?\s+tutelados?/i;
+function isTraining(ev) {
+  return TRAINING_RE.test(ev.title || '');
+}
+
 // Стабильный короткий id события — для deep-link в мини-апп
 function evId(ev) {
   return crypto.createHash('md5').update(eventKey(ev)).digest('hex').slice(0, 10);
@@ -92,6 +100,7 @@ function addEvents(db, incoming) {
       announce_ru: ev.announce_ru || '',
       created_at: new Date().toISOString(),
       posted: { announce: null, week: null, day: null },
+      no_post: isTraining(ev) || undefined,
     });
     known.add(key);
     knownTitles.push({ t: nt, d: ev.date });
