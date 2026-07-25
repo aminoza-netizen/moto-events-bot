@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:01:16.619Z",
+  "generated_at": "2026-07-25T14:36:23.744Z",
   "events": [
     {
       "id": "acfdbc3141",
@@ -72,6 +72,20 @@
       "full_ru": "🏍 <b>Concentración motera Boiro 2026</b>\n\n\n\n📍 <b>Локация:</b> A Coruña --- (Boiro)"
     },
     {
+      "id": "e77f1ff251",
+      "title": "XVI Concentración motera Ruedas Raras",
+      "date": "2026-07-24",
+      "end_date": "2026-07-26",
+      "city": "Toro",
+      "region": "Zamora",
+      "zone": "Кастилия-и-Леон",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=2819&p=49324#p49324",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XVI Concentración motera Ruedas Raras</b>\n\n\n\n📍 <b>Локация:</b> Zamora --- (Toro)"
+    },
+    {
       "id": "fc070d4c4a",
       "title": "La Reconquista Motera 2026",
       "date": "2026-07-25",
@@ -112,6 +126,34 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Entrenamientos tutelados Circuito Lago Verde \\'La Lloma\\' Alcora de 10:00 a 19:00 -SÁBADO-</b>\n\n\n\n📍 <b>Локация:</b> Circuito Lago Verde, Л'Алькора (Кастельон)"
+    },
+    {
+      "id": "5859498a1a",
+      "title": "Concentración motera La Reconquista 2026",
+      "date": "2026-07-25",
+      "end_date": "2026-07-26",
+      "city": "Almoguera",
+      "region": "Guadalajara",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=0&p=49902#p49902",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Concentración motera La Reconquista 2026</b>\n\n\n\n📍 <b>Локация:</b> Guadalajara --- (Almoguera)"
+    },
+    {
+      "id": "1f0fc24777",
+      "title": "Tandas libres y curso --- SP RACING",
+      "date": "2026-07-25",
+      "end_date": null,
+      "city": "Circuito de Navarra, Лос-Аркос",
+      "region": "Наварра",
+      "zone": "Наварра",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "25.07.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres y curso --- SP RACING\". Событие связано с активным участием на мотоциклах и включено в документ только как ка",
+      "full_ru": "🏍 <b>Tandas libres y curso --- SP RACING</b>\n\n25.07.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres y curso --- SP RACING\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос (Наварра)"
     },
     {
       "id": "cb2e3d1b03",
@@ -196,6 +238,34 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Entrenamientos tutelados Circuito Ricardo Monzonís - MX</b>\n\n\n\n📍 <b>Локация:</b> Circuito Ricardo Monzonís, Л'Алькора (Кастельон)"
+    },
+    {
+      "id": "5580e77f4e",
+      "title": "Tandas libres y curso --- Eventos Ceni",
+      "date": "2026-07-26",
+      "end_date": null,
+      "city": "Circuito de Navarra, Лос-Аркос",
+      "region": "Наварра",
+      "zone": "Наварра",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "26.07.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres y curso --- Eventos Ceni\". Событие связано с активным участием на мотоциклах и включено в документ только как",
+      "full_ru": "🏍 <b>Tandas libres y curso --- Eventos Ceni</b>\n\n26.07.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres y curso --- Eventos Ceni\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос (Наварра)"
+    },
+    {
+      "id": "965b83f695",
+      "title": "Tandas libres y curso --- PHANTOMR.",
+      "date": "2026-07-26",
+      "end_date": null,
+      "city": "Circuit de Barcelona-Catalunya, Монмело",
+      "region": "Барселона",
+      "zone": "Каталония",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "26.07.2026 в локации Circuit de Barcelona-Catalunya, Монмело (Барселона) запланировано \"Tandas libres y curso --- PHANTOMR.\". Событие связано с активным участием на мотоциклах и включено в документ то",
+      "full_ru": "🏍 <b>Tandas libres y curso --- PHANTOMR.</b>\n\n26.07.2026 в локации Circuit de Barcelona-Catalunya, Монмело (Барселона) запланировано \"Tandas libres y curso --- PHANTOMR.\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit de Barcelona-Catalunya, Монмело (Барселона)"
     },
     {
       "id": "aceef18842",
@@ -380,6 +450,48 @@
       "full_ru": "🏍️ <b>Ночной заезд в Моклинехо</b>\n\n1 августа местный мотоклуб зовёт на V Ruta Nocturna — душевную ночную прогулку по окрестностям Моклинехо в провинции Малага.\n\nНебольшое, но атмосферное событие: прохладный вечер, дорога вдоль побережья и компания байкеров. Хороший повод вырваться из жары на закате.\n\n📍 <b>Локация:</b> Moclinejo, Málaga"
     },
     {
+      "id": "50665c622b",
+      "title": "Mototerra de Vilobí d'Onyar",
+      "date": "2026-08-01",
+      "end_date": null,
+      "city": "Вилоби-д'Оньяр",
+      "region": "Жирона",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://fcm.cat/competicio/calendari-campionat-territorial-de-girona/",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Mototerra de Vilobí d'Onyar</b>\n\n\n\n📍 <b>Локация:</b> Вилоби-д'Оньяр (Жирона)"
+    },
+    {
+      "id": "6387cb1d23",
+      "title": "Concentración Motera de Llanes 2026",
+      "date": "2026-08-01",
+      "end_date": "2026-08-03",
+      "city": "Льянес",
+      "region": "Астурия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/evento/concentracion-motera-de-llanes-2026-08-01",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Concentración Motera de Llanes 2026</b>\n\n\n\n📍 <b>Локация:</b> Льянес (Астурия)"
+    },
+    {
+      "id": "16a433d9b0",
+      "title": "XIV Concentración de Coches y Motos Clásicas del Alto Asón",
+      "date": "2026-08-01",
+      "end_date": "2026-08-02",
+      "city": "Рамалес-де-ла-Виктория",
+      "region": "Кантабрия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/evento/xiv-concentracion-clasicos-coches-motos-alto-ason-2026-08-01",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XIV Concentración de Coches y Motos Clásicas del Alto Asón</b>\n\n\n\n📍 <b>Локация:</b> Рамалес-де-ла-Виктория (Кантабрия)"
+    },
+    {
       "id": "19046b1f02",
       "title": "V Concentración de Vehículos Clásicos Las Regueras 2026",
       "date": "2026-08-02",
@@ -462,6 +574,20 @@
       "image_url": null,
       "short_ru": "5 августа 2026 года на площадке MIR Racing Villena Circuit, Вильена (Аликанте) пройдет «Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES». Это контролируемая тренировочная се",
       "full_ru": "🏍 <b>Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES</b>\n\n5 августа 2026 года на площадке MIR Racing Villena Circuit, Вильена (Аликанте) пройдет «Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES». Это контролируемая тренировочная сессия по мотоспорту; событие проводится на специализированной трассе и не является фестивалем. Заявленное время сессии --- с 9:00 до 18:00.\n\n📍 <b>Локация:</b> MIR Racing Villena Circuit, Вильена (Аликанте)"
+    },
+    {
+      "id": "1eabda051f",
+      "title": "O Marisquiño 2026 --- FMX",
+      "date": "2026-08-06",
+      "end_date": "2026-08-09",
+      "city": "Виго",
+      "region": "Понтеведра",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.omarisquino.com/",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>O Marisquiño 2026 --- FMX</b>\n\n\n\n📍 <b>Локация:</b> Виго (Понтеведра)"
     },
     {
       "id": "2dbc5a02d7",
@@ -548,6 +674,34 @@
       "full_ru": "🏍 <b>MotoMini Spain - CIRCUITO AS PONTES</b>\n\n\n\n📍 <b>Локация:</b> Circuito As Pontes, Ла-Корунья"
     },
     {
+      "id": "98e9b85b70",
+      "title": "XVII Concentración motera Ria de Noia",
+      "date": "2026-08-07",
+      "end_date": "2026-08-09",
+      "city": "Noia",
+      "region": "A Coruña",
+      "zone": "Галисия",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=87&p=49554#p49554",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XVII Concentración motera Ria de Noia</b>\n\n\n\n📍 <b>Локация:</b> A Coruña --- (Noia)"
+    },
+    {
+      "id": "f79aeeaf0e",
+      "title": "Concentración Motera de Peñíscola 2026",
+      "date": "2026-08-07",
+      "end_date": "2026-08-10",
+      "city": "Пеньискола",
+      "region": "Кастельон",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/calendario",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Concentración Motera de Peñíscola 2026</b>\n\n\n\n📍 <b>Локация:</b> Пеньискола (Кастельон)"
+    },
+    {
       "id": "0d99441922",
       "title": "XVI Encuentro Motero Los Otros Topares 2026",
       "date": "2026-08-08",
@@ -588,6 +742,48 @@
       "image_url": null,
       "short_ru": "Мото-встреча в Риолобосе, Касерес",
       "full_ru": "🏍️ <b>XI Arrejuntamiento Riolobos</b>\n\n8–9 августа в Риолобосе (Касерес) соберутся байкеры на очередную дружескую встречу с музыкой и лагерем.\n\n📍 <b>Локация:</b> Riolobos, Cáceres"
+    },
+    {
+      "id": "1235d5c797",
+      "title": "Campeonato de Andalucía de Motocross",
+      "date": "2026-08-08",
+      "end_date": null,
+      "city": "Андалусия",
+      "region": "точная трасса указана в календаре FAM",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://famotos.com/campeonatos/campeonato-de-andalucia-de-motocross/",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Campeonato de Andalucía de Motocross</b>\n\n\n\n📍 <b>Локация:</b> Андалусия (точная трасса указана в календаре FAM)"
+    },
+    {
+      "id": "6ec5e10484",
+      "title": "XVI Encuentro Motero Los Otros Topares",
+      "date": "2026-08-08",
+      "end_date": null,
+      "city": "Топарес, Велес-Бланко",
+      "region": "Альмерия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://moterosalmeria.es/",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XVI Encuentro Motero Los Otros Topares</b>\n\n\n\n📍 <b>Локация:</b> Топарес, Велес-Бланко (Альмерия)"
+    },
+    {
+      "id": "e219504d6c",
+      "title": "Tandas libres --- MPS Organisation",
+      "date": "2026-08-08",
+      "end_date": "2026-08-09",
+      "city": "Circuito de Navarra, Лос-Аркос",
+      "region": "Наварра",
+      "zone": "Наварра",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "08.08.2026--09.08.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- MPS Organisation\". Событие связано с активным участием на мотоциклах и включено в документ то",
+      "full_ru": "🏍 <b>Tandas libres --- MPS Organisation</b>\n\n08.08.2026--09.08.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- MPS Organisation\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос (Наварра)"
     },
     {
       "id": "9fe8be97df",
@@ -702,6 +898,34 @@
       "full_ru": "🏍 <b>Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES</b>\n\n12 августа 2026 года на площадке MIR Racing Villena Circuit, Вильена (Аликанте) пройдет «Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES». Это контролируемая тренировочная сессия по мотоспорту; событие проводится на специализированной трассе и не является фестивалем. Заявленное время сессии --- с 9:00 до 18:00.\n\n📍 <b>Локация:</b> MIR Racing Villena Circuit, Вильена (Аликанте)"
     },
     {
+      "id": "9cffe752f1",
+      "title": "Semana Grande Biker Friendly y III Motoasado BF",
+      "date": "2026-08-12",
+      "end_date": "2026-08-16",
+      "city": "Вильянуэва-де-Оскос",
+      "region": "Астурия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/evento/semana-grande-biker-friendly-iii-motoasado-bf-2026-08-12",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Semana Grande Biker Friendly y III Motoasado BF</b>\n\n\n\n📍 <b>Локация:</b> Вильянуэва-де-Оскос (Астурия)"
+    },
+    {
+      "id": "96e51373d7",
+      "title": "Tandas libres --- Riderspirit",
+      "date": "2026-08-13",
+      "end_date": null,
+      "city": "Circuito de Cartagena, Мурсия",
+      "region": "",
+      "zone": "Мурсия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "13.08.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость",
+      "full_ru": "🏍 <b>Tandas libres --- Riderspirit</b>\n\n13.08.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Cartagena, Мурсия"
+    },
+    {
       "id": "575962d86e",
       "title": "3ª Concentración Mototurística",
       "date": "2026-08-14",
@@ -756,6 +980,34 @@
       "image_url": null,
       "short_ru": "Мототуристическая концентрация в Синсо-де-Лимия, Оренсе",
       "full_ru": "🏍️ <b>III Concentración mototurística Xinzo de Limia</b>\n\n14–15 августа в Синсо-де-Лимия (Оренсе) пройдёт мототуристическая концентрация с маршрутами по Галисии.\n\n📍 <b>Локация:</b> Xinzo de Limia, Ourense"
+    },
+    {
+      "id": "93eadf97bf",
+      "title": "XVII Concentración motera Los Piratas de Adra",
+      "date": "2026-08-14",
+      "end_date": "2026-08-16",
+      "city": "Adra",
+      "region": "Almería",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=844&p=49711#p49711",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XVII Concentración motera Los Piratas de Adra</b>\n\n\n\n📍 <b>Локация:</b> Almería --- (Adra)"
+    },
+    {
+      "id": "e394493c41",
+      "title": "Concentración Motera de Cambrils 2026",
+      "date": "2026-08-14",
+      "end_date": "2026-08-17",
+      "city": "Камбрильс",
+      "region": "Таррагона",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/evento/concentracion-motera-de-cambrils-2026-08-14",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Concentración Motera de Cambrils 2026</b>\n\n\n\n📍 <b>Локация:</b> Камбрильс (Таррагона)"
     },
     {
       "id": "d5fa87974d",
@@ -828,6 +1080,48 @@
       "full_ru": "🏍 <b>Velocidad Tradicional - LXXIII Trofeu de Velocitat Fira de Xàtiva</b>\n\n\n\n📍 <b>Локация:</b> Xàtiva (Валенсия)"
     },
     {
+      "id": "fbc7fa0472",
+      "title": "V Concentración motera Arboleanos por el Mundo",
+      "date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "city": "Arboleas",
+      "region": "Almeria",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=7124&start=9999",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>V Concentración motera Arboleanos por el Mundo</b>\n\n\n\n📍 <b>Локация:</b> Almeria --- (Arboleas)"
+    },
+    {
+      "id": "e62e64a859",
+      "title": "Concentración Motera Medina del Campo 2026",
+      "date": "2026-08-15",
+      "end_date": "2026-08-18",
+      "city": "Медина-дель-Кампо",
+      "region": "Вальядолид",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/calendario",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Concentración Motera Medina del Campo 2026</b>\n\n\n\n📍 <b>Локация:</b> Медина-дель-Кампо (Вальядолид)"
+    },
+    {
+      "id": "6c4c47f4c2",
+      "title": "Tandas libres y curso --- SP RACING",
+      "date": "2026-08-15",
+      "end_date": null,
+      "city": "Circuito de Navarra, Лос-Аркос",
+      "region": "Наварра",
+      "zone": "Наварра",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "15.08.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres y curso --- SP RACING\". Событие связано с активным участием на мотоциклах и включено в документ только как ка",
+      "full_ru": "🏍 <b>Tandas libres y curso --- SP RACING</b>\n\n15.08.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres y curso --- SP RACING\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос (Наварра)"
+    },
+    {
       "id": "5f7d47a9c7",
       "title": "I Quedada de Vehículos Clásicos de Sayago 2026",
       "date": "2026-08-16",
@@ -882,6 +1176,20 @@
       "image_url": null,
       "short_ru": "Трек-дей (родада) для разных уровней пилотажа на Circuito de Navarra",
       "full_ru": "🏍️ <b>Трек-дей в Наварре</b>\n\n16 августа на Circuito de Navarra пройдёт очередная родада от Racing100 — заезды для мотоциклистов разных уровней подготовки.\n\nЧетыре группы по скорости, 6 заездов за день: от новичков (до 2'05'') до продвинутых райдеров (быстрее 1'45'').\n\nШанс погонять на закрытом треке в своё удовольствие — без камер, штрафов и встречки. Если давно хотели попробовать трек-дей, но не решались — самое время.\n\n📍 <b>Локация:</b> Circuito de Navarra, Los Arcos, Navarra"
+    },
+    {
+      "id": "3d39c9ea68",
+      "title": "Tandas libres --- Racing100",
+      "date": "2026-08-16",
+      "end_date": null,
+      "city": "Circuito de Navarra, Лос-Аркос",
+      "region": "Наварра",
+      "zone": "Наварра",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "16.08.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарна",
+      "full_ru": "🏍 <b>Tandas libres --- Racing100</b>\n\n16.08.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос (Наварра)"
     },
     {
       "id": "d116285a9e",
@@ -968,6 +1276,20 @@
       "full_ru": "🏍️ <b>XXVIII Concentración Mancha Custom Club</b>\n\n21–23 августа в Сокуэльямосе (Сьюдад-Реаль) пройдёт кастом-слёт от Mancha Custom Club — выставка кастомных байков и вечерние концерты.\n\n📍 <b>Локация:</b> Socuéllamos, Ciudad Real"
     },
     {
+      "id": "84d0e018cb",
+      "title": "Concentración Motera de Hondarribia 2026",
+      "date": "2026-08-21",
+      "end_date": "2026-08-23",
+      "city": "Ондаррибия",
+      "region": "Гипускоа",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/calendario",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Concentración Motera de Hondarribia 2026</b>\n\n\n\n📍 <b>Локация:</b> Ондаррибия (Гипускоа)"
+    },
+    {
       "id": "8e12612f9d",
       "title": "Rábade Biker's II",
       "date": "2026-08-22",
@@ -1050,6 +1372,34 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Rodada Motor Extremo --- Montmelo</b>\n\n\n\n📍 <b>Локация:</b> Circuit de Barcelona-Catalunya, Барселона"
+    },
+    {
+      "id": "a3091ae68c",
+      "title": "II Concentración motera Rábade Biker´s",
+      "date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "city": "Rábade",
+      "region": "Lugo",
+      "zone": "Галисия",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=0&p=49020#p49020",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>II Concentración motera Rábade Biker´s</b>\n\n\n\n📍 <b>Локация:</b> Lugo --- (Rábade)"
+    },
+    {
+      "id": "0c0e53a3b4",
+      "title": "Tandas libres --- JMR RACING EVENTS",
+      "date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "city": "Circuit Ricardo Tormo, Честе",
+      "region": "Валенсия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "22.08.2026--23.08.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- JMR RACING EVENTS\". Событие связано с активным участием на мотоциклах и включено в документ то",
+      "full_ru": "🏍 <b>Tandas libres --- JMR RACING EVENTS</b>\n\n22.08.2026--23.08.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- JMR RACING EVENTS\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
     },
     {
       "id": "ebb2b9449c",
@@ -1192,6 +1542,20 @@
       "full_ru": "🏍 <b>FIM Campeonato del Mundo de Velocidad - MotoGP - MOTORLAND ARAGON</b>\n\n\n\n📍 <b>Локация:</b> MotorLand Aragón, Альканьис (Теруэль)"
     },
     {
+      "id": "88b527af4c",
+      "title": "Cuenca Ride VII",
+      "date": "2026-08-28",
+      "end_date": "2026-08-29",
+      "city": "Cuenca",
+      "region": "Cuenca",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "28.08.2026--29.08.2026 в локации Cuenca --- (Cuenca) запланировано \"Cuenca Ride VII\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegra",
+      "full_ru": "🏍 <b>Cuenca Ride VII</b>\n\n28.08.2026--29.08.2026 в локации Cuenca --- (Cuenca) запланировано \"Cuenca Ride VII\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Cuenca --- (Cuenca)"
+    },
+    {
       "id": "f0f1d68618",
       "title": "XII Xuntanza Motera Vila dos Viaductos 2026",
       "date": "2026-08-29",
@@ -1276,6 +1640,34 @@
       "full_ru": "🏍 <b>Rodada Motor Extremo --- Jerez</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Jerez, Кадис"
     },
     {
+      "id": "d8a502ff9e",
+      "title": "XII Xuntanza moteira Vila Dos Viaductos",
+      "date": "2026-08-29",
+      "end_date": null,
+      "city": "Redondela",
+      "region": "Pontevedra",
+      "zone": "Галисия",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=0&p=49841#p49841",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XII Xuntanza moteira Vila Dos Viaductos</b>\n\n\n\n📍 <b>Локация:</b> Pontevedra --- (Redondela)"
+    },
+    {
+      "id": "3794f4f09a",
+      "title": "Pirineos Perfectos",
+      "date": "2026-08-29",
+      "end_date": "2026-09-05",
+      "city": "Испанские Пиренеи",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "29.08.2026--05.09.2026 в локации Испанские Пиренеи запланировано \"Pirineos Perfectos\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegr",
+      "full_ru": "🏍 <b>Pirineos Perfectos</b>\n\n29.08.2026--05.09.2026 в локации Испанские Пиренеи запланировано \"Pirineos Perfectos\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Испанские Пиренеи"
+    },
+    {
       "id": "a6dfebb65f",
       "title": "XXXIII Almuerzo motero Pliego",
       "date": "2026-08-30",
@@ -1288,6 +1680,20 @@
       "image_url": null,
       "short_ru": "Мотозавтрак в Плиего",
       "full_ru": "🍽️ <b>XXXIII Almuerzo motero Pliego</b>\n\n30 августа в Плиего (Мурсия) пройдёт тридцать третий традиционный мотозавтрак — давняя встреча местного байкерского сообщества.\n\n📍 <b>Локация:</b> Pliego, Murcia"
+    },
+    {
+      "id": "4b3a9e288d",
+      "title": "Tandas libres --- Racing100",
+      "date": "2026-08-30",
+      "end_date": "2026-08-31",
+      "city": "Circuit Ricardo Tormo, Честе",
+      "region": "Валенсия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "30.08.2026--31.08.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как",
+      "full_ru": "🏍 <b>Tandas libres --- Racing100</b>\n\n30.08.2026--31.08.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
     },
     {
       "id": "5d57978da2",
@@ -1598,6 +2004,34 @@
       "full_ru": "🏍 <b>XIII Lechubikers</b>\n\n\n\n📍 <b>Локация:</b> Madrid --- ( Loeches )"
     },
     {
+      "id": "2d07835526",
+      "title": "Esencia del Norte de España",
+      "date": "2026-09-05",
+      "end_date": "2026-09-13",
+      "city": "Север Испании",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "05.09.2026--13.09.2026 в локации Север Испании запланировано \"Esencia del Norte de España\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для T",
+      "full_ru": "🏍 <b>Esencia del Norte de España</b>\n\n05.09.2026--13.09.2026 в локации Север Испании запланировано \"Esencia del Norte de España\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Север Испании"
+    },
+    {
+      "id": "b22113201e",
+      "title": "Tandas libres --- TMSR",
+      "date": "2026-09-05",
+      "end_date": null,
+      "city": "Circuito de Jerez--Ángel Nieto, Херес",
+      "region": "Кадис",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "05.09.2026 в локации Circuito de Jerez--Ángel Nieto, Херес (Кадис) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарна",
+      "full_ru": "🏍 <b>Tandas libres --- TMSR</b>\n\n05.09.2026 в локации Circuito de Jerez--Ángel Nieto, Херес (Кадис) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Jerez--Ángel Nieto, Херес (Кадис)"
+    },
+    {
       "id": "fe758e98ea",
       "title": "XVII Almuerzo Motero Los Tárragas 2026",
       "date": "2026-09-06",
@@ -1668,6 +2102,34 @@
       "full_ru": "🏍 <b>III Cross Country y Peque TT InterOpen de Xert</b>\n\n\n\n📍 <b>Локация:</b> Xert (Кастельон)"
     },
     {
+      "id": "5a35592827",
+      "title": "XVII Almuerzo motero Los Tárragas",
+      "date": "2026-09-06",
+      "end_date": null,
+      "city": "San Pedro del Pinatar",
+      "region": "Murcia",
+      "zone": "Мурсия",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=0&p=49606#p49606",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XVII Almuerzo motero Los Tárragas</b>\n\n\n\n📍 <b>Локация:</b> Murcia --- (San Pedro del Pinatar)"
+    },
+    {
+      "id": "d227040f82",
+      "title": "Tandas libres --- Racing100",
+      "date": "2026-09-06",
+      "end_date": null,
+      "city": "Parcmotor Castellolí, Барселона",
+      "region": "",
+      "zone": "Комунидад Валенсиана",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "06.09.2026 в локации Parcmotor Castellolí, Барселона запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость",
+      "full_ru": "🏍 <b>Tandas libres --- Racing100</b>\n\n06.09.2026 в локации Parcmotor Castellolí, Барселона запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Parcmotor Castellolí, Барселона"
+    },
+    {
       "id": "14bfc40be5",
       "title": "Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES",
       "date": "2026-09-09",
@@ -1722,6 +2184,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>ESBK - Campeonato de España de Superbike - CIRCUIT RICARDO TORMO</b>\n\n\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
+    },
+    {
+      "id": "e1c76b96ba",
+      "title": "XLI Concentración Big Twin",
+      "date": "2026-09-10",
+      "end_date": "2026-09-13",
+      "city": "Castelló --- ()",
+      "region": "",
+      "zone": "Комунидад Валенсиана",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=482&p=48976#p48976",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XLI Concentración Big Twin</b>\n\n\n\n📍 <b>Локация:</b> Castelló --- ()"
     },
     {
       "id": "17c6e7f1b8",
@@ -1792,6 +2268,20 @@
       "image_url": null,
       "short_ru": "Мототуристическая концентрация в Мериде",
       "full_ru": "🏍️ <b>II Concentración mototurística Ciudad de Mérida</b>\n\n11–13 сентября в Мериде пройдёт вторая мототуристическая концентрация с маршрутами по Эстремадуре.\n\n📍 <b>Локация:</b> Mérida"
+    },
+    {
+      "id": "5c69246de9",
+      "title": "Tandas libres --- Riderspirit",
+      "date": "2026-09-11",
+      "end_date": null,
+      "city": "Circuito de Cartagena, Мурсия",
+      "region": "",
+      "zone": "Мурсия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "11.09.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость",
+      "full_ru": "🏍 <b>Tandas libres --- Riderspirit</b>\n\n11.09.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Cartagena, Мурсия"
     },
     {
       "id": "d41da463b3",
@@ -1948,6 +2438,48 @@
       "full_ru": "🏍 <b>XIII Concentración motera Los Impuntuales</b>\n\n\n\n📍 <b>Локация:</b> Jaén --- (Porcuna)"
     },
     {
+      "id": "11aa18150e",
+      "title": "Tandas libres --- TMSR",
+      "date": "2026-09-12",
+      "end_date": null,
+      "city": "Circuit de Barcelona-Catalunya, Монмело",
+      "region": "Барселона",
+      "zone": "Каталония",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "12.09.2026 в локации Circuit de Barcelona-Catalunya, Монмело (Барселона) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как кале",
+      "full_ru": "🏍 <b>Tandas libres --- TMSR</b>\n\n12.09.2026 в локации Circuit de Barcelona-Catalunya, Монмело (Барселона) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit de Barcelona-Catalunya, Монмело (Барселона)"
+    },
+    {
+      "id": "c8e0214305",
+      "title": "Tandas libres y curso --- Eventos Ceni",
+      "date": "2026-09-12",
+      "end_date": null,
+      "city": "Circuito de Andalucía, Табернас",
+      "region": "Альмерия",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "12.09.2026 в локации Circuito de Andalucía, Табернас (Альмерия) запланировано \"Tandas libres y curso --- Eventos Ceni\". Событие связано с активным участием на мотоциклах и включено в документ только к",
+      "full_ru": "🏍 <b>Tandas libres y curso --- Eventos Ceni</b>\n\n12.09.2026 в локации Circuito de Andalucía, Табернас (Альмерия) запланировано \"Tandas libres y curso --- Eventos Ceni\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Andalucía, Табернас (Альмерия)"
+    },
+    {
+      "id": "6b7623b36c",
+      "title": "Tandas libres y curso --- Factoria RR",
+      "date": "2026-09-12",
+      "end_date": null,
+      "city": "Circuito de Alcarràs, Льейда",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "12.09.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres y curso --- Factoria RR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная ",
+      "full_ru": "🏍 <b>Tandas libres y curso --- Factoria RR</b>\n\n12.09.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres y curso --- Factoria RR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Alcarràs, Льейда"
+    },
+    {
       "id": "d034ce365e",
       "title": "Custom Meeting Xàtiva",
       "date": "2026-09-13",
@@ -2018,6 +2550,76 @@
       "full_ru": "🏍 <b>XVI Motocross InterOpen Ricardo Monzonís - Alcora</b>\n\n\n\n📍 <b>Локация:</b> Circuito Ricardo Monzonís, Л'Алькора (Кастельон)"
     },
     {
+      "id": "521e53db53",
+      "title": "X Almuerzo motero Mula",
+      "date": "2026-09-13",
+      "end_date": null,
+      "city": "Mula",
+      "region": "Murcia",
+      "zone": "Мурсия",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=4588&p=49009#p49009",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>X Almuerzo motero Mula</b>\n\n\n\n📍 <b>Локация:</b> Murcia --- (Mula)"
+    },
+    {
+      "id": "574dfe7573",
+      "title": "Campionato Galego de Velocidade --- As Pontes",
+      "date": "2026-09-13",
+      "end_date": null,
+      "city": "Circuito As Pontes, Ла-Корунья",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://fgmoto.net/",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Campionato Galego de Velocidade --- As Pontes</b>\n\n\n\n📍 <b>Локация:</b> Circuito As Pontes, Ла-Корунья"
+    },
+    {
+      "id": "d059de29d7",
+      "title": "Custom Meeting Xàtiva 2026",
+      "date": "2026-09-13",
+      "end_date": null,
+      "city": "Хатива",
+      "region": "Валенсия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://motos.coches.net/noticias/calendario-motosnet",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Custom Meeting Xàtiva 2026</b>\n\n\n\n📍 <b>Локация:</b> Хатива (Валенсия)"
+    },
+    {
+      "id": "c14ee75a8c",
+      "title": "Tandas libres --- Racing100",
+      "date": "2026-09-13",
+      "end_date": null,
+      "city": "MotorLand Aragón, Альканьис",
+      "region": "Теруэль",
+      "zone": "Арагон",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "13.09.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная н",
+      "full_ru": "🏍 <b>Tandas libres --- Racing100</b>\n\n13.09.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> MotorLand Aragón, Альканьис (Теруэль)"
+    },
+    {
+      "id": "0f0509eb2a",
+      "title": "Tandas libres y curso --- PHANTOMR.",
+      "date": "2026-09-13",
+      "end_date": null,
+      "city": "Circuito de Alcarràs, Льейда",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "13.09.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres y curso --- PHANTOMR.\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная но",
+      "full_ru": "🏍 <b>Tandas libres y curso --- PHANTOMR.</b>\n\n13.09.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres y curso --- PHANTOMR.\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Alcarràs, Льейда"
+    },
+    {
       "id": "17179dae7f",
       "title": "Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES",
       "date": "2026-09-16",
@@ -2058,6 +2660,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>ESBK - Campeonato de España de Superbike - CIRCUITO DE NAVARRA II</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос"
+    },
+    {
+      "id": "0bb713bc03",
+      "title": "XX Concentración de motos Buitres Leonaos",
+      "date": "2026-09-17",
+      "end_date": "2026-09-20",
+      "city": "Malpartida de Cáceres",
+      "region": "Cáceres",
+      "zone": "Эстремадура",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=257&p=49142#p49142",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XX Concentración de motos Buitres Leonaos</b>\n\n\n\n📍 <b>Локация:</b> Cáceres --- (Malpartida de Cáceres)"
     },
     {
       "id": "d3fdf8a8d4",
@@ -2156,6 +2772,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Rodada Motor Extremo --- Almeria</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Almería, Альмерия"
+    },
+    {
+      "id": "b8a44e6504",
+      "title": "XI Concentración Los Rebotaos",
+      "date": "2026-09-18",
+      "end_date": "2026-09-20",
+      "city": "La arboleda-Zugaztieta",
+      "region": "Bizkaia",
+      "zone": "Страна Басков",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=0&p=49184#p49184",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XI Concentración Los Rebotaos</b>\n\n\n\n📍 <b>Локация:</b> Bizkaia --- (La arboleda-Zugaztieta)"
     },
     {
       "id": "2dd593c170",
@@ -2326,6 +2956,34 @@
       "full_ru": "🏍 <b>FIM EU - Campeonato de Europa de Enduro - LA TORRE D´ORISTA - Barcelona</b>\n\n\n\n📍 <b>Локация:</b> Campeonato de Europa de Enduro --- LA TORRE D´ORISTA --- Barcelona"
     },
     {
+      "id": "3385d274b8",
+      "title": "Tandas libres --- TMSR",
+      "date": "2026-09-19",
+      "end_date": null,
+      "city": "MotorLand Aragón, Альканьис",
+      "region": "Теруэль",
+      "zone": "Арагон",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "19.09.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новост",
+      "full_ru": "🏍 <b>Tandas libres --- TMSR</b>\n\n19.09.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> MotorLand Aragón, Альканьис (Теруэль)"
+    },
+    {
+      "id": "93e7120ab0",
+      "title": "Portugal & España Motorcycle Tour",
+      "date": "2026-09-19",
+      "end_date": "2026-10-03",
+      "city": "Испания и Португалия",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "19.09.2026--03.10.2026 в локации Испания и Португалия запланировано \"Portugal & España Motorcycle Tour\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная ",
+      "full_ru": "🏍 <b>Portugal & España Motorcycle Tour</b>\n\n19.09.2026--03.10.2026 в локации Испания и Португалия запланировано \"Portugal & España Motorcycle Tour\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Испания и Португалия"
+    },
+    {
       "id": "2d1d150437",
       "title": "Tandas libres y curso en el Circuito de Albacete (AB Riders)",
       "date": "2026-09-20",
@@ -2380,6 +3038,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>TT-TR InterOpen de Cortes de Arenoso</b>\n\n\n\n📍 <b>Локация:</b> Cortes de Arenoso (Кастельон)"
+    },
+    {
+      "id": "376831cc48",
+      "title": "Tandas libres y curso --- AB Riders",
+      "date": "2026-09-20",
+      "end_date": null,
+      "city": "Circuito de Albacete, Альбасете",
+      "region": "",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "20.09.2026 в локации Circuito de Albacete, Альбасете запланировано \"Tandas libres y curso --- AB Riders\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная",
+      "full_ru": "🏍 <b>Tandas libres y curso --- AB Riders</b>\n\n20.09.2026 в локации Circuito de Albacete, Альбасете запланировано \"Tandas libres y curso --- AB Riders\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Albacete, Альбасете"
     },
     {
       "id": "a4568e1c08",
@@ -2450,6 +3122,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Rodada Motor Extremo --- Sevilla</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Sevilla, Севилья"
+    },
+    {
+      "id": "795d2d5b05",
+      "title": "III Rider Dinosaurios Teruel",
+      "date": "2026-09-25",
+      "end_date": "2026-09-27",
+      "city": "Teruel",
+      "region": "Teruel",
+      "zone": "Арагон",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "25.09.2026--27.09.2026 в локации Teruel --- (Teruel) запланировано \"III Rider Dinosaurios Teruel\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новост",
+      "full_ru": "🏍 <b>III Rider Dinosaurios Teruel</b>\n\n25.09.2026--27.09.2026 в локации Teruel --- (Teruel) запланировано \"III Rider Dinosaurios Teruel\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Teruel --- (Teruel)"
     },
     {
       "id": "1887197409",
@@ -2550,6 +3236,20 @@
       "full_ru": "🏍 <b>RFME Mototurismo Touring Challenge - Barcelona</b>\n\n\n\n📍 <b>Локация:</b> Barcelona"
     },
     {
+      "id": "97d1046899",
+      "title": "Tandas libres --- TMSR",
+      "date": "2026-09-26",
+      "end_date": null,
+      "city": "Circuito de Navarra, Лос-Аркос",
+      "region": "Наварра",
+      "zone": "Наварра",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "26.09.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная нов",
+      "full_ru": "🏍 <b>Tandas libres --- TMSR</b>\n\n26.09.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос (Наварра)"
+    },
+    {
       "id": "cc670dce35",
       "title": "Concentración Motera Bilbao",
       "date": "2026-09-27",
@@ -2604,6 +3304,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>IV Hard TT-E InterOpen de Segorbe</b>\n\n\n\n📍 <b>Локация:</b> Segorbe (Кастельон)"
+    },
+    {
+      "id": "b9592fb306",
+      "title": "Tandas libres --- Bike Promotion Europe",
+      "date": "2026-09-29",
+      "end_date": "2026-10-01",
+      "city": "MotorLand Aragón, Альканьис",
+      "region": "Теруэль",
+      "zone": "Арагон",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "29.09.2026--01.10.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ ",
+      "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n29.09.2026--01.10.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> MotorLand Aragón, Альканьис (Теруэль)"
     },
     {
       "id": "1c4d42500d",
@@ -2704,6 +3418,48 @@
       "full_ru": "🏍 <b>XIII Moto encuentro solidario Siero</b>\n\n\n\n📍 <b>Локация:</b> Asturias --- (Siero)"
     },
     {
+      "id": "b03e059fbe",
+      "title": "XXIX Concentració motociclista Vila de Flix",
+      "date": "2026-10-02",
+      "end_date": "2026-10-04",
+      "city": "Flix",
+      "region": "Tarragona",
+      "zone": "Каталония",
+      "venue": "",
+      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=438&p=49190#p49190",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>XXIX Concentració motociclista Vila de Flix</b>\n\n\n\n📍 <b>Локация:</b> Tarragona --- (Flix)"
+    },
+    {
+      "id": "f0306fa1a1",
+      "title": "Tandas libres --- Riderspirit",
+      "date": "2026-10-02",
+      "end_date": null,
+      "city": "Circuito de Cartagena, Мурсия",
+      "region": "",
+      "zone": "Мурсия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "02.10.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость",
+      "full_ru": "🏍 <b>Tandas libres --- Riderspirit</b>\n\n02.10.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Cartagena, Мурсия"
+    },
+    {
+      "id": "03493089b7",
+      "title": "Esencia del Sur de España --- Andalucía",
+      "date": "2026-10-02",
+      "end_date": "2026-10-10",
+      "city": "Андалусия",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "02.10.2026--10.10.2026 в локации Андалусия запланировано \"Esencia del Sur de España --- Andalucía\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новос",
+      "full_ru": "🏍 <b>Esencia del Sur de España --- Andalucía</b>\n\n02.10.2026--10.10.2026 в локации Андалусия запланировано \"Esencia del Sur de España --- Andalucía\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Андалусия"
+    },
+    {
       "id": "0c76864c5d",
       "title": "NavaRider Day 2026",
       "date": "2026-10-03",
@@ -2802,6 +3558,34 @@
       "full_ru": "🏍 <b>V Quedada peña motera Parte-Bielas</b>\n\n\n\n📍 <b>Локация:</b> Córdoba --- (El Arrecife)"
     },
     {
+      "id": "2d72d68571",
+      "title": "Tandas libres --- Bike Promotion Europe",
+      "date": "2026-10-03",
+      "end_date": null,
+      "city": "Circuit Ricardo Tormo, Честе",
+      "region": "Валенсия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "03.10.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как",
+      "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n03.10.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
+    },
+    {
+      "id": "ab41a974fa",
+      "title": "Tandas libres y curso --- RGP",
+      "date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "city": "Circuito de Andalucía, Табернас",
+      "region": "Альмерия",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "03.10.2026--04.10.2026 в локации Circuito de Andalucía, Табернас (Альмерия) запланировано \"Tandas libres y curso --- RGP\". Событие связано с активным участием на мотоциклах и включено в документ тольк",
+      "full_ru": "🏍 <b>Tandas libres y curso --- RGP</b>\n\n03.10.2026--04.10.2026 в локации Circuito de Andalucía, Табернас (Альмерия) запланировано \"Tandas libres y curso --- RGP\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Andalucía, Табернас (Альмерия)"
+    },
+    {
       "id": "8dfd679344",
       "title": "Concentración vehículos clásicos Villahermosa 2026",
       "date": "2026-10-04",
@@ -2856,6 +3640,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>VI Motocross InterOpen de Molina de Segura</b>\n\n\n\n📍 <b>Локация:</b> Molina de Segura (Мурсия)"
+    },
+    {
+      "id": "dc0d78c0b5",
+      "title": "Tandas libres y curso --- Factoria RR",
+      "date": "2026-10-04",
+      "end_date": null,
+      "city": "Circuito de Alcarràs, Льейда",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "04.10.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres y curso --- Factoria RR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная ",
+      "full_ru": "🏍 <b>Tandas libres y curso --- Factoria RR</b>\n\n04.10.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres y curso --- Factoria RR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Alcarràs, Льейда"
     },
     {
       "id": "3686c493ce",
@@ -2956,6 +3754,48 @@
       "full_ru": "🏍 <b>RFME Mototurismo Touring Challenge - Copa de Rutas</b>\n\n\n\n📍 <b>Локация:</b> Copa de Rutas"
     },
     {
+      "id": "7576655f70",
+      "title": "II Butifarrada Motera Salou 2026",
+      "date": "2026-10-10",
+      "end_date": null,
+      "city": "Салоу",
+      "region": "Таррагона",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/calendario",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>II Butifarrada Motera Salou 2026</b>\n\n\n\n📍 <b>Локация:</b> Салоу (Таррагона)"
+    },
+    {
+      "id": "0bba49e0b4",
+      "title": "Tandas libres --- Box23",
+      "date": "2026-10-10",
+      "end_date": "2026-10-11",
+      "city": "MotorLand Aragón, Альканьис",
+      "region": "Теруэль",
+      "zone": "Арагон",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "10.10.2026--11.10.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Box23\". Событие связано с активным участием на мотоциклах и включено в документ только как кален",
+      "full_ru": "🏍 <b>Tandas libres --- Box23</b>\n\n10.10.2026--11.10.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Box23\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> MotorLand Aragón, Альканьис (Теруэль)"
+    },
+    {
+      "id": "9acd69c9a3",
+      "title": "Tandas libres y curso --- Motorbike Racing",
+      "date": "2026-10-10",
+      "end_date": null,
+      "city": "Circuito de Calafat, Л'Аметлья-де-Мар",
+      "region": "Таррагона",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "10.10.2026 в локации Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона) запланировано \"Tandas libres y curso --- Motorbike Racing\". Событие связано с активным участием на мотоциклах и включено в докуме",
+      "full_ru": "🏍 <b>Tandas libres y curso --- Motorbike Racing</b>\n\n10.10.2026 в локации Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона) запланировано \"Tandas libres y curso --- Motorbike Racing\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона)"
+    },
+    {
       "id": "e184736e8c",
       "title": "Concentración Motera Burgos",
       "date": "2026-10-11",
@@ -2996,6 +3836,34 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Trobada motera Demon Riders 2026</b>\n\n\n\n📍 <b>Локация:</b> Girona --- (Sant Pere Pescador)"
+    },
+    {
+      "id": "d2697f089f",
+      "title": "Tandas libres --- Racing100",
+      "date": "2026-10-12",
+      "end_date": null,
+      "city": "Circuito de Navarra, Лос-Аркос",
+      "region": "Наварра",
+      "zone": "Наварра",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "12.10.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарна",
+      "full_ru": "🏍 <b>Tandas libres --- Racing100</b>\n\n12.10.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос (Наварра)"
+    },
+    {
+      "id": "ec239fdcaa",
+      "title": "Tandas libres y curso --- PHANTOMR.",
+      "date": "2026-10-12",
+      "end_date": null,
+      "city": "Circuito de Calafat, Л'Аметлья-де-Мар",
+      "region": "Таррагона",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "12.10.2026 в локации Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона) запланировано \"Tandas libres y curso --- PHANTOMR.\". Событие связано с активным участием на мотоциклах и включено в документ толь",
+      "full_ru": "🏍 <b>Tandas libres y curso --- PHANTOMR.</b>\n\n12.10.2026 в локации Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона) запланировано \"Tandas libres y curso --- PHANTOMR.\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона)"
     },
     {
       "id": "44806a59be",
@@ -3054,6 +3922,20 @@
       "full_ru": "🏍 <b>X Concentración motera Paketorr@s</b>\n\n\n\n📍 <b>Локация:</b> Zamora --- (Moraleja del Vino)"
     },
     {
+      "id": "a71d4e6ac0",
+      "title": "Portugal & Sur de España Motorcycle Tour",
+      "date": "2026-10-16",
+      "end_date": "2026-10-30",
+      "city": "Юг Испании и Португалия",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "16.10.2026--30.10.2026 в локации Юг Испании и Португалия запланировано \"Portugal & Sur de España Motorcycle Tour\". Событие связано с активным участием на мотоциклах и включено в документ только как ка",
+      "full_ru": "🏍 <b>Portugal & Sur de España Motorcycle Tour</b>\n\n16.10.2026--30.10.2026 в локации Юг Испании и Португалия запланировано \"Portugal & Sur de España Motorcycle Tour\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Юг Испании и Португалия"
+    },
+    {
       "id": "c4488b3ef8",
       "title": "Motoretroguara",
       "date": "2026-10-17",
@@ -3108,6 +3990,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>V Encuentro de Motos Antiguas y Clásicas Motoretroguara</b>\n\n\n\n📍 <b>Локация:</b> Колунго (Уэска)"
+    },
+    {
+      "id": "8cbc67d8a7",
+      "title": "Tandas libres --- TMSR",
+      "date": "2026-10-17",
+      "end_date": null,
+      "city": "Circuit Ricardo Tormo, Честе",
+      "region": "Валенсия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "17.10.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная ново",
+      "full_ru": "🏍 <b>Tandas libres --- TMSR</b>\n\n17.10.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
     },
     {
       "id": "481c561d5f",
@@ -3180,6 +4076,20 @@
       "full_ru": "🏍 <b>FIM Campeonato del Mundo de Hard Enduro - HIXPANIA - Aguilar de Campoo - Palencia</b>\n\n\n\n📍 <b>Локация:</b> HIXPANIA --- Aguilar de Campoo --- Palencia"
     },
     {
+      "id": "bac9842255",
+      "title": "Tandas libres --- Bike Promotion Europe",
+      "date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "city": "Circuito de Almería, Табернас",
+      "region": "Альмерия",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "23.10.2026--25.10.2026 в локации Circuito de Almería, Табернас (Альмерия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в докуме",
+      "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n23.10.2026--25.10.2026 в локации Circuito de Almería, Табернас (Альмерия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Almería, Табернас (Альмерия)"
+    },
+    {
       "id": "059fe03640",
       "title": "Campeonato de España de Motocross - TALAVERA DE LA REINA - Toledo",
       "date": "2026-10-24",
@@ -3206,6 +4116,48 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Campeonato de España de Trial - RIPOLL - Girona (SÁBADO)</b>\n\n\n\n📍 <b>Локация:</b> RIPOLL --- Girona (SÁBADO)"
+    },
+    {
+      "id": "15aafb3085",
+      "title": "MotorLand Classic Festival 2026",
+      "date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "city": "MotorLand Aragón, Альканьис",
+      "region": "Теруэль",
+      "zone": "Арагон",
+      "venue": "",
+      "url": "https://www.motorlandaragon.com/",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>MotorLand Classic Festival 2026</b>\n\n\n\n📍 <b>Локация:</b> MotorLand Aragón, Альканьис (Теруэль)"
+    },
+    {
+      "id": "edc3828666",
+      "title": "Tandas libres --- MPS Organisation",
+      "date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "city": "Circuito de Alcarràs, Льейда",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "24.10.2026--25.10.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres --- MPS Organisation\". Событие связано с активным участием на мотоциклах и включено в документ только как кал",
+      "full_ru": "🏍 <b>Tandas libres --- MPS Organisation</b>\n\n24.10.2026--25.10.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres --- MPS Organisation\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Alcarràs, Льейда"
+    },
+    {
+      "id": "8df537a45b",
+      "title": "Tandas libres --- Team 18",
+      "date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "city": "Circuito de Alcarràs, Льейда",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "24.10.2026--25.10.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres --- Team 18\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная ",
+      "full_ru": "🏍 <b>Tandas libres --- Team 18</b>\n\n24.10.2026--25.10.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres --- Team 18\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Alcarràs, Льейда"
     },
     {
       "id": "68ef41e279",
@@ -3236,6 +4188,34 @@
       "full_ru": "🏍 <b>Campeonato de España de Trial - RIPOLL - Girona (DOMINGO)</b>\n\n\n\n📍 <b>Локация:</b> RIPOLL --- Girona (DOMINGO)"
     },
     {
+      "id": "eb0b00b9d0",
+      "title": "Tandas libres --- Motorbike Racing",
+      "date": "2026-10-25",
+      "end_date": null,
+      "city": "Circuito de Albacete, Альбасете",
+      "region": "",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "25.10.2026 в локации Circuito de Albacete, Альбасете запланировано \"Tandas libres --- Motorbike Racing\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная ",
+      "full_ru": "🏍 <b>Tandas libres --- Motorbike Racing</b>\n\n25.10.2026 в локации Circuito de Albacete, Альбасете запланировано \"Tandas libres --- Motorbike Racing\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Albacete, Альбасете"
+    },
+    {
+      "id": "9e66ab8668",
+      "title": "Tandas libres y curso --- Factoria RR",
+      "date": "2026-10-25",
+      "end_date": null,
+      "city": "Parcmotor Castellolí, Барселона",
+      "region": "",
+      "zone": "Комунидад Валенсиана",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "25.10.2026 в локации Parcmotor Castellolí, Барселона запланировано \"Tandas libres y curso --- Factoria RR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарн",
+      "full_ru": "🏍 <b>Tandas libres y curso --- Factoria RR</b>\n\n25.10.2026 в локации Parcmotor Castellolí, Барселона запланировано \"Tandas libres y curso --- Factoria RR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Parcmotor Castellolí, Барселона"
+    },
+    {
       "id": "67a5374366",
       "title": "XIX Motoalmuerzo Boulevard Racing Rafal 2026",
       "date": "2026-10-26",
@@ -3248,6 +4228,20 @@
       "image_url": null,
       "short_ru": "Мото-завтрак Boulevard Racing в Рафале (Вега-Баха, Аликанте)",
       "full_ru": "🍳 <b>Мото-завтрак в Рафале</b>\n\n26 октября клуб Boulevard Racing проводит XIX Motoalmuerzo в Рафале — это Вега-Баха, рядом с Ориуэлой и Торревьехой.\n\nКлассический формат: сбор с утра, завтрак, розыгрыши, много железа на площади и разговоры до обеда. Отлично заходит для тех, кто живёт на юге провинции.\n\n📍 <b>Локация:</b> Rafal, Alicante"
+    },
+    {
+      "id": "d9f4c4a1d7",
+      "title": "Tandas libres --- Box23",
+      "date": "2026-10-26",
+      "end_date": "2026-10-27",
+      "city": "Circuit de Barcelona-Catalunya, Монмело",
+      "region": "Барселона",
+      "zone": "Каталония",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "26.10.2026--27.10.2026 в локации Circuit de Barcelona-Catalunya, Монмело (Барселона) запланировано \"Tandas libres --- Box23\". Событие связано с активным участием на мотоциклах и включено в документ то",
+      "full_ru": "🏍 <b>Tandas libres --- Box23</b>\n\n26.10.2026--27.10.2026 в локации Circuit de Barcelona-Catalunya, Монмело (Барселона) запланировано \"Tandas libres --- Box23\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit de Barcelona-Catalunya, Монмело (Барселона)"
     },
     {
       "id": "86e228c577",
@@ -3306,6 +4300,62 @@
       "full_ru": "🏍 <b>Campeonato de España de Enduro - PIÑOR, Ourense - Dos Días</b>\n\n\n\n📍 <b>Локация:</b> PIÑOR, Ourense --- Dos Días"
     },
     {
+      "id": "48b58c6fb9",
+      "title": "Hard Enduro Navarrevisca",
+      "date": "2026-10-31",
+      "end_date": null,
+      "city": "Наварревиска",
+      "region": "Авила",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://fedemotocyl.es/",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Hard Enduro Navarrevisca</b>\n\n\n\n📍 <b>Локация:</b> Наварревиска (Авила)"
+    },
+    {
+      "id": "7dcef02bd5",
+      "title": "Tandas libres --- Bike Promotion Europe",
+      "date": "2026-10-31",
+      "end_date": "2026-11-02",
+      "city": "Circuito de Cartagena, Мурсия",
+      "region": "",
+      "zone": "Мурсия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "31.10.2026--02.11.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только к",
+      "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n31.10.2026--02.11.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Cartagena, Мурсия"
+    },
+    {
+      "id": "4048ac83f2",
+      "title": "Tandas libres --- TTSuperpole",
+      "date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "city": "MotorLand Aragón, Альканьис",
+      "region": "Теруэль",
+      "zone": "Арагон",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "31.10.2026--01.11.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- TTSuperpole\". Событие связано с активным участием на мотоциклах и включено в документ только как",
+      "full_ru": "🏍 <b>Tandas libres --- TTSuperpole</b>\n\n31.10.2026--01.11.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- TTSuperpole\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> MotorLand Aragón, Альканьис (Теруэль)"
+    },
+    {
+      "id": "fa56d542ea",
+      "title": "Tandas libres y curso --- JMR RACING EVENTS",
+      "date": "2026-10-31",
+      "end_date": null,
+      "city": "Circuito de Albacete, Альбасете",
+      "region": "",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "31.10.2026 в локации Circuito de Albacete, Альбасете запланировано \"Tandas libres y curso --- JMR RACING EVENTS\". Событие связано с активным участием на мотоциклах и включено в документ только как кал",
+      "full_ru": "🏍 <b>Tandas libres y curso --- JMR RACING EVENTS</b>\n\n31.10.2026 в локации Circuito de Albacete, Альбасете запланировано \"Tandas libres y curso --- JMR RACING EVENTS\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Albacete, Альбасете"
+    },
+    {
       "id": "2acafe516b",
       "title": "MiniVelocidad InterOpen de Albaida",
       "date": "2026-11-01",
@@ -3346,6 +4396,34 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Rodada Motor Extremo --- Almeria</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Almería, Альмерия"
+    },
+    {
+      "id": "8a214ea5d5",
+      "title": "Tandas libres --- Riderspirit",
+      "date": "2026-11-06",
+      "end_date": null,
+      "city": "Circuito de Cartagena, Мурсия",
+      "region": "",
+      "zone": "Мурсия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "06.11.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость",
+      "full_ru": "🏍 <b>Tandas libres --- Riderspirit</b>\n\n06.11.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Cartagena, Мурсия"
+    },
+    {
+      "id": "7d52d59203",
+      "title": "Esencia del Sur de España --- Andalucía (ноябрь)",
+      "date": "2026-11-06",
+      "end_date": "2026-11-14",
+      "city": "Андалусия",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "06.11.2026--14.11.2026 в локации Андалусия запланировано \"Esencia del Sur de España --- Andalucía (ноябрь)\". Событие связано с активным участием на мотоциклах и включено в документ только как календар",
+      "full_ru": "🏍 <b>Esencia del Sur de España --- Andalucía (ноябрь)</b>\n\n06.11.2026--14.11.2026 в локации Андалусия запланировано \"Esencia del Sur de España --- Andalucía (ноябрь)\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Андалусия"
     },
     {
       "id": "48ac0ad6c3",
@@ -3444,6 +4522,34 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>XXI Motoboirada 2026</b>\n\n\n\n📍 <b>Локация:</b> Lleida --- (Alcarràs)"
+    },
+    {
+      "id": "2c0d19eee2",
+      "title": "Concentración Motera Salamanca --- edición de noviembre",
+      "date": "2026-11-08",
+      "end_date": "2026-11-09",
+      "city": "Саламанка",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/calendario",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Concentración Motera Salamanca --- edición de noviembre</b>\n\n\n\n📍 <b>Локация:</b> Саламанка"
+    },
+    {
+      "id": "4528bedfc0",
+      "title": "Tandas libres --- Bike Promotion Europe",
+      "date": "2026-11-12",
+      "end_date": "2026-11-14",
+      "city": "MotorLand Aragón, Альканьис",
+      "region": "Теруэль",
+      "zone": "Арагон",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "12.11.2026--14.11.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ ",
+      "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n12.11.2026--14.11.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> MotorLand Aragón, Альканьис (Теруэль)"
     },
     {
       "id": "963ec97a90",
@@ -3586,6 +4692,20 @@
       "full_ru": "🏍 <b>Trobada motera Gripada 2026</b>\n\n\n\n📍 <b>Локация:</b> Lleida --- (Bellcaire d\\'Urgell)"
     },
     {
+      "id": "a00fbab599",
+      "title": "Tandas libres --- Bike Promotion Europe",
+      "date": "2026-11-17",
+      "end_date": "2026-11-19",
+      "city": "Circuito de Almería, Табернас",
+      "region": "Альмерия",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "17.11.2026--19.11.2026 в локации Circuito de Almería, Табернас (Альмерия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в докуме",
+      "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n17.11.2026--19.11.2026 в локации Circuito de Almería, Табернас (Альмерия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Almería, Табернас (Альмерия)"
+    },
+    {
       "id": "74154592fe",
       "title": "FIM Campeonato del Mundo de Velocidad - MotoGP - CIRCUIT RICARDO TORMO",
       "date": "2026-11-20",
@@ -3614,6 +4734,20 @@
       "full_ru": "🏍 <b>Rodada Motor Extremo --- Almeria</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Almería, Альмерия"
     },
     {
+      "id": "445e059c96",
+      "title": "Firauto y Sobre2Ruedas --- noviembre 2026",
+      "date": "2026-11-20",
+      "end_date": "2026-11-22",
+      "city": "Institución Ferial Alicantina, Эльче",
+      "region": "Аликанте",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/calendario",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Firauto y Sobre2Ruedas --- noviembre 2026</b>\n\n\n\n📍 <b>Локация:</b> Institución Ferial Alicantina, Эльче (Аликанте)"
+    },
+    {
       "id": "598aca41ee",
       "title": "XLI Concentración motera Bullas",
       "date": "2026-11-21",
@@ -3640,6 +4774,48 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Campeonato de España de Enduro - CERRO MURIANO - Córdoba - Dos Días</b>\n\n\n\n📍 <b>Локация:</b> CERRO MURIANO --- Córdoba --- Dos Días"
+    },
+    {
+      "id": "1a33018244",
+      "title": "Hard Enduro Fuentetoba",
+      "date": "2026-11-21",
+      "end_date": null,
+      "city": "Фуэнтетоба",
+      "region": "Сория",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://fedemotocyl.es/",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Hard Enduro Fuentetoba</b>\n\n\n\n📍 <b>Локация:</b> Фуэнтетоба (Сория)"
+    },
+    {
+      "id": "a58b6a5551",
+      "title": "Concentración Motera Invierno 2026",
+      "date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "city": "Леон",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/evento/concentracion-motera-invierno-2026-11-21",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Concentración Motera Invierno 2026</b>\n\n\n\n📍 <b>Локация:</b> Леон"
+    },
+    {
+      "id": "e0b84ef606",
+      "title": "Tandas libres --- Bike Promotion Europe",
+      "date": "2026-11-21",
+      "end_date": "2026-11-23",
+      "city": "Circuito de Jerez--Ángel Nieto, Херес",
+      "region": "Кадис",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "21.11.2026--23.11.2026 в локации Circuito de Jerez--Ángel Nieto, Херес (Кадис) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в д",
+      "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n21.11.2026--23.11.2026 в локации Circuito de Jerez--Ángel Nieto, Херес (Кадис) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Jerez--Ángel Nieto, Херес (Кадис)"
     },
     {
       "id": "7742978c84",
@@ -3698,6 +4874,34 @@
       "full_ru": "🏍 <b>Rodada Motor Extremo --- Cartagena</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Cartagena, Мурсия"
     },
     {
+      "id": "8d24a70f9c",
+      "title": "Concentración Motera Cierre de Temporada 2026",
+      "date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "city": "Валенсия",
+      "region": "",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://www.eventomotor.com/evento/concentracion-motera-cierre-de-temporada-2026-11-28",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>Concentración Motera Cierre de Temporada 2026</b>\n\n\n\n📍 <b>Локация:</b> Валенсия"
+    },
+    {
+      "id": "e9bdec98ba",
+      "title": "Tandas libres --- Bike Promotion Europe",
+      "date": "2026-11-28",
+      "end_date": "2026-11-30",
+      "city": "Circuito de Andalucía, Табернас",
+      "region": "Альмерия",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "28.11.2026--30.11.2026 в локации Circuito de Andalucía, Табернас (Альмерия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в доку",
+      "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n28.11.2026--30.11.2026 в локации Circuito de Andalucía, Табернас (Альмерия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Andalucía, Табернас (Альмерия)"
+    },
+    {
       "id": "545b5f6d9d",
       "title": "VIII Motoalmuerzo Dorsal Zero Ciudad de Torrevieja 2026",
       "date": "2026-11-29",
@@ -3712,6 +4916,34 @@
       "full_ru": "🍳 <b>Мото-завтрак в Торревьехе</b>\n\n29 ноября — VIII Motoalmuerzo Dorsal Zero, один из самых массовых мото-завтраков провинции Аликанте. Площадка у Aquopolis, с утра до вечера: завтрак, выставка мотоциклов, розыгрыши, живая музыка.\n\nСобирает несколько сотен байкеров со всей Коста-Бланки — если живёшь на юге провинции, это событие года.\n\n📍 <b>Локация:</b> Recinto de Ferias y Eventos (рядом с Aquopolis), Torrevieja"
     },
     {
+      "id": "4519727dd7",
+      "title": "Tandas libres --- Racing100",
+      "date": "2026-11-29",
+      "end_date": null,
+      "city": "Circuit Ricardo Tormo, Честе",
+      "region": "Валенсия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "29.11.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная",
+      "full_ru": "🏍 <b>Tandas libres --- Racing100</b>\n\n29.11.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
+    },
+    {
+      "id": "c27c096498",
+      "title": "Tandas libres --- MPS Organisation",
+      "date": "2026-11-30",
+      "end_date": "2026-12-02",
+      "city": "Circuit Ricardo Tormo, Честе",
+      "region": "Валенсия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "30.11.2026--02.12.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- MPS Organisation\". Событие связано с активным участием на мотоциклах и включено в документ тол",
+      "full_ru": "🏍 <b>Tandas libres --- MPS Organisation</b>\n\n30.11.2026--02.12.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- MPS Organisation\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
+    },
+    {
       "id": "07e80264d3",
       "title": "Rodada Motor Extremo --- Sevilla",
       "date": "2026-12-04",
@@ -3724,6 +4956,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Rodada Motor Extremo --- Sevilla</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Sevilla, Севилья"
+    },
+    {
+      "id": "f30339c65e",
+      "title": "Tandas libres --- Bike Promotion Europe",
+      "date": "2026-12-04",
+      "end_date": null,
+      "city": "Circuit Ricardo Tormo, Честе",
+      "region": "Валенсия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "04.12.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как",
+      "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n04.12.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
     },
     {
       "id": "bda5947503",
@@ -3754,6 +5000,20 @@
       "full_ru": "🏍 <b>CEF InterOpen de Velocidad - Cartagena</b>\n\n\n\n📍 <b>Локация:</b> Cartagena (Мурсия)"
     },
     {
+      "id": "d2ff98655a",
+      "title": "EnduRoc 2026",
+      "date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "city": "Les Comes, Сурия",
+      "region": "Барселона",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "https://fcm.cat/competicio/calendari-no-puntuable/",
+      "image_url": null,
+      "short_ru": "",
+      "full_ru": "🏍 <b>EnduRoc 2026</b>\n\n\n\n📍 <b>Локация:</b> Les Comes, Сурия (Барселона)"
+    },
+    {
       "id": "7bbc114330",
       "title": "Entrenamientos tutelados Circuito Verdegàs - MX - 9:00 a 14:00",
       "date": "2026-12-06",
@@ -3782,6 +5042,20 @@
       "full_ru": "🏍 <b>Rodada Motor Extremo --- Almeria</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Almería, Альмерия"
     },
     {
+      "id": "90057a3adb",
+      "title": "Tandas libres --- JMR RACING EVENTS",
+      "date": "2026-12-13",
+      "end_date": null,
+      "city": "Circuit Ricardo Tormo, Честе",
+      "region": "Валенсия",
+      "zone": "Другие регионы",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "13.12.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- JMR RACING EVENTS\". Событие связано с активным участием на мотоциклах и включено в документ только как кал",
+      "full_ru": "🏍 <b>Tandas libres --- JMR RACING EVENTS</b>\n\n13.12.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- JMR RACING EVENTS\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
+    },
+    {
       "id": "5478e038d2",
       "title": "LIII Reunión invernal Arguis",
       "date": "2026-12-18",
@@ -3794,6 +5068,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>LIII Reunión invernal Arguis</b>\n\n\n\n📍 <b>Локация:</b> Huesca --- (Arguis)"
+    },
+    {
+      "id": "776e0b7de1",
+      "title": "Tandas libres --- Riderspirit",
+      "date": "2026-12-18",
+      "end_date": null,
+      "city": "Circuito de Cartagena, Мурсия",
+      "region": "",
+      "zone": "Мурсия",
+      "venue": "",
+      "url": "",
+      "image_url": null,
+      "short_ru": "18.12.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость",
+      "full_ru": "🏍 <b>Tandas libres --- Riderspirit</b>\n\n18.12.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Cartagena, Мурсия"
     },
     {
       "id": "1129dd4a2b",
