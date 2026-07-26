@@ -10,7 +10,7 @@ const { startAdminBridge } = require('./admin-bridge');
 // Лимиты и расписание (переопределяются в .env)
 const MAX_ANNOUNCES = () => parseInt(process.env.MAX_ANNOUNCES || '4', 10);      // анонсов в день
 const MAX_NEWS = () => parseInt(process.env.MAX_NEWS || '2', 10);                // новостей в день
-const MAX_FORWARDS = () => parseInt(process.env.MAX_FORWARDS || '2', 10);        // пересылок в группу в день
+const MAX_FORWARDS = () => parseInt(process.env.MAX_FORWARDS || '1', 10);        // пересылка в группу в день (по умолч. 1 — самое важное)
 const ANNOUNCE_WINDOW = () => parseInt(process.env.ANNOUNCE_WINDOW || '35', 10); // анонс примерно за месяц
 const WORK_START = () => parseInt(process.env.WORK_START || '9', 10);
 const WORK_END = () => parseInt(process.env.WORK_END || '21', 10);
@@ -135,7 +135,13 @@ function nextCandidate(db) {
     if (fresh(ev.posted.week) || fresh(ev.posted.announce)) continue;
     return { type: 'event', kind: 'day', item: ev };
   }
-  // 2. Напоминание за неделю
+  // 2. Новость (лимит в день) — выше напоминаний, чтобы не застревать в очереди
+  //    за многочисленными «через неделю» при большой базе событий
+  if (meta.news < MAX_NEWS()) {
+    const n = db.news.find((x) => !x.posted && x.post_ru);
+    if (n) return { type: 'news', item: n };
+  }
+  // 3. Напоминание за неделю
   for (const ev of db.events) {
     if (ev.no_post) continue;
     const d = store.daysUntil(ev.date);
@@ -143,11 +149,6 @@ function nextCandidate(db) {
     if (ev.posted.week || !ev.posted.announce) continue;
     if (Date.now() - new Date(ev.posted.announce).getTime() < 2 * 86400000) continue;
     return { type: 'event', kind: 'week', item: ev };
-  }
-  // 3. Новость (лимит в день)
-  if (meta.news < MAX_NEWS()) {
-    const n = db.news.find((x) => !x.posted && x.post_ru);
-    if (n) return { type: 'news', item: n };
   }
   // 4. Анонс ближайшего события в окне (лимит в день)
   if (meta.announces < MAX_ANNOUNCES()) {
