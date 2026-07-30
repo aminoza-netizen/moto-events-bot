@@ -1,48 +1,6 @@
 {
-  "generated_at": "2026-07-29T07:00:43.532Z",
+  "generated_at": "2026-07-30T07:02:04.950Z",
   "events": [
-    {
-      "id": "aceef18842",
-      "title": "Entrenamientos tutelados Circuit d\\'Albaida - Velocidad - 10:00 a 14:00",
-      "date": "2026-07-28",
-      "end_date": null,
-      "city": "Circuit d'Albaida, Альбайда",
-      "region": "Валенсия",
-      "zone": "Другие регионы",
-      "venue": "",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Entrenamientos tutelados Circuit d\\'Albaida - Velocidad - 10:00 a 14:00</b>\n\n\n\n📍 <b>Локация:</b> Circuit d'Albaida, Альбайда (Валенсия)"
-    },
-    {
-      "id": "407115476b",
-      "title": "Entrenamientos tutelados Circuito Lago Verde \\'La Lloma\\' Alcora de 16:00 a 20:00 -MARTES-",
-      "date": "2026-07-28",
-      "end_date": null,
-      "city": "Circuito Lago Verde, Л'Алькора",
-      "region": "Кастельон",
-      "zone": "Другие регионы",
-      "venue": "",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Entrenamientos tutelados Circuito Lago Verde \\'La Lloma\\' Alcora de 16:00 a 20:00 -MARTES-</b>\n\n\n\n📍 <b>Локация:</b> Circuito Lago Verde, Л'Алькора (Кастельон)"
-    },
-    {
-      "id": "1ab2803635",
-      "title": "Entrenamientos tutelados Kartódromo Lucas Guerrero - Velocidad - 13:00 a 17:00",
-      "date": "2026-07-28",
-      "end_date": null,
-      "city": "Kartódromo Lucas Guerrero, Чива",
-      "region": "Валенсия",
-      "zone": "Другие регионы",
-      "venue": "",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Entrenamientos tutelados Kartódromo Lucas Guerrero - Velocidad - 13:00 a 17:00</b>\n\n\n\n📍 <b>Локация:</b> Kartódromo Lucas Guerrero, Чива (Валенсия)"
-    },
     {
       "id": "15c44f4bef",
       "title": "Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES",
