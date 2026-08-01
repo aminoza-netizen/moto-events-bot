@@ -1,48 +1,6 @@
 {
-  "generated_at": "2026-07-30T07:02:04.950Z",
+  "generated_at": "2026-08-01T13:11:07.447Z",
   "events": [
-    {
-      "id": "15c44f4bef",
-      "title": "Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES",
-      "date": "2026-07-29",
-      "end_date": null,
-      "city": "MIR Racing Villena Circuit, Вильена",
-      "region": "Аликанте",
-      "zone": "Другие регионы",
-      "venue": "",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "29 июля 2026 года на площадке MIR Racing Villena Circuit, Вильена (Аликанте) пройдет «Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES». Это контролируемая тренировочная сесс",
-      "full_ru": "🏍 <b>Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES</b>\n\n29 июля 2026 года на площадке MIR Racing Villena Circuit, Вильена (Аликанте) пройдет «Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES». Это контролируемая тренировочная сессия по мотоспорту; событие проводится на специализированной трассе и не является фестивалем. Заявленное время сессии --- с 9:00 до 18:00.\n\n📍 <b>Локация:</b> MIR Racing Villena Circuit, Вильена (Аликанте)"
-    },
-    {
-      "id": "2dcf623954",
-      "title": "Entrenamientos tutelados Circuito la Corona de Almenara - MX 17:00 a 21:30 MIERCOLES",
-      "date": "2026-07-29",
-      "end_date": null,
-      "city": "Circuito La Corona, Альменара",
-      "region": "Кастельон",
-      "zone": "Другие регионы",
-      "venue": "",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Entrenamientos tutelados Circuito la Corona de Almenara - MX 17:00 a 21:30 MIERCOLES</b>\n\n\n\n📍 <b>Локация:</b> Circuito La Corona, Альменара (Кастельон)"
-    },
-    {
-      "id": "b9c11a0aa6",
-      "title": "Entrenamientos tutelados Parc Off Road Requena - MX",
-      "date": "2026-07-29",
-      "end_date": null,
-      "city": "Parc Off Road Requena, Валенсия",
-      "region": "",
-      "zone": "Другие регионы",
-      "venue": "Parc Off Road Requena, Валенсия",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Entrenamientos tutelados Parc Off Road Requena - MX</b>\n\n\n\n📍 <b>Локация:</b> Parc Off Road Requena, Валенсия"
-    },
     {
       "id": "0dcccb8eac",
       "title": "V Motofesta Ponteceso",
@@ -4525,6 +4483,18 @@
     }
   ],
   "news": [
+    {
+      "title": "DGT усиливает контроль мотоциклистов летом 2026",
+      "url": "https://www.motor16.com/las-ultimas-noticias/campana-velocidad-dgt-julio-2026",
+      "post_ru": "🚔 <b>DGT усиливает контроль мотоциклистов этим летом</b>\n\nОперация «Лето 2026» набирает обороты: с 17 по 23 августа — специальная кампания по скорости на автомагистралях, штрафы до 600 € и минус 6 баллов.\n\nПо выходным дорожная полиция отдельно следит именно за мотоциклистами: скорость, обгоны, использование шлема. На второстепенных дорогах — где чаще всего катают байкеры — за последний год стало на треть больше радаров.\n\nЕсли едете по трассе этим летом — сбавьте газ по выходным и в указанные даты, проверки будут особенно плотными.\n\nИсточник: Motor16",
+      "created_at": "2026-08-01T13:11:07.264Z"
+    },
+    {
+      "title": "Открытая обувь на мотоцикле — штраф с 1 октября 2026",
+      "url": "https://www.motor16.com/las-ultimas-noticias/nueva-multas-dgt-octubre-2026/",
+      "post_ru": "🥾 <b>Открытая обувь на мото — теперь тоже штраф</b>\n\nС 1 октября 2026 года в Испании вступает в силу новое правило: ездить на мотоцикле в сандалиях, шлёпанцах или любой открытой обуви станет нарушением. Штраф — 200 €, но при оплате в течение 20 дней — скидка вдвое, до 100 €. Баллы с прав при этом НЕ списываются.\n\nВажно: льготного периода не будет — штрафовать начнут сразу с 1 октября, без предупреждений.\n\nА вот обязательные перчатки (о которых мы писали раньше) пока в подвешенном состоянии: точные требования к их сертификации должен утвердить отдельный министерский приказ — до его публикации штрафовать за перчатки не могут.\n\nИсточник: Motor16",
+      "created_at": "2026-08-01T13:11:07.254Z"
+    },
     {
       "title": "Открытые шлемы (джеты) не будут запрещены DGT — при соблюдении одного условия",
       "url": "https://www.formulamoto.es/",
