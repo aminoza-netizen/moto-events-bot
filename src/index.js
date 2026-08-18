@@ -9,7 +9,7 @@ const { startAdminBridge } = require('./admin-bridge');
 
 // Лимиты и расписание (переопределяются в .env)
 const MAX_ANNOUNCES = () => parseInt(process.env.MAX_ANNOUNCES || '4', 10);      // анонсов в день
-const MAX_NEWS = () => parseInt(process.env.MAX_NEWS || '2', 10);                // новостей в день
+const MAX_NEWS = () => parseInt(process.env.MAX_NEWS || '99', 10);               // новостей в день (в канал — без реального лимита, людям это важно)
 const MAX_FORWARDS = () => parseInt(process.env.MAX_FORWARDS || '1', 10);        // пересылка в группу в день (по умолч. 1 — самое важное)
 const ANNOUNCE_WINDOW = () => parseInt(process.env.ANNOUNCE_WINDOW || '35', 10); // анонс примерно за месяц
 const WORK_START = () => parseInt(process.env.WORK_START || '9', 10);
@@ -83,11 +83,15 @@ function announceHtml(ev) {
   return stripTrailingLink(ev.announce_ru) + `\n\n<a href="${appEventLink(ev)}">➡️ Подробнее в афише</a>`;
 }
 
-// ─── Пересылка в группу: максимум MAX_FORWARDS самых важных в день ───
+// ─── Пересылка в группу: максимум MAX_FORWARDS в день, приоритет — новостям ───
+// Новости людям важнее событий, поэтому пока в очереди есть непубликованная
+// новость, дневной слот пересылки придерживаем под неё — событие его не заберёт.
 function shouldForward(db, { isNews, ev }) {
   const meta = store.todayMeta(db);
   if (meta.forwards >= MAX_FORWARDS()) return false;
-  if (isNews) return true; // законы/штрафы — всегда важно
+  if (isNews) return true; // новости — всегда в приоритете
+  const pendingNews = db.news.some((n) => !n.posted && n.post_ru);
+  if (pendingNews) return false; // придерживаем слот для новости
   if (ev) {
     if (PRIORITY_REGION.test(`${ev.region || ''} ${ev.city || ''}`)) return true; // наша аудитория
     const d = store.daysUntil(ev.date);
