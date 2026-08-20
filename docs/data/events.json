@@ -1,34 +1,6 @@
 {
-  "generated_at": "2026-08-19T07:01:01.591Z",
+  "generated_at": "2026-08-20T07:04:57.376Z",
   "events": [
-    {
-      "id": "d5fa87974d",
-      "title": "Concentración Motera Medina del Campo",
-      "date": "2026-08-15",
-      "end_date": "2026-08-18",
-      "city": "Medina del Campo",
-      "region": "Valladolid, Castilla y León",
-      "zone": "Кастилия-и-Леон",
-      "venue": "",
-      "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
-      "image_url": null,
-      "short_ru": "Мото-слёт в Медина-дель-Кампо",
-      "full_ru": "🏍️ <b>Concentración Motera Medina del Campo</b>\n\nС 15 по 18 августа 2026 в Медина-дель-Кампо (Вальядолид) пройдёт мото-слёт с насыщенной программой и общением мотоциклистов Кастилии.\n\n📍 <b>Локация:</b> Medina del Campo, Valladolid"
-    },
-    {
-      "id": "d116285a9e",
-      "title": "Entrenamientos tutelados Circuit d\\'Albaida - Velocidad - 10:00 a 14:00",
-      "date": "2026-08-18",
-      "end_date": null,
-      "city": "Circuit d'Albaida, Альбайда",
-      "region": "Валенсия",
-      "zone": "Другие регионы",
-      "venue": "",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Entrenamientos tutelados Circuit d\\'Albaida - Velocidad - 10:00 a 14:00</b>\n\n\n\n📍 <b>Локация:</b> Circuit d'Albaida, Альбайда (Валенсия)"
-    },
     {
       "id": "96bb878217",
       "title": "Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES",
@@ -198,6 +170,20 @@
       "full_ru": "🏍 <b>Tandas libres --- JMR RACING EVENTS</b>\n\n22.08.2026--23.08.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- JMR RACING EVENTS\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
     },
     {
+      "id": "ccd7e6fd96",
+      "title": "XIV Concentración Motera Los Cucharreros 2026",
+      "date": "2026-08-22",
+      "end_date": null,
+      "city": "Pedro Bernardo",
+      "region": "Ávila",
+      "zone": "Кастилия-и-Леон",
+      "venue": "",
+      "url": "https://piezasdemotos.com/eventos-moteros/",
+      "image_url": null,
+      "short_ru": "Мото-концентрация «Los Cucharreros» в Педро-Бернардо (Авила)",
+      "full_ru": "🏁 <b>Мотослёт Los Cucharreros в Авиле</b>\n\n22 августа в городке Педро-Бернардо (провинция Авила) пройдёт XIV традиционная мотоконцентрация «Los Cucharreros».\n\nСбор байкеров, музыка, угощение и атмосфера дружеского мотосообщества — классика испанских летних мото-встреч.\n\nЕсли планируете поездку по Кастилии — можно совместить с этим слётом.\n\n📍 <b>Локация:</b> Педро-Бернардо, Авила"
+    },
+    {
       "id": "ebb2b9449c",
       "title": "V Trobada Motards Alfarrás i Comarca",
       "date": "2026-08-23",
@@ -210,6 +196,20 @@
       "image_url": null,
       "short_ru": "Мотовстреча в Альфаррасе и округе",
       "full_ru": "🏍️ <b>V Trobada Motards Alfarrás i Comarca</b>\n\n23 августа в Альфаррасе (провинция Льейда) пройдёт пятая мотовстреча района — байкеры соберутся на совместный отдых и общение.\n\n📍 <b>Локация:</b> Alfarràs, Lleida"
+    },
+    {
+      "id": "0bbeac7008",
+      "title": "Matinal Motera Fiestas de Agosto de Benicarló",
+      "date": "2026-08-23",
+      "end_date": null,
+      "city": "Benicarló",
+      "region": "Castellón",
+      "zone": "Комунидад Валенсиана",
+      "venue": "",
+      "url": "https://piezasdemotos.com/eventos-moteros/",
+      "image_url": null,
+      "short_ru": "Мото-утренник в рамках летних фиест Беникарло (Кастельон)",
+      "full_ru": "🔥 <b>Мото-утренник на фиестах Беникарло</b>\n\n23 августа в Беникарло (Кастельон) в рамках летних городских фиест пройдёт традиционный «Matinal Motera» — утренняя встреча байкеров.\n\nОтличный повод заглянуть в Кастельон вместе с местным мотосообществом: сбор, завтрак, общение и мотоциклы на набережной.\n\n📍 <b>Локация:</b> Беникарло, Кастельон"
     },
     {
       "id": "b2eb6841a8",
