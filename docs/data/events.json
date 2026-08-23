@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-08-20T07:04:57.376Z",
+  "generated_at": "2026-08-23T01:52:46.127Z",
   "events": [
-    {
-      "id": "96bb878217",
-      "title": "Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES",
-      "date": "2026-08-19",
-      "end_date": null,
-      "city": "MIR Racing Villena Circuit, Вильена",
-      "region": "Аликанте",
-      "zone": "Другие регионы",
-      "venue": "",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "19 августа 2026 года на площадке MIR Racing Villena Circuit, Вильена (Аликанте) пройдет «Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES». Это контролируемая тренировочная с",
-      "full_ru": "🏍 <b>Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES</b>\n\n19 августа 2026 года на площадке MIR Racing Villena Circuit, Вильена (Аликанте) пройдет «Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES». Это контролируемая тренировочная сессия по мотоспорту; событие проводится на специализированной трассе и не является фестивалем. Заявленное время сессии --- с 9:00 до 18:00.\n\n📍 <b>Локация:</b> MIR Racing Villena Circuit, Вильена (Аликанте)"
-    },
     {
       "id": "64f202b419",
       "title": "Rally HDC España, Galerna 2026",
@@ -1218,6 +1204,20 @@
       "image_url": null,
       "short_ru": "12.09.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres y curso --- Factoria RR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная ",
       "full_ru": "🏍 <b>Tandas libres y curso --- Factoria RR</b>\n\n12.09.2026 в локации Circuito de Alcarràs, Льейда запланировано \"Tandas libres y curso --- Factoria RR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Alcarràs, Льейда"
+    },
+    {
+      "id": "80ba477783",
+      "title": "European Handy Bridgestone Cup — этап в Честе",
+      "date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "city": "Cheste",
+      "region": "Valencia",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Circuit Ricardo Tormo, Cheste",
+      "url": "https://www.fim-europe.com/european-handy-bridgestone-cup-2026-calendar-announced/",
+      "image_url": null,
+      "short_ru": "Европейский кубок адаптированного мотоспорта — гонщики с ограниченными возможностями, финальный этап сезона",
+      "full_ru": "♿🏁 <b>European Handy Cup: финал сезона в Честе</b>\n\n12–13 сентября на Circuit Ricardo Tormo пройдёт заключительный этап European Handy Bridgestone Cup — европейского кубка по адаптированному мотоспорту для пилотов с ограниченными физическими возможностями. Одновременно здесь же разыгрывается этап чемпионата Испании в этой дисциплине.\n\nПосле Муджелло и Кремоны сезон завершается именно в Валенсии. Зрелище, которое стоит увидеть вживую — и повод пересмотреть представления о том, что такое \"невозможно\" на мотоцикле.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Cheste (Валенсия)"
     },
     {
       "id": "d034ce365e",
