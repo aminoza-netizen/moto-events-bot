@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T01:52:46.127Z",
+  "generated_at": "2026-08-24T07:04:33.361Z",
   "events": [
     {
       "id": "64f202b419",
@@ -72,20 +72,6 @@
       "full_ru": "🏍️ <b>Rábade Biker's II</b>\n\n22–23 августа 2026 в Рабаде (Луго) пройдёт второй байкерский слёт — концерты, лагерь и совместные маршруты по Галисии.\n\n📍 <b>Локация:</b> Rábade, Lugo"
     },
     {
-      "id": "489fc92e02",
-      "title": "Sun To Sun Asturias - Gijón 2026",
-      "date": "2026-08-22",
-      "end_date": null,
-      "city": "Gijón",
-      "region": "Asturias",
-      "zone": "Астурия",
-      "venue": "",
-      "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
-      "image_url": null,
-      "short_ru": "Мотомарафон «от рассвета до заката» в Хихоне",
-      "full_ru": "🏍️☀️ <b>Sun To Sun Asturias — Gijón</b>\n\n22 августа 2026 в Хихоне (Астурия) пройдёт мотомарафон «Sun to Sun» — суточный заезд для проверки выносливости и духа товарищества.\n\n📍 <b>Локация:</b> Gijón, Asturias"
-    },
-    {
       "id": "24c45c902f",
       "title": "XIX Motoabuelada 2026",
       "date": "2026-08-22",
@@ -114,34 +100,6 @@
       "full_ru": "🏍 <b>CEF InterOpen de Velocidad - Navarra</b>\n\n\n\n📍 <b>Локация:</b> Navarra (Наварра)"
     },
     {
-      "id": "c861871a2b",
-      "title": "Rodada Motor Extremo --- Almeria",
-      "date": "2026-08-22",
-      "end_date": null,
-      "city": "Circuito de Almería, Альмерия",
-      "region": "",
-      "zone": "Андалусия",
-      "venue": "Circuito de Almería, Альмерия",
-      "url": "https://motorextremo.es/producto/rodada-circuito-de-almeria-sabado-22-agosto-2026/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Rodada Motor Extremo --- Almeria</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Almería, Альмерия"
-    },
-    {
-      "id": "0faabdd87a",
-      "title": "Rodada Motor Extremo --- Montmelo",
-      "date": "2026-08-22",
-      "end_date": null,
-      "city": "Circuit de Barcelona-Catalunya, Барселона",
-      "region": "",
-      "zone": "Каталония",
-      "venue": "Circuit de Barcelona-Catalunya, Барселона",
-      "url": "https://motorextremo.es/producto/rodada-circuito-de-montmelo-sabado-22-agosto-2026/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Rodada Motor Extremo --- Montmelo</b>\n\n\n\n📍 <b>Локация:</b> Circuit de Barcelona-Catalunya, Барселона"
-    },
-    {
       "id": "0c0e53a3b4",
       "title": "Tandas libres --- JMR RACING EVENTS",
       "date": "2026-08-22",
@@ -154,20 +112,6 @@
       "image_url": null,
       "short_ru": "22.08.2026--23.08.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- JMR RACING EVENTS\". Событие связано с активным участием на мотоциклах и включено в документ то",
       "full_ru": "🏍 <b>Tandas libres --- JMR RACING EVENTS</b>\n\n22.08.2026--23.08.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- JMR RACING EVENTS\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
-    },
-    {
-      "id": "ccd7e6fd96",
-      "title": "XIV Concentración Motera Los Cucharreros 2026",
-      "date": "2026-08-22",
-      "end_date": null,
-      "city": "Pedro Bernardo",
-      "region": "Ávila",
-      "zone": "Кастилия-и-Леон",
-      "venue": "",
-      "url": "https://piezasdemotos.com/eventos-moteros/",
-      "image_url": null,
-      "short_ru": "Мото-концентрация «Los Cucharreros» в Педро-Бернардо (Авила)",
-      "full_ru": "🏁 <b>Мотослёт Los Cucharreros в Авиле</b>\n\n22 августа в городке Педро-Бернардо (провинция Авила) пройдёт XIV традиционная мотоконцентрация «Los Cucharreros».\n\nСбор байкеров, музыка, угощение и атмосфера дружеского мотосообщества — классика испанских летних мото-встреч.\n\nЕсли планируете поездку по Кастилии — можно совместить с этим слётом.\n\n📍 <b>Локация:</b> Педро-Бернардо, Авила"
     },
     {
       "id": "ebb2b9449c",
