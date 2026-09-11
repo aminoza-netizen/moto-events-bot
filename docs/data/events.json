@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:04:07.876Z",
+  "generated_at": "2026-09-11T07:01:31.238Z",
   "events": [
     {
       "id": "2d07835526",
@@ -14,20 +14,6 @@
       "image_url": null,
       "short_ru": "05.09.2026--13.09.2026 в локации Север Испании запланировано \"Esencia del Norte de España\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для T",
       "full_ru": "🏍 <b>Esencia del Norte de España</b>\n\n05.09.2026--13.09.2026 в локации Север Испании запланировано \"Esencia del Norte de España\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Север Испании"
-    },
-    {
-      "id": "14bfc40be5",
-      "title": "Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES",
-      "date": "2026-09-09",
-      "end_date": null,
-      "city": "MIR Racing Villena Circuit, Вильена",
-      "region": "Аликанте",
-      "zone": "Другие регионы",
-      "venue": "",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "9 сентября 2026 года на площадке MIR Racing Villena Circuit, Вильена (Аликанте) пройдет «Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES». Это контролируемая тренировочная с",
-      "full_ru": "🏍 <b>Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES</b>\n\n9 сентября 2026 года на площадке MIR Racing Villena Circuit, Вильена (Аликанте) пройдет «Entrenamientos tutelados MIR Racing Villena Circuit 9:00 a 18:00 MIERCOLES». Это контролируемая тренировочная сессия по мотоспорту; событие проводится на специализированной трассе и не является фестивалем. Заявленное время сессии --- с 9:00 до 18:00.\n\n📍 <b>Локация:</b> MIR Racing Villena Circuit, Вильена (Аликанте)"
     },
     {
       "id": "dfaeb37d25",
@@ -70,6 +56,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>ESBK - Campeonato de España de Superbike - CIRCUIT RICARDO TORMO</b>\n\n\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
+    },
+    {
+      "id": "54f4228ad3",
+      "title": "XLI Concentración Big Twin España 2026",
+      "date": "2026-09-10",
+      "end_date": "2026-09-13",
+      "city": "Castellón de la Plana",
+      "region": "Castellón, Comunidad Valenciana",
+      "zone": "Комунидад Валенсиана",
+      "venue": "El Pinar del Grau, Castellón de la Plana",
+      "url": "https://www.eventomotor.com/disciplinas/concentraciones",
+      "image_url": null,
+      "short_ru": "Крупный слёт кастомных мотоциклов и Harley-Davidson в Кастельоне, идёт до 13 сентября",
+      "full_ru": "🏁 <b>Big Twin España 2026 — праздник кастома и Harley в Кастельоне</b>\n\nОдин из крупнейших слётов байкеров-кастомайзеров и владельцев Harley-Davidson в Испании проходит в Кастельон-де-ла-Плана с 10 по 13 сентября. Событие уже идёт, но ещё можно застать финальные дни: кастом-байки, live-музыка, ярмарка и большая байкерская тусовка у моря.\n\nЕсли вы рядом — стоит заглянуть, атмосфера гарантирована.\n\n📍 <b>Локация:</b> Эль-Пинар-дель-Грау, Кастельон-де-ла-Плана"
     },
     {
       "id": "17c6e7f1b8",
