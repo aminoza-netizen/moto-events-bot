@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:12:17.713Z",
+  "generated_at": "2026-09-18T07:01:15.337Z",
   "events": [
     {
       "id": "02a84b5c51",
@@ -154,6 +154,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>XI Concentración Los Rebotaos</b>\n\n\n\n📍 <b>Локация:</b> Bizkaia --- (La arboleda-Zugaztieta)"
+    },
+    {
+      "id": "6296cfebb3",
+      "title": "III Concentración Motera \"Os Reventapistóns\"",
+      "date": "2026-09-18",
+      "end_date": "2026-09-20",
+      "city": "Ribeira",
+      "region": "A Coruña, Galicia",
+      "zone": "Галисия",
+      "venue": "",
+      "url": "https://piezasdemotos.com/eventos-moteros/",
+      "image_url": null,
+      "short_ru": "Мото-слёт в Рибейре (Галисия), три дня",
+      "full_ru": "🏁 <b>Слёт мотоциклистов в Рибейре</b>\n\nС 18 по 20 сентября в Рибейре (провинция Ла-Корунья) пройдёт III Concentración Motera «Os Reventapistóns» — традиционная встреча байкеров с музыкой и общением на несколько дней.\n\nЕсли планируете поездку на север Испании этой осенью — можно совместить с этим слётом.\n\n📍 <b>Локация:</b> Ribeira, A Coruña"
     },
     {
       "id": "2dd593c170",
@@ -350,6 +364,20 @@
       "image_url": null,
       "short_ru": "19.09.2026--03.10.2026 в локации Испания и Португалия запланировано \"Portugal & España Motorcycle Tour\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная ",
       "full_ru": "🏍 <b>Portugal & España Motorcycle Tour</b>\n\n19.09.2026--03.10.2026 в локации Испания и Португалия запланировано \"Portugal & España Motorcycle Tour\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Испания и Португалия"
+    },
+    {
+      "id": "428bc484af",
+      "title": "X Concentración Motera Alovera 2026",
+      "date": "2026-09-19",
+      "end_date": null,
+      "city": "Alovera",
+      "region": "Guadalajara, Castilla-La Mancha",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "https://piezasdemotos.com/eventos-moteros/",
+      "image_url": null,
+      "short_ru": "Мото-слёт в Аловере (Гвадалахара), однодневный",
+      "full_ru": "🏍️ <b>Мото-встреча в Аловере</b>\n\n19 сентября в Аловере (провинция Гвадалахара) пройдёт юбилейная, десятая по счёту, Concentración Motera — классика осеннего мото-календаря центральной Испании.\n\nОдин день, живая атмосфера, куча мотоциклов — если будете проезжать мимо, стоит заглянуть.\n\n📍 <b>Локация:</b> Alovera, Guadalajara"
     },
     {
       "id": "2d1d150437",
@@ -1890,6 +1918,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>VI Open Internacional TT-E Vintage - Sant Mateu</b>\n\n\n\n📍 <b>Локация:</b> Sant Mateu (Кастельон)"
+    },
+    {
+      "id": "cb704959fc",
+      "title": "Moto Almuerzo de Otoño",
+      "date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "city": "Guadalajara",
+      "region": "Guadalajara, Castilla-La Mancha",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "https://www.eventomotor.com/disciplinas/concentraciones",
+      "image_url": null,
+      "short_ru": "Осенний мото-обед (motoalmuerzo) в Гвадалахаре",
+      "full_ru": "🍂 <b>Осенний мото-обед в Гвадалахаре</b>\n\n7–8 ноября в Гвадалахаре пройдёт традиционный Moto Almuerzo de Otoño — общий обед байкеров, куда съезжаются мотоциклисты со всей округи.\n\nФормат простой: приехали на мотоциклах, пообедали вместе, пообщались — отличный повод для небольшой осенней поездки.\n\n📍 <b>Локация:</b> Guadalajara"
     },
     {
       "id": "c415ed774b",
