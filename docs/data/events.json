@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T13:02:37.800Z",
+  "generated_at": "2026-10-04T07:01:28.923Z",
   "events": [
     {
       "id": "93e7120ab0",
@@ -100,20 +100,6 @@
       "full_ru": "🏍 <b>XIII Moto encuentro solidario Siero</b>\n\n\n\n📍 <b>Локация:</b> Asturias --- (Siero)"
     },
     {
-      "id": "f0306fa1a1",
-      "title": "Tandas libres --- Riderspirit",
-      "date": "2026-10-02",
-      "end_date": null,
-      "city": "Circuito de Cartagena, Мурсия",
-      "region": "",
-      "zone": "Мурсия",
-      "venue": "",
-      "url": "",
-      "image_url": null,
-      "short_ru": "02.10.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость",
-      "full_ru": "🏍 <b>Tandas libres --- Riderspirit</b>\n\n02.10.2026 в локации Circuito de Cartagena, Мурсия запланировано \"Tandas libres --- Riderspirit\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Cartagena, Мурсия"
-    },
-    {
       "id": "03493089b7",
       "title": "Esencia del Sur de España --- Andalucía",
       "date": "2026-10-02",
@@ -126,20 +112,6 @@
       "image_url": null,
       "short_ru": "02.10.2026--10.10.2026 в локации Андалусия запланировано \"Esencia del Sur de España --- Andalucía\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новос",
       "full_ru": "🏍 <b>Esencia del Sur de España --- Andalucía</b>\n\n02.10.2026--10.10.2026 в локации Андалусия запланировано \"Esencia del Sur de España --- Andalucía\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Андалусия"
-    },
-    {
-      "id": "ee3b67a9d4",
-      "title": "Rider Soul Guadalajara",
-      "date": "2026-10-02",
-      "end_date": null,
-      "city": "Guadalajara",
-      "region": "Castilla-La Mancha",
-      "zone": "Кастилия-Ла-Манча",
-      "venue": "",
-      "url": "https://www.concentracionesdemotos.com/concentraciones/",
-      "image_url": null,
-      "short_ru": "Мото-слёт Rider Soul в Гвадалахаре",
-      "full_ru": "🔥 <b>Rider Soul Guadalajara</b>\n\n2 октября в Гвадалахаре пройдёт мотослёт с живой музыкой и байкерской тусовкой со всей Кастилии.\n\nПодойдёт тем, кто любит атмосферу больших встреч на два колеса.\n\n📍 <b>Локация:</b> Guadalajara"
     },
     {
       "id": "43f91c4528",
@@ -1288,6 +1260,20 @@
       "image_url": null,
       "short_ru": "Этап чемпионата Кастилии-Ла-Манчи по триалу.",
       "full_ru": "🏍 <b>Триал — Argés</b>\n\nЭтап чемпионата Кастилии-Ла-Манчи по триалу — Arges. Вход для зрителей обычно свободный — хороший повод посмотреть на гонку вживую.\n\n📍 <b>Локация:</b> Arges, Argés (Toledo)"
+    },
+    {
+      "id": "6b42e73c63",
+      "title": "7.ª Concentración de Vehículos Clásicos de Pilar de la Horadada",
+      "date": "2026-10-18",
+      "end_date": null,
+      "city": "Pilar de la Horadada",
+      "region": "Alicante",
+      "zone": "Комунидад Валенсиана",
+      "venue": "",
+      "url": "https://www.eventomotor.com/disciplinas/concentraciones",
+      "image_url": null,
+      "short_ru": "Слёт классических авто и мотоциклов в Пилар-де-ла-Орадада, Аликанте",
+      "full_ru": "🏍 <b>Ретро-слёт в Пилар-де-ла-Орадада</b>\n\n18 октября в городке Пилар-де-ла-Орадада (провинция Аликанте) пройдёт уже 7-й слёт классической техники — съедутся как старые авто, так и мотоциклы.\n\nХороший повод прокатиться на выходных, посмотреть на раритеты и пообщаться с коллекционерами из округи.\n\n📍 <b>Локация:</b> Пилар-де-ла-Орадада, Аликанте"
     },
     {
       "id": "21902d317e",
