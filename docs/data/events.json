@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:34:45.037Z",
+  "generated_at": "2026-10-06T15:42:44.910Z",
   "events": [
     {
       "id": "03493089b7",
@@ -660,6 +660,20 @@
       "full_ru": "🏍 <b>Два дня классического триала «Santigosa»</b>\n\nДвухдневный триал на классических мотоциклах в предгорьях Пиренеев. Старт во дворе старой школы Abadessa Emma, офис гонки — библиотека Josep Picola. Организатор — Moto Club Abadesses.\n\n📍 <b>Локация:</b> Sant Joan de les Abadesses (Жирона)"
     },
     {
+      "id": "942130a67e",
+      "title": "II Ruta Casas de Ves — Motos Off Road",
+      "date": "2026-10-17",
+      "end_date": null,
+      "city": "Casas de Ves",
+      "region": "Albacete",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "https://www.atalayaexperiences.com/",
+      "image_url": null,
+      "short_ru": "Круговой внедорожный маршрут ~235 км по треку/роудбуку, час-полтора от Валенсии.",
+      "full_ru": "🏍 <b>Офроуд-маршрут Casas de Ves</b>\n\nВторой круговой маршрут для эндуро и трейловых мотоциклов: около 235 км за один день, навигация по цифровому треку или роудбуку. Casas de Ves — на границе с Валенсийской провинцией, в долине Хукара, полтора часа от Валенсии.\n\nОрганизатор — Atalaya Experiences.\n\n📍 <b>Локация:</b> Casas de Ves (Альбасете)"
+    },
+    {
       "id": "481c561d5f",
       "title": "Copa de España de Motocross Clásico - ALHAMA DE MURCIA - Murcia",
       "date": "2026-10-18",
@@ -826,6 +840,20 @@
       "image_url": null,
       "short_ru": "23.10.2026--25.10.2026 в локации Circuito de Almería, Табернас (Альмерия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в докуме",
       "full_ru": "🏍 <b>Tandas libres --- Bike Promotion Europe</b>\n\n23.10.2026--25.10.2026 в локации Circuito de Almería, Табернас (Альмерия) запланировано \"Tandas libres --- Bike Promotion Europe\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Almería, Табернас (Альмерия)"
+    },
+    {
+      "id": "8559535c41",
+      "title": "Rider Soul Valencia 2026",
+      "date": "2026-10-23",
+      "end_date": "2026-10-24",
+      "city": "Albaida",
+      "region": "Valencia",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Circuito de Albaida",
+      "url": "https://ridersoul.es/valencia/",
+      "image_url": null,
+      "short_ru": "Мототуристический пробег «море и горы» 300 или 500 км со стартом от трассы в Альбайде. 69 €, мест ограниченно.",
+      "full_ru": "🏍 <b>Rider Soul Valencia — «море и горы»</b>\n\nНекоммерческий мототуристический пробег по второстепенным дорогам Валенсии: от моря к горам и обратно. Дистанцию выбираешь прямо по ходу — <b>300 или 500 км</b>. Старт от трассы в Альбайде.\n\n🎟 Участие — 69 € (ранние билеты уже раскуплены). В цену входят приветственный набор (сумка, бафф, футболка), номер и «паспорт» участника, завтрак и пункты питания на маршруте, сопровождение и розыгрыш призов.\n👥 Пассажир — +40 €. Мест ограниченно, есть бесплатная парковка.\n\n📍 <b>Локация:</b> Circuito de Albaida, Albaida (Валенсия)"
     },
     {
       "id": "059fe03640",
@@ -1332,6 +1360,34 @@
       "full_ru": "🏍 <b>Xtreme Challenge едет в Кордову</b>\n\n6–7 ноября мототуристический челлендж Xtreme Challenge проводит очередной этап в Кордове. Первый день — выдача стартовых пакетов, презентации байков от брендов-партнёров и тест-драйвы. Второй — секретный маршрут на выбор: несколько дистанций по километражу, без гонки на время.\n\nФормат некоммерческий и несоревновательный — просто красивые дороги и атмосфера мотосообщества.\n\n📍 <b>Локация:</b> Córdoba"
     },
     {
+      "id": "7d6925fd92",
+      "title": "MonegrosBook 2026",
+      "date": "2026-11-06",
+      "end_date": "2026-11-07",
+      "city": "Fraga",
+      "region": "Huesca",
+      "zone": "Арагон",
+      "venue": "Pabellón Multiusos del Sotet",
+      "url": "https://www.monegrosbook.com/",
+      "image_url": null,
+      "short_ru": "Навигационный мотомарафон по роудбуку: офроуд ~350 км по пустыне Монегрос или асфальт ~550 км до Пиренеев.",
+      "full_ru": "🧭 <b>MonegrosBook — роудбук через пустыню</b>\n\nОдин из самых известных навигационных мотомарафонов Испании, спортивные директора — Хорди Виладомс (7 «Дакаров») и Хави Галиндо из KTM.\n\n• <b>Offroad</b> — ~350 км, 90% по пустыне Монегрос: песок, камни, перепады. 9–11 часов, 100 €\n• <b>Onroad</b> — ~550 км по асфальту от Монегроса до Пиренеев. 9–12 часов, 95 €\n• сопровождающий — 85 €\n\nНавигация по бумажному роудбуку или в приложении TerraPirata. Регистрация до 15 октября, мест на офроуд почти не осталось.\n\n📍 <b>Локация:</b> Pabellón Multiusos del Sotet, Fraga (Уэска)"
+    },
+    {
+      "id": "11be1ab8bc",
+      "title": "XI Polvorón Vespero — Estepa",
+      "date": "2026-11-06",
+      "end_date": "2026-11-08",
+      "city": "Estepa",
+      "region": "Sevilla",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "https://fsvc.es/eventos/42",
+      "image_url": null,
+      "short_ru": "Слёт Vespa, Vespino и Lambretta в Эстепе — столице андалусских polvorones.",
+      "full_ru": "🛵 <b>Polvorón Vespero — слёт веспистов в Эстепе</b>\n\nОдиннадцатый слёт владельцев Vespa, Vespino и Lambretta от Vespa Club Estepa. Эстепа — родина знаменитых рождественских сладостей polvorones, отсюда и название.\n\n📍 <b>Локация:</b> Estepa (Севилья)"
+    },
+    {
       "id": "48ac0ad6c3",
       "title": "Copa de España de Todo Terreno Clásico - SANT MATEU - Castellón - Dos Días -",
       "date": "2026-11-07",
@@ -1456,6 +1512,20 @@
       "image_url": null,
       "short_ru": "7-я годовщина мотоклуба HMR в Роте (Кадис)",
       "full_ru": "🎉 <b>VII Aniversario HMR</b>\n\n7 ноября в городе Рота (Кадис) отметят седьмую годовщину мотоклуба HMR — концентрация байкеров, общение и празднование на побережье Андалусии.\n\nЕсли планируете маршрут по югу Испании в начале ноября — можно вписать остановку.\n\n📍 <b>Локация:</b> Rota, Кадис"
+    },
+    {
+      "id": "88797ec2d6",
+      "title": "La Inesperada — Pozuelo de Calatrava",
+      "date": "2026-11-07",
+      "end_date": null,
+      "city": "Pozuelo de Calatrava",
+      "region": "Ciudad Real",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "https://www.panaroadbook.com/",
+      "image_url": null,
+      "short_ru": "Маршрут по роудбуку для эндуро, трейлов и макси-трейлов.",
+      "full_ru": "🏍 <b>«La Inesperada» — маршрут по роудбуку</b>\n\nОднодневный маршрут для эндуро, трейловых и макси-трейловых мотоциклов со стартом в Посуэло-де-Калатрава. Организатор — Pana Roadbook.\n\n📍 <b>Локация:</b> Pozuelo de Calatrava (Сьюдад-Реаль)"
     },
     {
       "id": "c415ed774b",
@@ -1612,6 +1682,20 @@
       "full_ru": "🏍 <b>Гонка на выносливость по грунту в Канъямарсе</b>\n\nЭтап Кубка Каталонии по гонкам на выносливость по грунту, старт у La Quintana de Can Gel. Организатор — Moto Club Canyamars.\n\n📍 <b>Локация:</b> Canyamars, Dosrius (Барселона)"
     },
     {
+      "id": "958d4546d3",
+      "title": "IV Ruta y Convivencia Vespinos de Sevilla",
+      "date": "2026-11-08",
+      "end_date": null,
+      "city": "Mairena del Aljarafe",
+      "region": "Sevilla",
+      "zone": "Андалусия",
+      "venue": "C.C. Altos del Simón Verde",
+      "url": "https://www.fsvc.es/eventos/36",
+      "image_url": null,
+      "short_ru": "Покатушка и встреча владельцев мопедов Vespino.",
+      "full_ru": "🛵 <b>Встреча владельцев Vespino в Севилье</b>\n\nЧетвёртая покатушка и встреча любителей легендарных мопедов Vespino от клуба Vespinos de Sevilla. Сбор у торгового центра Altos del Simón Verde.\n\n📍 <b>Локация:</b> C.C. Altos del Simón Verde, Mairena del Aljarafe (Севилья)"
+    },
+    {
       "id": "4528bedfc0",
       "title": "Tandas libres --- Bike Promotion Europe",
       "date": "2026-11-12",
@@ -1764,6 +1848,20 @@
       "image_url": null,
       "short_ru": "Трек-день на трассе Circuito de Albacete.",
       "full_ru": "🏁 <b>Трек-день: Circuito de Albacete</b>\n\nОткрытые заезды (тандас) на трассе Circuito de Albacete: катаешься на своём мотоцикле по сессиям, группы по уровню. Нужна предварительная запись у организатора. Организатор — Privadas.\n\n📍 <b>Локация:</b> Circuito de Albacete, Albacete (Albacete)"
+    },
+    {
+      "id": "daee53710c",
+      "title": "V Offroad Villa de Fuenllana",
+      "date": "2026-11-14",
+      "end_date": null,
+      "city": "Fuenllana",
+      "region": "Ciudad Real",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "",
+      "url": "https://www.motoclubcampodemontiel.com/",
+      "image_url": null,
+      "short_ru": "Внедорожный маршрут для эндуро, трейлов и макси-трейлов.",
+      "full_ru": "🏍 <b>Офроуд в Фуэнльяне</b>\n\nПятый внедорожный маршрут для эндуро, трейлов и макси-трейлов по Кампо-де-Монтьель. Организатор — Moto Club Campo de Montiel.\n\n📍 <b>Локация:</b> Fuenllana (Сьюдад-Реаль)"
     },
     {
       "id": "efd1040c64",
