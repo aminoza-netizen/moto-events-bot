@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:01:32.149Z",
+  "generated_at": "2026-10-11T07:01:14.439Z",
   "events": [
     {
       "id": "03493089b7",
@@ -42,34 +42,6 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>III Concentración motera Impasibles</b>\n\n\n\n📍 <b>Локация:</b> Segovia --- (Abades)"
-    },
-    {
-      "id": "5a165c46d7",
-      "title": "Rodada Motor Extremo --- Almeria",
-      "date": "2026-10-09",
-      "end_date": null,
-      "city": "Circuito de Almería, Альмерия",
-      "region": "",
-      "zone": "Андалусия",
-      "venue": "Circuito de Almería, Альмерия",
-      "url": "https://motorextremo.es/producto/rodada-circuito-de-almeria-viernes-9-octubre-2026/",
-      "image_url": "https://motorextremo.es/wp-content/uploads/2025/12/fotografias-rodada-rodada-circuito-almeria-noviembre-2025-28.jpg",
-      "short_ru": "",
-      "full_ru": "🏍 <b>Rodada Motor Extremo --- Almeria</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Almería, Альмерия"
-    },
-    {
-      "id": "48eee378e6",
-      "title": "Caballos de Hierro Offroad",
-      "date": "2026-10-09",
-      "end_date": null,
-      "city": "Puebla del Príncipe",
-      "region": "Ciudad Real",
-      "zone": "Кастилия-Ла-Манча",
-      "venue": "",
-      "url": "https://www.concentracionesdemotos.com/concentraciones/",
-      "image_url": null,
-      "short_ru": "Offroad-слёт «Железные кони» в Пуэбла-дель-Принсипе",
-      "full_ru": "🛵 <b>Caballos de Hierro Offroad</b>\n\n9 октября в Пуэбла-дель-Принсипе (Сьюдад-Реаль) собираются любители эндуро и внедорожной езды: трассы, покатушки по бездорожью и общение.\n\nДля тех, кому ближе грязь и грунтовки, а не асфальт.\n\n📍 <b>Локация:</b> Puebla del Príncipe, Ciudad Real"
     },
     {
       "id": "a6e48fb99a",
@@ -1274,6 +1246,20 @@
       "image_url": null,
       "short_ru": "Кубок Каталонии: гонка на выносливость для классических мотоциклов.",
       "full_ru": "🏍 <b>Гонка на выносливость классических мото в Калафате</b>\n\nКубок Каталонии по гонкам на выносливость для классических мотоциклов. Организатор — Penya Motorista Barcelona.\n\n📍 <b>Локация:</b> Circuit Calafat, L'Ametlla de Mar (Tarragona)"
+    },
+    {
+      "id": "6bab0ce434",
+      "title": "Tandas libres --- Racing100",
+      "date": "2026-10-31",
+      "end_date": null,
+      "city": "Albacete",
+      "region": "Albacete, Castilla-La Mancha",
+      "zone": "Кастилия-Ла-Манча",
+      "venue": "Circuito de Albacete",
+      "url": "https://www.racing100.com/",
+      "image_url": null,
+      "short_ru": "Трек-дей Racing100 на Circuito de Albacete — открытые заезды по уровням подготовки",
+      "full_ru": "🏁 <b>Трек-дей на Альбасете</b>\n\n31 октября команда Racing100 проводит рodada на Circuito de Albacete — четыре группы по уровню пилотажа, от новичков (до 2:05) до быстрых пилотов (менее 1:45), шесть заездов за день.\n\nХороший повод выгулять мотоцикл на треке в компании единомышленников, независимо от опыта.\n\n📍 <b>Локация:</b> Circuito de Albacete, Альбасете"
     },
     {
       "id": "2acafe516b",
