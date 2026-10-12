@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-10-11T07:01:14.439Z",
+  "generated_at": "2026-10-12T07:02:07.294Z",
   "events": [
-    {
-      "id": "03493089b7",
-      "title": "Esencia del Sur de España --- Andalucía",
-      "date": "2026-10-02",
-      "end_date": "2026-10-10",
-      "city": "",
-      "region": "Andalucía",
-      "zone": "Андалусия",
-      "venue": "",
-      "url": "",
-      "image_url": null,
-      "short_ru": "02.10.2026--10.10.2026 в локации Андалусия запланировано \"Esencia del Sur de España --- Andalucía\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новос",
-      "full_ru": "🏍 <b>Esencia del Sur de España --- Andalucía</b>\n\n02.10.2026--10.10.2026 в локации Андалусия запланировано \"Esencia del Sur de España --- Andalucía\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Андалусия"
-    },
     {
       "id": "3686c493ce",
       "title": "XXXI Concentración de Motos Nómadas Lanzarote 2026",
@@ -86,48 +72,6 @@
       "full_ru": "🏍 <b>CEF InterOpen de Velocidad - Albacete</b>\n\n\n\n📍 <b>Локация:</b> Albacete (Альбасете)"
     },
     {
-      "id": "aba55e73ac",
-      "title": "Entrenamientos tutelados Circuito Bº MAGDALENA DE MASSAMAGRELL - MX 10:00 a 14:00",
-      "date": "2026-10-10",
-      "end_date": null,
-      "city": "Massamagrell",
-      "region": "Валенсия",
-      "zone": "Комунидад Валенсиана",
-      "venue": "",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Entrenamientos tutelados Circuito Bº MAGDALENA DE MASSAMAGRELL - MX 10:00 a 14:00</b>\n\n\n\n📍 <b>Локация:</b> MASSAMAGRELL (Валенсия)"
-    },
-    {
-      "id": "7bd7536ccf",
-      "title": "RFME Mototurismo Touring Challenge - Copa de Rutas",
-      "date": "2026-10-10",
-      "end_date": null,
-      "city": "",
-      "region": "",
-      "zone": "Другие регионы",
-      "venue": "Copa de Rutas",
-      "url": "https://rfme.com/calendario-campeonatos/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>RFME Mototurismo Touring Challenge - Copa de Rutas</b>\n\n\n\n📍 <b>Локация:</b> Copa de Rutas"
-    },
-    {
-      "id": "7576655f70",
-      "title": "II Butifarrada Motera Salou 2026",
-      "date": "2026-10-10",
-      "end_date": null,
-      "city": "Salou",
-      "region": "Tarragona",
-      "zone": "Каталония",
-      "venue": "",
-      "url": "https://www.eventomotor.com/calendario",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>II Butifarrada Motera Salou 2026</b>\n\n\n\n📍 <b>Локация:</b> Салоу (Таррагона)"
-    },
-    {
       "id": "0bba49e0b4",
       "title": "Tandas libres --- Box23",
       "date": "2026-10-10",
@@ -140,20 +84,6 @@
       "image_url": null,
       "short_ru": "10.10.2026--11.10.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Box23\". Событие связано с активным участием на мотоциклах и включено в документ только как кален",
       "full_ru": "🏍 <b>Tandas libres --- Box23</b>\n\n10.10.2026--11.10.2026 в локации MotorLand Aragón, Альканьис (Теруэль) запланировано \"Tandas libres --- Box23\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> MotorLand Aragón, Альканьис (Теруэль)"
-    },
-    {
-      "id": "9acd69c9a3",
-      "title": "Tandas libres y curso --- Motorbike Racing",
-      "date": "2026-10-10",
-      "end_date": null,
-      "city": "Circuito de Calafat, Л'Аметлья-де-Мар",
-      "region": "Таррагона",
-      "zone": "Каталония",
-      "venue": "",
-      "url": "",
-      "image_url": null,
-      "short_ru": "10.10.2026 в локации Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона) запланировано \"Tandas libres y curso --- Motorbike Racing\". Событие связано с активным участием на мотоциклах и включено в докуме",
-      "full_ru": "🏍 <b>Tandas libres y curso --- Motorbike Racing</b>\n\n10.10.2026 в локации Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона) запланировано \"Tandas libres y curso --- Motorbike Racing\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона)"
     },
     {
       "id": "09405eb0b6",
@@ -212,34 +142,6 @@
       "full_ru": "🏁 <b>GP J.Costa — Motoscoot Cup</b>\n\nГран-при кубка Motoscoot на трассе DR7 в Таранконе: гонки питбайков, скутеров, минимото и MiniGP — отличный старт для юных гонщиков и весёлое зрелище.\n\n📍 <b>Локация:</b> Circuito DR7, Tarancón (Cuenca)"
     },
     {
-      "id": "1dee06c53d",
-      "title": "Resistencia Terra Catalunya Santa Eulàlia de Ronçana 2026",
-      "date": "2026-10-10",
-      "end_date": null,
-      "city": "Santa Eulàlia de Ronçana",
-      "region": "Barcelona",
-      "zone": "Каталония",
-      "venue": "Santa Eulalia de Roncana",
-      "url": "https://fcm.cat/fcm/calendari-esportiu-2026/",
-      "image_url": null,
-      "short_ru": "Этап чемпионата Каталонии по гонкам на выносливость по грунту.",
-      "full_ru": "🏍 <b>Гонка на выносливость по грунту — Santa Eulàlia de Ronçana</b>\n\nЭтап чемпионата Каталонии по гонкам на выносливость по грунту — Santa Eulalia de Roncana. Вход для зрителей обычно свободный — хороший повод посмотреть на гонку вживую.\n\nℹ️ Федерация перенесла гонку с 4 на 10 октября.\n\n📍 <b>Локация:</b> Santa Eulalia de Roncana, Santa Eulàlia de Ronçana (Barcelona)"
-    },
-    {
-      "id": "9afe12276b",
-      "title": "Trial Cistierna 2026",
-      "date": "2026-10-10",
-      "end_date": null,
-      "city": "Cistierna",
-      "region": "León",
-      "zone": "Кастилия-и-Леон",
-      "venue": "",
-      "url": "https://fedemotocyl.es/calendario",
-      "image_url": null,
-      "short_ru": "Этап чемпионата Кастилии и Леона по триалу.",
-      "full_ru": "🏍 <b>Триал — Cistierna</b>\n\nЭтап чемпионата Кастилии и Леона по триалу. Вход для зрителей обычно свободный — хороший повод посмотреть на гонку вживую.\n\n📍 <b>Локация:</b> Cistierna (León)"
-    },
-    {
       "id": "39d9c66137",
       "title": "Komando Bike Festival 2026",
       "date": "2026-10-10",
@@ -252,20 +154,6 @@
       "image_url": null,
       "short_ru": "Байк-фестиваль в Торремолиносе — два дня концертов, выставок и мотокультуры",
       "full_ru": "🎸 <b>Komando Bike Festival 2026</b>\n\nВ выходные 10–11 октября в Торремолиносе (Малага) пройдёт байк-фестиваль — живая музыка, выставка мотоциклов, байк-шоу и тусовка на два дня.\n\nХороший повод прокатиться на юг и провести выходные среди своих — формат фестиваля, не просто слёт.\n\n📍 <b>Локация:</b> Торремолинос, Малага"
-    },
-    {
-      "id": "9a65f8af46",
-      "title": "III Concentración Motera Solidaria Moral-Rock 2026",
-      "date": "2026-10-10",
-      "end_date": null,
-      "city": "Moralzarzal",
-      "region": "Мадрид",
-      "zone": "Мадрид",
-      "venue": "",
-      "url": "https://piezasdemotos.com/eventos-moteros/",
-      "image_url": null,
-      "short_ru": "Благотворительный мото-слёт с рок-музыкой в Moralzarzal (Мадрид)",
-      "full_ru": "🏍️ <b>Мото-слёт с роком и добрым делом</b>\n\n10 октября в Moralzarzal (Мадрид) пройдёт III благотворительная мотоконцентрация Moral-Rock — байкерская тусовка с живой рок-музыкой и, конечно, целью собрать помощь на доброе дело.\n\nЕсли планируете маршрут в сторону Мадрида на выходные — можно заехать: формат семейный, атмосфера дружеская, плюс повод прокатиться по горным дорогам Сьерра-де-Гвадаррама.\n\n📍 <b>Локация:</b> Moralzarzal, Мадрид"
     },
     {
       "id": "62b8abed4b",
@@ -2128,6 +2016,20 @@
       "image_url": null,
       "short_ru": "Известный двухдневный триал на классических мотоциклах, старт у Hotel S'Agaró.",
       "full_ru": "🏍 <b>Два дня классического триала на Коста-Браве</b>\n\nОдин из самых известных триал-заездов на классической технике в Европе: два дня по секциям Коста-Бравы. Старт — Hotel S'Agaró. Организатор — Motoclub 2d Trial Costa Brava.\n\n📍 <b>Локация:</b> Hotel S'Agaró, Sant Feliu de Guíxols (Girona)"
+    },
+    {
+      "id": "99c7d3f4ec",
+      "title": "Concentración Motera Invierno",
+      "date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "city": "León",
+      "region": "Кастилия и Леон",
+      "zone": "Кастилия-и-Леон",
+      "venue": "",
+      "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
+      "image_url": null,
+      "short_ru": "Зимний мотослёт в Леоне — два дня встреч байкеров",
+      "full_ru": "🏍️ <b>Зимний мотослёт в Леоне</b>\n\nЕсли не против прокатиться подальше от побережья — 21–22 ноября в Леоне пройдёт двухдневная мотоконцентрация «Invierno».\n\nФормат классический: встреча байкеров со всей Испании, общение, рутас и зимняя атмосфера мотосообщества перед закрытием сезона.\n\n📍 <b>Локация:</b> León, León"
     },
     {
       "id": "7742978c84",
