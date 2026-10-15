@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:45:33.936Z",
+  "generated_at": "2026-10-15T11:57:59.784Z",
   "events": [
     {
       "id": "44806a59be",
@@ -1386,6 +1386,20 @@
       "image_url": null,
       "short_ru": "Внедорожный маршрут для эндуро, трейлов и макси-трейлов.",
       "full_ru": "🏍 <b>Офроуд в Фуэнльяне</b>\n\nПятый внедорожный маршрут для эндуро, трейлов и макси-трейлов по Кампо-де-Монтьель. Организатор — Moto Club Campo de Montiel.\n\n📍 <b>Локация:</b> Fuenllana (Сьюдад-Реаль)"
+    },
+    {
+      "id": "d1976ad692",
+      "title": "BeOFF Offroad Festival KTM 2026",
+      "date": "2026-11-14",
+      "end_date": null,
+      "city": "",
+      "region": "Barcelona",
+      "zone": "Каталония",
+      "venue": "",
+      "url": "https://fcm.cat/competicio/calendari-general/",
+      "image_url": null,
+      "short_ru": "Внедорожный фестиваль KTM: эндуро-маршруты и тусовка.",
+      "full_ru": "🏍 <b>BeOFF Offroad Festival KTM</b>\n\nФестиваль внедорожного катания от KTM: эндуро-маршруты, техника, тусовка. Организатор — Moto Club Alpicat.\n\n📍 <b>Локация:</b> провинция Барселона"
     },
     {
       "id": "efd1040c64",
