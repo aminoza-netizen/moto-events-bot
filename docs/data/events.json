@@ -1,48 +1,6 @@
 {
-  "generated_at": "2026-10-13T07:00:00.624Z",
+  "generated_at": "2026-10-15T11:45:33.936Z",
   "events": [
-    {
-      "id": "d915dba181",
-      "title": "Tandas Biker's Days Ricardo Tormo 2026",
-      "date": "2026-10-10",
-      "end_date": "2026-10-12",
-      "city": "Cheste",
-      "region": "Valencia, Comunidad Valenciana",
-      "zone": "Комунидад Валенсиана",
-      "venue": "Circuit Ricardo Tormo",
-      "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
-      "image_url": null,
-      "short_ru": "Track day — трассовые заезды на Ricardo Tormo",
-      "full_ru": "🏁 <b>Tandas Biker's Days Ricardo Tormo</b>\n\nС 10 по 12 октября 2026 на трассе Ricardo Tormo в Честе (Валенсия) пройдут track day — трассовые тренировочные заезды для мотоциклистов разного уровня.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Cheste, Valencia"
-    },
-    {
-      "id": "d2697f089f",
-      "title": "Tandas libres --- Racing100",
-      "date": "2026-10-12",
-      "end_date": null,
-      "city": "Circuito de Navarra, Лос-Аркос",
-      "region": "Наварра",
-      "zone": "Наварра",
-      "venue": "",
-      "url": "",
-      "image_url": null,
-      "short_ru": "12.10.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарна",
-      "full_ru": "🏍 <b>Tandas libres --- Racing100</b>\n\n12.10.2026 в локации Circuito de Navarra, Лос-Аркос (Наварра) запланировано \"Tandas libres --- Racing100\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос (Наварра)"
-    },
-    {
-      "id": "ec239fdcaa",
-      "title": "Tandas libres y curso --- PHANTOMR.",
-      "date": "2026-10-12",
-      "end_date": null,
-      "city": "Circuito de Calafat, Л'Аметлья-де-Мар",
-      "region": "Таррагона",
-      "zone": "Каталония",
-      "venue": "",
-      "url": "",
-      "image_url": null,
-      "short_ru": "12.10.2026 в локации Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона) запланировано \"Tandas libres y curso --- PHANTOMR.\". Событие связано с активным участием на мотоциклах и включено в документ толь",
-      "full_ru": "🏍 <b>Tandas libres y curso --- PHANTOMR.</b>\n\n12.10.2026 в локации Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона) запланировано \"Tandas libres y curso --- PHANTOMR.\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuito de Calafat, Л'Аметлья-де-Мар (Таррагона)"
-    },
     {
       "id": "44806a59be",
       "title": "Bmw Motorrad Days",
@@ -308,20 +266,6 @@
       "image_url": null,
       "short_ru": "Юбилейная 10-я гонка на выносливость по грунту имени Лайи Санс.",
       "full_ru": "🏍 <b>Гонка на выносливость «Laia Sanz» в Севе</b>\n\nЮбилейная 10-я гонка на выносливость по грунту, названная в честь Лайи Санс — легенды эндуро и «Дакара». Регистрация для участников до 15 октября. Организатор — Moto Club Tres Turons.\n\n📍 <b>Локация:</b> Seva (Barcelona)"
-    },
-    {
-      "id": "38754ce08c",
-      "title": "Resistencia Ciclomotors Ripollet 6H 2026",
-      "date": "2026-10-18",
-      "end_date": null,
-      "city": "Ripollet",
-      "region": "Barcelona",
-      "zone": "Каталония",
-      "venue": "",
-      "url": "https://fcm.cat/fcm/calendari-esportiu-2026/",
-      "image_url": null,
-      "short_ru": "Этап чемпионата Каталонии по гонкам на выносливость на мопедах.",
-      "full_ru": "🏍 <b>Гонка на выносливость на мопедах — Ripollet</b>\n\nЭтап чемпионата Каталонии по гонкам на выносливость на мопедах (6 часов). Вход для зрителей обычно свободный — хороший повод посмотреть на гонку вживую.\n\n📍 <b>Локация:</b> Ripollet (Barcelona)"
     },
     {
       "id": "35cafdd96c",
@@ -1122,6 +1066,20 @@
       "full_ru": "🏍 <b>«La Inesperada» — маршрут по роудбуку</b>\n\nОднодневный маршрут для эндуро, трейловых и макси-трейловых мотоциклов со стартом в Посуэло-де-Калатрава. Организатор — Pana Roadbook.\n\n📍 <b>Локация:</b> Pozuelo de Calatrava (Сьюдад-Реаль)"
     },
     {
+      "id": "b27941e8a6",
+      "title": "Trofeu Català de Resistència de Ciclomotors — l'Ametlla Parc (3 h)",
+      "date": "2026-11-07",
+      "end_date": null,
+      "city": "L'Ametlla del Vallès",
+      "region": "Barcelona",
+      "zone": "Каталония",
+      "venue": "l'Ametlla Parc",
+      "url": "https://fcm.cat/competicio/calendari-general/",
+      "image_url": null,
+      "short_ru": "3-часовая гонка на выносливость на мопедах, Кубок Каталонии.",
+      "full_ru": "🛵 <b>3 часа на мопедах — l'Ametlla Parc</b>\n\nЭтап Кубка Каталонии по гонкам на выносливость на мопедах: три часа по кругу, смена пилотов, классика каталонского мотоспорта.\n\n📍 <b>Локация:</b> l'Ametlla Parc, L'Ametlla del Vallès (Барселона)"
+    },
+    {
       "id": "c415ed774b",
       "title": "Entrenamientos tutelados Circuito Verdegàs - MX - 9:00 a 14:00",
       "date": "2026-11-08",
@@ -1386,34 +1344,6 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Copa de España de Velocidad EVO - CIRCUITO DE NAVARRA - Navarra</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос"
-    },
-    {
-      "id": "41b088c026",
-      "title": "Moto Clàssic Series — Kini Motor Park",
-      "date": "2026-11-14",
-      "end_date": null,
-      "city": "",
-      "region": "Barcelona",
-      "zone": "Каталония",
-      "venue": "Kini Motor Park",
-      "url": "https://fcm.cat/competicio/calendari-general/",
-      "image_url": null,
-      "short_ru": "Гонки классических мотоциклов, этап Moto Clàssic Series.",
-      "full_ru": "🏍 <b>Moto Clàssic Series в Kini Motor Park</b>\n\nЕщё один этап серии гонок классических мотоциклов. Организатор — Penya Motorista Barcelona.\n\n📍 <b>Локация:</b> Kini Motor Park (провинция Барселона)"
-    },
-    {
-      "id": "299ef04300",
-      "title": "Epic Offroad Festival KTM 2026",
-      "date": "2026-11-14",
-      "end_date": null,
-      "city": "",
-      "region": "Barcelona",
-      "zone": "Каталония",
-      "venue": "",
-      "url": "https://fcm.cat/competicio/calendari-general/",
-      "image_url": null,
-      "short_ru": "Внедорожный фестиваль KTM: эндуро-маршруты и тусовка.",
-      "full_ru": "🏍 <b>Epic Offroad Festival KTM</b>\n\nФестиваль внедорожного катания от KTM: эндуро-маршруты, техника, тусовка. Организатор — Moto Club Alpicat.\n\n📍 <b>Локация:</b> провинция Барселона"
     },
     {
       "id": "7396933050",
