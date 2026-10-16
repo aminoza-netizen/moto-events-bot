@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:57:59.784Z",
+  "generated_at": "2026-10-16T01:35:50.123Z",
   "events": [
     {
       "id": "44806a59be",
@@ -1416,20 +1416,6 @@
       "full_ru": "🏍 <b>TT-TR InterOpen de Xixona</b>\n\n15 ноября 2026 года в локации Xixona (Аликанте) пройдет «TT-TR InterOpen de Xixona». Это соревновательное событие по мотоспорту: в календаре заявлены официальные заезды и спортивная борьба за результат. Новость будет интересна поклонникам гонок и тем, кто следит за испанским мотоспортом.\n\n📍 <b>Локация:</b> Xixona (Аликанте)"
     },
     {
-      "id": "b8fffa72a3",
-      "title": "V Motocross InterOpen de Verdegàs",
-      "date": "2026-11-15",
-      "end_date": null,
-      "city": "Circuito Verdegàs, Аликанте",
-      "region": "",
-      "zone": "Комунидад Валенсиана",
-      "venue": "Circuito Verdegàs, Аликанте",
-      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
-      "image_url": null,
-      "short_ru": "15 ноября 2026 года в локации Circuito Verdegàs, Аликанте пройдет «V Motocross InterOpen de Verdegàs». Это соревновательное событие по мотокроссу: в календаре заявлены официальные заезды и спортивная ",
-      "full_ru": "🏍 <b>V Motocross InterOpen de Verdegàs</b>\n\n15 ноября 2026 года в локации Circuito Verdegàs, Аликанте пройдет «V Motocross InterOpen de Verdegàs». Это соревновательное событие по мотокроссу: в календаре заявлены официальные заезды и спортивная борьба за результат. Новость будет интересна поклонникам гонок и тем, кто следит за испанским мотоспортом.\n\n📍 <b>Локация:</b> Circuito Verdegàs, Аликанте"
-    },
-    {
       "id": "8007e7b6b6",
       "title": "IV Hard TT-E InterOpen de Higueruelas",
       "date": "2026-11-15",
@@ -2072,6 +2058,20 @@
       "image_url": null,
       "short_ru": "Трек-день на трассе Circuit Mallorca Llucmajor.",
       "full_ru": "🏁 <b>Трек-день: Circuit Mallorca Llucmajor</b>\n\nОткрытые заезды на большой трассе Circuit Mallorca от Федерации мотоспорта Балеарских островов: катание по сессиям на своём мотоцикле, нужна запись.\n\n📍 <b>Локация:</b> Circuit Mallorca Llucmajor, Llucmajor (Illes Balears)"
+    },
+    {
+      "id": "b8fffa72a3",
+      "title": "V Motocross InterOpen de Verdegàs",
+      "date": "2026-12-06",
+      "end_date": null,
+      "city": "Circuito Verdegàs, Аликанте",
+      "region": "",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Circuito Verdegàs, Аликанте",
+      "url": "https://fmcv.es/calendario/todas-las-pruebas/",
+      "image_url": null,
+      "short_ru": "15 ноября 2026 года в локации Circuito Verdegàs, Аликанте пройдет «V Motocross InterOpen de Verdegàs». Это соревновательное событие по мотокроссу: в календаре заявлены официальные заезды и спортивная ",
+      "full_ru": "🏍 <b>V Motocross InterOpen de Verdegàs</b>\n\n15 ноября 2026 года в локации Circuito Verdegàs, Аликанте пройдет «V Motocross InterOpen de Verdegàs». Это соревновательное событие по мотокроссу: в календаре заявлены официальные заезды и спортивная борьба за результат. Новость будет интересна поклонникам гонок и тем, кто следит за испанским мотоспортом.\n\nℹ️ Федерация перенесла этап с 15 ноября на 6 декабря.\n\n📍 <b>Локация:</b> Circuito Verdegàs, Аликанте"
     },
     {
       "id": "7bbc114330",
