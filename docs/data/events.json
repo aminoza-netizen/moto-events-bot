@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:02:08.796Z",
+  "generated_at": "2026-10-19T07:13:17.322Z",
   "events": [
     {
       "id": "44806a59be",
@@ -30,20 +30,6 @@
       "full_ru": "🏍 <b>FIM Campeonato del Mundo de SBK/Supersport - CIRCUITO DE JEREZ ANGEL NIETO</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Jerez--Ángel Nieto, Кадис"
     },
     {
-      "id": "6cd9d2b27a",
-      "title": "III Quedada motera La Trufera",
-      "date": "2026-10-16",
-      "end_date": "2026-10-17",
-      "city": "La Cistérniga",
-      "region": "Valladolid",
-      "zone": "Кастилия-и-Леон",
-      "venue": "",
-      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=0&p=49563#p49563",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>III Quedada motera La Trufera</b>\n\n\n\n📍 <b>Локация:</b> Valladolid --- (La Cistérniga)"
-    },
-    {
       "id": "2160d52dd9",
       "title": "X Concentración motera Paketorr@s",
       "date": "2026-10-16",
@@ -72,20 +58,6 @@
       "full_ru": "🏍 <b>Portugal & Sur de España Motorcycle Tour</b>\n\n16.10.2026--30.10.2026 в локации Юг Испании и Португалия запланировано \"Portugal & Sur de España Motorcycle Tour\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Юг Испании и Португалия"
     },
     {
-      "id": "c4488b3ef8",
-      "title": "V Encuentro de Motos Antiguas y Clásicas Motoretroguara",
-      "date": "2026-10-17",
-      "end_date": null,
-      "city": "Colungo",
-      "region": "Huesca, Aragón",
-      "zone": "Арагон",
-      "venue": "",
-      "url": "https://www.concentracionesdemotos.com/aragon/",
-      "image_url": null,
-      "short_ru": "Слёт классических мотоциклов Motoretroguara",
-      "full_ru": "🏍️ <b>Motoretroguara</b>\n\n17 октября 2026 в Колунго (Уэска) пройдёт слёт классических мотоциклов Motoretroguara — выставка ретро-техники и встреча коллекционеров.\n\n📍 <b>Локация:</b> Colungo, Huesca"
-    },
-    {
       "id": "7995679672",
       "title": "Campeonato de España de Motocross - MORÓN DE LA FRONTERA - Sevilla",
       "date": "2026-10-17",
@@ -100,90 +72,6 @@
       "full_ru": "🏍 <b>Campeonato de España de Motocross - MORÓN DE LA FRONTERA - Sevilla</b>\n\n\n\n📍 <b>Локация:</b> MORÓN DE LA FRONTERA --- Sevilla"
     },
     {
-      "id": "7b40688349",
-      "title": "Rodada Motor Extremo --- Almeria",
-      "date": "2026-10-17",
-      "end_date": null,
-      "city": "Circuito de Almería, Альмерия",
-      "region": "",
-      "zone": "Андалусия",
-      "venue": "Circuito de Almería, Альмерия",
-      "url": "https://motorextremo.es/producto/rodada-circuito-de-almeria-sabado-17-octubre-2026/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Rodada Motor Extremo --- Almeria</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Almería, Альмерия"
-    },
-    {
-      "id": "8cbc67d8a7",
-      "title": "Tandas libres --- TMSR",
-      "date": "2026-10-17",
-      "end_date": null,
-      "city": "Circuit Ricardo Tormo, Честе",
-      "region": "Валенсия",
-      "zone": "Комунидад Валенсиана",
-      "venue": "",
-      "url": "",
-      "image_url": null,
-      "short_ru": "17.10.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная ново",
-      "full_ru": "🏍 <b>Tandas libres --- TMSR</b>\n\n17.10.2026 в локации Circuit Ricardo Tormo, Честе (Валенсия) запланировано \"Tandas libres --- TMSR\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе (Валенсия)"
-    },
-    {
-      "id": "2e9121675a",
-      "title": "Gredos Book 2026",
-      "date": "2026-10-17",
-      "end_date": null,
-      "city": "Navaluenga",
-      "region": "Ávila",
-      "zone": "Кастилия-и-Леон",
-      "venue": "",
-      "url": "https://www.motor16.com/motos/gredos-book-2026-navaluenga",
-      "image_url": null,
-      "short_ru": "Некоммерческий роадбук-слёт в Сьерра-де-Гредос — не гонка, а навигация и виды",
-      "full_ru": "🗺 <b>Gredos Book: навигация вместо гонки</b>\n\n17 октября в Навалуэнге (Авила) пройдёт второй Gredos Book — слёт с роадбуком по Сьерра-де-Гредос. На выбор два маршрута: грунтовый 220 км (70% бездорожья) или асфальтовый 350 км через горные перевалы.\n\nНавигация — по цифровому роадбуку в приложении Terra Pirata или бумажному классическому. В пятницу перед стартом — тренировка для новичков.\n\nСмысл не в скорости, а в том, чтобы правильно читать маршрут и наслаждаться дорогой.\n\n📍 <b>Локация:</b> Navaluenga, Ávila"
-    },
-    {
-      "id": "77f3330ba8",
-      "title": "Flat Track Rocco's Cup — 3",
-      "date": "2026-10-17",
-      "end_date": null,
-      "city": "Montgai",
-      "region": "Lleida",
-      "zone": "Каталония",
-      "venue": "Rocco's Ranch",
-      "url": "http://roccosranch.es/",
-      "image_url": null,
-      "short_ru": "Флэт-трек: гонки на овале по грунту, 3-й этап Rocco's Cup.",
-      "full_ru": "🏍 <b>Флэт-трек Rocco's Cup</b>\n\nФлэт-трек — гонки на грунтовом овале с заносами в каждом повороте, как в американском AFT. 3-й этап Rocco's Cup. Организатор — Rocco's Ranch Moto Club.\n\n📍 <b>Локация:</b> Rocco's Ranch, Montgai (Lleida)"
-    },
-    {
-      "id": "a37126005b",
-      "title": "Ducati Riding Camp Albacete 2026",
-      "date": "2026-10-17",
-      "end_date": null,
-      "city": "Albacete",
-      "region": "Albacete",
-      "zone": "Кастилия-Ла-Манча",
-      "venue": "Circuito de Albacete",
-      "url": "https://www.circuitoalbacete.es/evento/ducati-riding-camp/",
-      "image_url": null,
-      "short_ru": "Трек-день Ducati с инструкторами.",
-      "full_ru": "🔴 <b>Ducati Riding Camp — Альбасете</b>\n\nДень на трассе от Ducati: катание по сессиям на кольце Альбасете с инструкторами. Для владельцев Ducati и тех, кто хочет прокачать технику.\n\n📍 <b>Локация:</b> Circuito de Albacete, Albacete (Albacete)"
-    },
-    {
-      "id": "8d0a381e45",
-      "title": "Rodada Pista Grande FBM - octubre 2026",
-      "date": "2026-10-17",
-      "end_date": null,
-      "city": "Llucmajor",
-      "region": "Illes Balears",
-      "zone": "Балеары",
-      "venue": "Circuit Mallorca Llucmajor",
-      "url": "https://fbmotos.org/rodada-en-pista-grande/",
-      "image_url": null,
-      "short_ru": "Трек-день на трассе Circuit Mallorca Llucmajor.",
-      "full_ru": "🏁 <b>Трек-день: Circuit Mallorca Llucmajor</b>\n\nОткрытые заезды на большой трассе Circuit Mallorca от Федерации мотоспорта Балеарских островов: катание по сессиям на своём мотоцикле, нужна запись.\n\n📍 <b>Локация:</b> Circuit Mallorca Llucmajor, Llucmajor (Illes Balears)"
-    },
-    {
       "id": "e18dd1c5b2",
       "title": "2 Dies de Trial a Santigosa Clàssiques",
       "date": "2026-10-17",
@@ -196,20 +84,6 @@
       "image_url": null,
       "short_ru": "Двухдневный триал на классических мотоциклах в Пиренеях.",
       "full_ru": "🏍 <b>Два дня классического триала «Santigosa»</b>\n\nДвухдневный триал на классических мотоциклах в предгорьях Пиренеев. Старт во дворе старой школы Abadessa Emma, офис гонки — библиотека Josep Picola. Организатор — Moto Club Abadesses.\n\n📍 <b>Локация:</b> Sant Joan de les Abadesses (Жирона)"
-    },
-    {
-      "id": "942130a67e",
-      "title": "II Ruta Casas de Ves — Motos Off Road",
-      "date": "2026-10-17",
-      "end_date": null,
-      "city": "Casas de Ves",
-      "region": "Albacete",
-      "zone": "Кастилия-Ла-Манча",
-      "venue": "",
-      "url": "https://www.atalayaexperiences.com/",
-      "image_url": null,
-      "short_ru": "Круговой внедорожный маршрут ~235 км по треку/роудбуку, час-полтора от Валенсии.",
-      "full_ru": "🏍 <b>Офроуд-маршрут Casas de Ves</b>\n\nВторой круговой маршрут для эндуро и трейловых мотоциклов: около 235 км за один день, навигация по цифровому треку или роудбуку. Casas de Ves — на границе с Валенсийской провинцией, в долине Хукара, полтора часа от Валенсии.\n\nОрганизатор — Atalaya Experiences.\n\n📍 <b>Локация:</b> Casas de Ves (Альбасете)"
     },
     {
       "id": "481c561d5f",
@@ -534,6 +408,20 @@
       "full_ru": "🏍️ <b>Gambrinus — мотослёт в Константине</b>\n\n24–25 октября в Константине (Севилья) пройдёт XX Concentración Motera Gambrinus — двухдневная встреча байкеров с ночёвкой, музыкой и покатушками по окрестностям.\n\n📍 <b>Локация:</b> Constantina, Sevilla"
     },
     {
+      "id": "b89726830c",
+      "title": "VI Motoalmuerzo Valderiders",
+      "date": "2026-10-24",
+      "end_date": null,
+      "city": "Valdemoro",
+      "region": "Madrid",
+      "zone": "Мадрид",
+      "venue": "",
+      "url": "https://www.concentracionesdemotos.com/concentraciones/",
+      "image_url": null,
+      "short_ru": "Мотозавтрак клуба Valderiders в Вальдеморо (Мадрид)",
+      "full_ru": "🍽️ <b>VI мотозавтрак Valderiders</b>\n\n24 октября в Вальдеморо (Мадрид) пройдёт очередной мотозавтрак — встреча байкеров и общение за завтраком на свежем воздухе.\n\nЕсли будете в районе Мадрида в эту пятницу — присоединяйтесь.\n\n📍 <b>Локация:</b> Valdemoro, Madrid"
+    },
+    {
       "id": "eb0b00b9d0",
       "title": "Tandas libres --- Motorbike Racing",
       "date": "2026-10-25",
@@ -644,6 +532,20 @@
       "image_url": null,
       "short_ru": "Памятный тихий мотопробег в Редонделе",
       "full_ru": "🤫 <b>Moto Callada — тихий мотопробег в Редонделе</b>\n\n25 октября в Редонделе (Понтеведра, Галисия) пройдёт уже XII по счёту «Moto Callada» — памятный мотопробег в честь погибших байкеров, традиционно проходит в тишине.\n\n📍 <b>Локация:</b> Redondela, Pontevedra"
+    },
+    {
+      "id": "037ab5459d",
+      "title": "Motoalmuerzo Motero Trotamundos",
+      "date": "2026-10-25",
+      "end_date": null,
+      "city": "Campomar",
+      "region": "Alicante",
+      "zone": "Комунидад Валенсиана",
+      "venue": "",
+      "url": "https://www.concentracionesdemotos.com/alicante/",
+      "image_url": null,
+      "short_ru": "Мотозавтрак клуба Trotamundos в Кампоморе (Аликанте)",
+      "full_ru": "🍳 <b>Мотозавтрак Trotamundos в Кампоморе</b>\n\n25 октября байкеры Аликанте снова соберутся на традиционный motoalmuerzo — просто позавтракать, пообщаться и показать мотоциклы друг другу.\n\nОтличный повод прокатиться субботним утром и познакомиться с местной тусовкой.\n\n📍 <b>Локация:</b> Campomar, Alicante"
     },
     {
       "id": "67a5374366",
@@ -1008,6 +910,20 @@
       "image_url": null,
       "short_ru": "Слёт Vespa, Vespino и Lambretta в Эстепе — столице андалусских polvorones.",
       "full_ru": "🛵 <b>Polvorón Vespero — слёт веспистов в Эстепе</b>\n\nОдиннадцатый слёт владельцев Vespa, Vespino и Lambretta от Vespa Club Estepa. Эстепа — родина знаменитых рождественских сладостей polvorones, отсюда и название.\n\n📍 <b>Локация:</b> Estepa (Севилья)"
+    },
+    {
+      "id": "7b7ac29f78",
+      "title": "11º Aniversario Calamity Janne MC Sureste",
+      "date": "2026-11-06",
+      "end_date": null,
+      "city": "Villajoyosa",
+      "region": "Alicante",
+      "zone": "Комунидад Валенсиана",
+      "venue": "",
+      "url": "https://www.concentracionesdemotos.com/alicante/",
+      "image_url": null,
+      "short_ru": "Юбилей байк-клуба Calamity Janne MC Sureste в Вильяхойосе",
+      "full_ru": "🎉 <b>11 лет байк-клубу Calamity Janne MC Sureste</b>\n\n6 ноября в Вильяхойосе (Аликанте) отмечают юбилей местного мотоклуба: встречи с гостями со всего юго-востока, музыка и, конечно, мотоциклы со всей округи.\n\nХороший повод познакомиться с мото-сообществом Коста-Бланки.\n\n📍 <b>Локация:</b> Villajoyosa, Alicante"
     },
     {
       "id": "48ac0ad6c3",
@@ -1598,6 +1514,20 @@
       "full_ru": "🏍 <b>Кросс-кантри — El Molar</b>\n\nЭтап чемпионата Мадрида по кросс-кантри. Вход для зрителей обычно свободный — хороший повод посмотреть на гонку вживую.\n\n📍 <b>Локация:</b> El Molar (Madrid)"
     },
     {
+      "id": "6414218f58",
+      "title": "19ª Trobada Motera Canovelles",
+      "date": "2026-11-15",
+      "end_date": null,
+      "city": "Canovelles",
+      "region": "Barcelona",
+      "zone": "Каталония",
+      "venue": "",
+      "url": "https://www.concentracionesdemotos.com/concentraciones/",
+      "image_url": null,
+      "short_ru": "Традиционная мото-встреча в Кановетльесе (Барселона)",
+      "full_ru": "🏍️ <b>19-я мото-встреча в Кановетльесе</b>\n\n15 ноября в Кановетльесе (Барселона) пройдёт ежегодная трубада — байкеры со всей Каталонии соберутся показать мотоциклы и провести день вместе.\n\nЕсли вы в районе Барселоны — хорошая возможность влиться в местную компанию.\n\n📍 <b>Локация:</b> Canovelles, Barcelona"
+    },
+    {
       "id": "a00fbab599",
       "title": "Tandas libres --- Bike Promotion Europe",
       "date": "2026-11-17",
@@ -1638,6 +1568,20 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Firauto y Sobre2Ruedas --- noviembre 2026</b>\n\n\n\n📍 <b>Локация:</b> Institución Ferial Alicantina, Эльче (Аликанте)"
+    },
+    {
+      "id": "f0985ae58e",
+      "title": "Rider Soul Valencia — noviembre",
+      "date": "2026-11-20",
+      "end_date": "2026-11-21",
+      "city": "Albaida",
+      "region": "Valencia",
+      "zone": "Комунидад Валенсиана",
+      "venue": "",
+      "url": "https://soymotero.net/",
+      "image_url": null,
+      "short_ru": "Второе издание мототуристического события Rider Soul в Альбайде",
+      "full_ru": "🌄 <b>Rider Soul Valencia возвращается в Альбайду</b>\n\n20–21 ноября в Альбайде (провинция Валенсия) пройдёт новое издание мототуристического проекта Rider Soul — маршруты по живописным внутренним дорогам региона, атмосфера и общение байкеров.\n\nОтличный повод для осенней покатушки по Валенсийской глубинке.\n\n📍 <b>Локация:</b> Albaida, Valencia"
     },
     {
       "id": "598aca41ee",
@@ -1722,6 +1666,34 @@
       "image_url": null,
       "short_ru": "Зимний мотослёт в Леоне — два дня встреч байкеров",
       "full_ru": "🏍️ <b>Зимний мотослёт в Леоне</b>\n\nЕсли не против прокатиться подальше от побережья — 21–22 ноября в Леоне пройдёт двухдневная мотоконцентрация «Invierno».\n\nФормат классический: встреча байкеров со всей Испании, общение, рутас и зимняя атмосфера мотосообщества перед закрытием сезона.\n\n📍 <b>Локация:</b> León, León"
+    },
+    {
+      "id": "fb7b55eda5",
+      "title": "III Concentración Motera Las Alpujarras",
+      "date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "city": "Órgiva",
+      "region": "Granada",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
+      "image_url": null,
+      "short_ru": "Мото-слёт в Альпухарре (Орхива, Гранада)",
+      "full_ru": "🏔️ <b>III мото-слёт в Альпухарре</b>\n\n21–22 ноября в Орхиве (Гранада) пройдёт слёт мотоциклистов с ночёвкой — горные дороги Альпухарры, компания байкеров и южная атмосфера.\n\nДля тех, кто готов проехать подальше ради хороших серпантинов и гор.\n\n📍 <b>Локация:</b> Órgiva, Granada"
+    },
+    {
+      "id": "e9afa57e98",
+      "title": "Moto Encuentro Otoño Final",
+      "date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "city": "Cazorla",
+      "region": "Jaén",
+      "zone": "Андалусия",
+      "venue": "",
+      "url": "https://www.eventomotor.com/concentraciones-moteras-2026",
+      "image_url": null,
+      "short_ru": "Осенний мото-слёт в Касорле (Хаэн)",
+      "full_ru": "🍂 <b>Осенняя мото-встреча в Касорле</b>\n\n21–22 ноября в Касорле (Хаэн) пройдёт слёт байкеров «Отоньо Финал» — природный парк Сьерра-де-Касорла, горные дороги и компания единомышленников.\n\nХороший финал осеннего сезона для любителей маршрутов по горам Андалусии.\n\n📍 <b>Локация:</b> Cazorla, Jaén"
     },
     {
       "id": "7742978c84",
