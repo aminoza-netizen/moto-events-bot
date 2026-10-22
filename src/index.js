@@ -132,18 +132,18 @@ function nextCandidate(db) {
   const meta = store.todayMeta(db);
   const fresh = (ts) => ts && Date.now() - new Date(ts).getTime() < 20 * 3600000;
 
-  // 1. «Сегодня!» — день события
+  // 1. Новость — самый высокий приоритет: людям они нужнее всего, а в выходные
+  //    десяток событий «сегодня» забивал все слоты дня и новости зависали в очереди
+  if (meta.news < MAX_NEWS()) {
+    const n = db.news.find((x) => !x.posted && x.post_ru);
+    if (n) return { type: 'news', item: n };
+  }
+  // 2. «Сегодня!» — день события
   for (const ev of db.events) {
     if (ev.no_post) continue; // напр. рядовые тренировки на закрытых трассах — не для канала
     if (store.daysUntil(ev.date) !== 0 || ev.posted.day) continue;
     if (fresh(ev.posted.week) || fresh(ev.posted.announce)) continue;
     return { type: 'event', kind: 'day', item: ev };
-  }
-  // 2. Новость (лимит в день) — выше напоминаний, чтобы не застревать в очереди
-  //    за многочисленными «через неделю» при большой базе событий
-  if (meta.news < MAX_NEWS()) {
-    const n = db.news.find((x) => !x.posted && x.post_ru);
-    if (n) return { type: 'news', item: n };
   }
   // 3. Напоминание за неделю
   for (const ev of db.events) {
