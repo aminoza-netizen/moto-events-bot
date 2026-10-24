@@ -1,48 +1,6 @@
 {
-  "generated_at": "2026-10-19T07:13:17.322Z",
+  "generated_at": "2026-10-24T07:01:24.609Z",
   "events": [
-    {
-      "id": "44806a59be",
-      "title": "Bmw Motorrad Days",
-      "date": "2026-10-16",
-      "end_date": "2026-10-18",
-      "city": "Peñíscola",
-      "region": "Castellón",
-      "zone": "Комунидад Валенсиана",
-      "venue": "",
-      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=0&p=49577#p49577",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Bmw Motorrad Days</b>\n\n\n\n📍 <b>Локация:</b> Castelló --- (Peñiscola)"
-    },
-    {
-      "id": "489ff7e897",
-      "title": "FIM Campeonato del Mundo de SBK/Supersport - CIRCUITO DE JEREZ ANGEL NIETO",
-      "date": "2026-10-16",
-      "end_date": "2026-10-18",
-      "city": "Circuito de Jerez--Ángel Nieto, Кадис",
-      "region": "",
-      "zone": "Андалусия",
-      "venue": "Circuito de Jerez--Ángel Nieto, Кадис",
-      "url": "https://rfme.com/calendario-campeonatos/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>FIM Campeonato del Mundo de SBK/Supersport - CIRCUITO DE JEREZ ANGEL NIETO</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Jerez--Ángel Nieto, Кадис"
-    },
-    {
-      "id": "2160d52dd9",
-      "title": "X Concentración motera Paketorr@s",
-      "date": "2026-10-16",
-      "end_date": "2026-10-18",
-      "city": "Moraleja del Vino",
-      "region": "Zamora",
-      "zone": "Кастилия-и-Леон",
-      "venue": "",
-      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=4517&p=49827#p49827",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>X Concentración motera Paketorr@s</b>\n\n\n\n📍 <b>Локация:</b> Zamora --- (Moraleja del Vino)"
-    },
     {
       "id": "a71d4e6ac0",
       "title": "Portugal & Sur de España Motorcycle Tour",
@@ -56,132 +14,6 @@
       "image_url": null,
       "short_ru": "16.10.2026--30.10.2026 в локации Юг Испании и Португалия запланировано \"Portugal & Sur de España Motorcycle Tour\". Событие связано с активным участием на мотоциклах и включено в документ только как ка",
       "full_ru": "🏍 <b>Portugal & Sur de España Motorcycle Tour</b>\n\n16.10.2026--30.10.2026 в локации Юг Испании и Португалия запланировано \"Portugal & Sur de España Motorcycle Tour\". Событие связано с активным участием на мотоциклах и включено в документ только как календарная новость для Telegram.\n\n📍 <b>Локация:</b> Юг Испании и Португалия"
-    },
-    {
-      "id": "7995679672",
-      "title": "Campeonato de España de Motocross - MORÓN DE LA FRONTERA - Sevilla",
-      "date": "2026-10-17",
-      "end_date": "2026-10-18",
-      "city": "Morón de la Frontera",
-      "region": "Sevilla",
-      "zone": "Андалусия",
-      "venue": "MORÓN DE LA FRONTERA --- Sevilla",
-      "url": "https://rfme.com/calendario-campeonatos/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Campeonato de España de Motocross - MORÓN DE LA FRONTERA - Sevilla</b>\n\n\n\n📍 <b>Локация:</b> MORÓN DE LA FRONTERA --- Sevilla"
-    },
-    {
-      "id": "e18dd1c5b2",
-      "title": "2 Dies de Trial a Santigosa Clàssiques",
-      "date": "2026-10-17",
-      "end_date": "2026-10-18",
-      "city": "Sant Joan de les Abadesses",
-      "region": "Girona",
-      "zone": "Каталония",
-      "venue": "",
-      "url": "https://motoclubabadesses.cat",
-      "image_url": null,
-      "short_ru": "Двухдневный триал на классических мотоциклах в Пиренеях.",
-      "full_ru": "🏍 <b>Два дня классического триала «Santigosa»</b>\n\nДвухдневный триал на классических мотоциклах в предгорьях Пиренеев. Старт во дворе старой школы Abadessa Emma, офис гонки — библиотека Josep Picola. Организатор — Moto Club Abadesses.\n\n📍 <b>Локация:</b> Sant Joan de les Abadesses (Жирона)"
-    },
-    {
-      "id": "481c561d5f",
-      "title": "Copa de España de Motocross Clásico - ALHAMA DE MURCIA - Murcia",
-      "date": "2026-10-18",
-      "end_date": null,
-      "city": "Alhama de Murcia",
-      "region": "Мурсия",
-      "zone": "Мурсия",
-      "venue": "",
-      "url": "https://rfme.com/calendario-campeonatos/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Copa de España de Motocross Clásico - ALHAMA DE MURCIA - Murcia</b>\n\n\n\n📍 <b>Локация:</b> ALHAMA DE MURCIA (Мурсия)"
-    },
-    {
-      "id": "01473238a5",
-      "title": "XXIV Gorrinostreffen",
-      "date": "2026-10-18",
-      "end_date": null,
-      "city": "Castillonroy",
-      "region": "Huesca",
-      "zone": "Арагон",
-      "venue": "",
-      "url": "http://www.motoclubmotrix.org/foro/viewtopic.php?t=0&p=49203#p49203",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>XXIV Gorrinostreffen</b>\n\n\n\n📍 <b>Локация:</b> Huesca --- (Castillonroy)"
-    },
-    {
-      "id": "35cafdd96c",
-      "title": "Trial Castilla-La Mancha Argés 2026",
-      "date": "2026-10-18",
-      "end_date": null,
-      "city": "Argés",
-      "region": "Toledo",
-      "zone": "Кастилия-Ла-Манча",
-      "venue": "Arges",
-      "url": "https://fcmm.net/wp-content/uploads/2026/02/2026-CALENDARIO-TRIAL_ver-31enero.pdf",
-      "image_url": null,
-      "short_ru": "Этап чемпионата Кастилии-Ла-Манчи по триалу.",
-      "full_ru": "🏍 <b>Триал — Argés</b>\n\nЭтап чемпионата Кастилии-Ла-Манчи по триалу — Arges. Вход для зрителей обычно свободный — хороший повод посмотреть на гонку вживую.\n\n📍 <b>Локация:</b> Arges, Argés (Toledo)"
-    },
-    {
-      "id": "6b42e73c63",
-      "title": "7.ª Concentración de Vehículos Clásicos de Pilar de la Horadada",
-      "date": "2026-10-18",
-      "end_date": null,
-      "city": "Pilar de la Horadada",
-      "region": "Alicante",
-      "zone": "Комунидад Валенсиана",
-      "venue": "",
-      "url": "https://www.eventomotor.com/disciplinas/concentraciones",
-      "image_url": null,
-      "short_ru": "Слёт классических авто и мотоциклов в Пилар-де-ла-Орадада, Аликанте",
-      "full_ru": "🏍 <b>Ретро-слёт в Пилар-де-ла-Орадада</b>\n\n18 октября в городке Пилар-де-ла-Орадада (провинция Аликанте) пройдёт уже 7-й слёт классической техники — съедутся как старые авто, так и мотоциклы.\n\nХороший повод прокатиться на выходных, посмотреть на раритеты и пообщаться с коллекционерами из округи.\n\n📍 <b>Локация:</b> Пилар-де-ла-Орадада, Аликанте"
-    },
-    {
-      "id": "51c2438227",
-      "title": "V Quedada Motera Va Plomo 2026",
-      "date": "2026-10-18",
-      "end_date": null,
-      "city": "La Guijarrosa",
-      "region": "Córdoba",
-      "zone": "Андалусия",
-      "venue": "",
-      "url": "https://piezasdemotos.com/eventos-moteros/",
-      "image_url": null,
-      "short_ru": "Мотослёт в Ла-Гихарросе, Кордова",
-      "full_ru": "🏍️ <b>Va Plomo — мотослёт в Андалусии</b>\n\nСегодня, 18 октября, в Ла-Гихарросе (Кордова) проходит V Quedada Motera Va Plomo — небольшая, но душевная встреча байкеров юга Испании.\n\nЕсли вы рядом — ещё можно успеть заглянуть.\n\n📍 <b>Локация:</b> La Guijarrosa, Córdoba"
-    },
-    {
-      "id": "21902d317e",
-      "title": "Tandas BMC MotorLand octubre 2026",
-      "date": "2026-10-20",
-      "end_date": "2026-10-21",
-      "city": "Alcañiz",
-      "region": "Teruel",
-      "zone": "Арагон",
-      "venue": "Circuito de velocidad MotorLand Aragón",
-      "url": "https://www.motorlandaragon.com/es/eventos/tandas-para-motos-bmc-0",
-      "image_url": null,
-      "short_ru": "Трек-день на трассе Circuito de velocidad MotorLand Aragón.",
-      "full_ru": "🏁 <b>Трек-день: Circuito de velocidad MotorLand Aragón</b>\n\nОткрытые заезды (тандас) на трассе Circuito de velocidad MotorLand Aragón: катаешься на своём мотоцикле по сессиям, группы по уровню. Нужна предварительная запись у организатора. Организатор — BMC.\n\n📍 <b>Локация:</b> Circuito de velocidad MotorLand Aragón, Alcañiz (Teruel)"
-    },
-    {
-      "id": "1f7b90028c",
-      "title": "International Motorcycle Safe Mobility Conference 2026",
-      "date": "2026-10-21",
-      "end_date": "2026-10-22",
-      "city": "Zaragoza",
-      "region": "Zaragoza",
-      "zone": "Арагон",
-      "venue": "Pabellón Puente",
-      "url": "https://www.dgt.es/comunicacion/notas-de-prensa/20261007-espana-refuerza-liderazgo-internacional-seguridad-vial-motociclista",
-      "image_url": null,
-      "short_ru": "Международная конференция DGT и ANESDOR о безопасности мотоциклистов. Вход бесплатный по регистрации, есть онлайн-трансляция.",
-      "full_ru": "🛡 <b>Международная конференция о безопасности мотоциклистов</b>\n\nDGT, отраслевая ассоциация ANESDOR и фонд Ibercaja собирают в Сарагосе экспертов из разных стран: дороги и ограждения, безопасность самих мотоциклов, обучение, новые технологии и помощь после аварий.\n\nВход <b>бесплатный</b> по предварительной регистрации (мест мало), плюс онлайн-трансляция. Интересно тем, кто хочет понимать, куда движутся правила для мотоциклистов.\n\n📍 <b>Локация:</b> Pabellón Puente, Zaragoza"
     },
     {
       "id": "69ee4b5171",
@@ -249,7 +81,7 @@
       "zone": "Андалусия",
       "venue": "",
       "url": "https://piezasdemotos.com/eventos-moteros/",
-      "image_url": null,
+      "image_url": "https://piezasdemotos.com/wp-content/uploads/2024/08/isotipo-yoast-1.jpg",
       "short_ru": "Мотослёт в Кониле-де-ла-Фронтера",
       "full_ru": "🌊 <b>Мотослёт в Кониле</b>\n\n23 октября в Villa de Conil (Кадис) состоится XVII Concentración Motera — традиционная осенняя встреча байкеров побережья Андалусии.\n\nХороший повод для поездки на юг с мотоклубом.\n\n📍 <b>Локация:</b> Conil de la Frontera, Cádiz"
     },
@@ -1078,6 +910,20 @@
       "image_url": null,
       "short_ru": "3-часовая гонка на выносливость на мопедах, Кубок Каталонии.",
       "full_ru": "🛵 <b>3 часа на мопедах — l'Ametlla Parc</b>\n\nЭтап Кубка Каталонии по гонкам на выносливость на мопедах: три часа по кругу, смена пилотов, классика каталонского мотоспорта.\n\n📍 <b>Локация:</b> l'Ametlla Parc, L'Ametlla del Vallès (Барселона)"
+    },
+    {
+      "id": "e4b206e1a6",
+      "title": "4º Moto Almuerzo Albudeite",
+      "date": "2026-11-07",
+      "end_date": null,
+      "city": "Albudeite",
+      "region": "Мурсия",
+      "zone": "Мурсия",
+      "venue": "",
+      "url": "https://www.concentracionesdemotos.com/murcia/",
+      "image_url": null,
+      "short_ru": "Мотозавтрак в Альбудейте, Мурсия",
+      "full_ru": "🏍️ <b>Мотозавтрак в Альбудейте</b>\n\n7 ноября в Альбудейте (Мурсия) пройдёт уже четвёртый мотозавтрак для местного байкерского сообщества.\n\nХороший повод собраться компанией, прокатиться и познакомиться с мотоклубами региона.\n\n📍 <b>Локация:</b> Альбудейте, Мурсия"
     },
     {
       "id": "c415ed774b",
@@ -2004,6 +1850,20 @@
       "full_ru": "🏍 <b>Кросс-кантри в Шерте</b>\n\nЭтап InterOpen федерации мотоспорта Валенсии по кросс-кантри, плюс заезды Peque TT для детей. Трасса мотокросса Xert. Организатор — Moto Club Enduraid (Винарос).\n\n📍 <b>Локация:</b> Circuito de MX de Xert, Xert / Шерт (Кастельон)"
     },
     {
+      "id": "24ee0baa73",
+      "title": "MotoGP Awards",
+      "date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "city": "Cheste",
+      "region": "Валенсия",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Circuit Ricardo Tormo, Cheste",
+      "url": "https://www.circuitricardotormo.com/eventos/",
+      "image_url": null,
+      "short_ru": "Церемония награждения чемпионов MotoGP сезона 2026 на трассе Рикардо Тормо",
+      "full_ru": "🏆 <b>MotoGP Awards — закрытие сезона в Честе</b>\n\n29 ноября, сразу после финальной гонки Гран-при Comunitat Valenciana, на трассе Рикардо Тормо пройдёт официальная церемония награждения чемпионов MotoGP 2026.\n\nЕсли уже планируете ехать на Гран-при 27–29 ноября — заодно получится застать и финальный аккорд сезона.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Честе, Валенсия"
+    },
+    {
       "id": "c27c096498",
       "title": "Tandas libres --- MPS Organisation",
       "date": "2026-11-30",
@@ -2342,6 +2202,12 @@
   ],
   "news": [
     {
+      "title": "DGT рассматривает приоритетные полосы для мотоциклов",
+      "url": "https://www.motorpasionmoto.com/",
+      "post_ru": "🛣️ <b>DGT наконец прислушалась к мотоциклистам насчёт полос</b>\n\nВпервые Дирекция по дорожному движению официально заявила, что рассматривает введение приоритетных полос для мотоциклов — об этом мотосообщество просило годами.\n\nДиректор DGT Pere Navarro отметил: в отличие от многих стран, где мотоциклисты и власти находятся в конфликте, в Испании ведомство стремится работать с этим сообществом, а не против него.\n\nПока конкретных сроков и деталей внедрения нет — это декларация о намерениях, не закон. Но тема сдвинулась с мёртвой точки, будем следить.\n\nИсточник: Motorpasión Moto",
+      "created_at": "2026-10-24T07:01:24.563Z"
+    },
+    {
       "title": "Guardia Civil напомнила про условия перевозки детей на мотоцикле",
       "url": "https://www.motorpasionmoto.com/",
       "post_ru": "👶🏍️ <b>Гражданская гвардия напомнила про детей на мотоцикле</b>\n\nИспанская Guardia Civil Tráfico выпустила предупреждение для байкеров-родителей: даже если ребёнку очень нравится кататься на мотоцикле, перевозить детей можно только при соблюдении определённых условий — по возрасту, экипировке и правильной посадке.\n\nНесоблюдение этих условий может обернуться штрафом до 200 евро.\n\nЕсли катаете детей на мотоцикле — проверьте, что всё по правилам, прежде чем отправляться на прогулку.\n\nИсточник: Motorpasión Moto",
@@ -2394,12 +2260,6 @@
       "url": "https://www.dgt.es/comunicacion/notas-de-prensa/20261005-evitar-las-distracciones-al-volante-objetivo-campana-de-vigilancia/",
       "post_ru": "📵 <b>Неделя охоты на телефоны: 6–12 октября</b>\n\nDGT запустила общеевропейскую кампанию против отвлечений за рулём. Всю неделю Guardia Civil и местная полиция проверяют водителей на трассах и в городах, плюс работают камеры, которые фиксируют телефон в руке.\n\nПочему это важно: отвлечение — самая частая причина смертельных аварий, оно есть в 32% таких случаев. В прошлогоднюю кампанию почти половина всех штрафов была именно за телефон.\n\n<b>Для мотоциклистов:</b>\n• телефон в руке на ходу — 200 € и минус 6 баллов\n• навигатор на руле в держателе — можно, но не трогать на ходу\n• интерком, встроенный в шлем, — легально с 1 октября (только связь и навигация)\n• наушники под шлемом — по-прежнему нарушение\n\nИсточник: DGT",
       "created_at": "2026-10-06T15:33:08.818Z"
-    },
-    {
-      "title": "Интерком и навигатор в шлеме теперь официально разрешены",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
-      "post_ru": "🎧 <b>Интерком в шлеме — теперь легально</b>\n\nВ шуме про перчатки и обувь почти потерялась ещё одна новинка реформы, которая работает с 1 октября. В Правилах дорожного движения (статья 18) появилось прямое разрешение для мотоциклистов.\n\n<b>Можно:</b> беспроводные устройства, встроенные в шлем, — <b>только для связи (интерком) и навигации</b>. Устройство должно быть сертифицированным (на практике — маркировка CE) и не отвлекать от дороги.\n\n<b>Нельзя, как и раньше:</b>\n• наушники и «затычки» в ушах под шлемом\n• слушать музыку — запрет на аудио-гарнитуры для воспроизведения звука остался\n• держать телефон в руках\n\nРаньше закон про интеркомы просто молчал, и всё зависело от трактовки агента. Теперь ясно: Cardo или Sena на шлеме для разговора с пассажиром или подсказок навигатора — законно.\n\nИсточник: BOE (Real Decreto 518/2026)",
-      "created_at": "2026-10-03T12:38:16.120Z"
     }
   ]
 }
