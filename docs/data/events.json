@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:42:48.262Z",
+  "generated_at": "2026-11-08T02:52:04.021Z",
   "events": [
     {
       "id": "079d4ffece",
@@ -686,6 +686,20 @@
       "image_url": null,
       "short_ru": "Традиционная мото-встреча в Кановетльесе (Барселона)",
       "full_ru": "🏍️ <b>19-я мото-встреча в Кановетльесе</b>\n\n15 ноября в Кановетльесе (Барселона) пройдёт ежегодная трубада — байкеры со всей Каталонии соберутся показать мотоциклы и провести день вместе.\n\nЕсли вы в районе Барселоны — хорошая возможность влиться в местную компанию.\n\n📍 <b>Локация:</b> Canovelles, Barcelona"
+    },
+    {
+      "id": "09335fa38c",
+      "title": "Presentació i Exposició de Motos Històriques — Sant Celoni",
+      "date": "2026-11-15",
+      "end_date": null,
+      "city": "Sant Celoni",
+      "region": "Barcelona",
+      "zone": "Каталония",
+      "venue": "Plaça de la Vila",
+      "url": "https://santceloni.cat/document.php?id=36156",
+      "image_url": null,
+      "short_ru": "Выставка исторических мотоциклов на празднике Sant Martí, вход свободный по умолчанию неизвестен.",
+      "full_ru": "🏍 <b>Выставка исторических мотоциклов в Сант-Селони</b>\n\nВ рамках праздников Sant Martí на центральной площади Сант-Селони покажут исторические мотоциклы.\n\n📍 <b>Локация:</b> Plaça de la Vila, Sant Celoni (Барселона)"
     },
     {
       "id": "a00fbab599",
@@ -1512,6 +1526,118 @@
       "image_url": null,
       "short_ru": "Предрождественская гонка на выносливость по грунту.",
       "full_ru": "🏍 <b>Гонка на выносливость «Cingles»</b>\n\nГонка на выносливость по грунту перед Рождеством. Организатор — Moto Club Cingles de Bertí.\n\n📍 <b>Локация:</b> Sant Feliu de Codines (Barcelona)"
+    },
+    {
+      "id": "e2374566e7",
+      "title": "Tandas Rehm Ricardo Tormo — конец года 2026",
+      "date": "2026-12-26",
+      "end_date": "2026-12-31",
+      "city": "Cheste",
+      "region": "Valencia",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Circuit Ricardo Tormo",
+      "url": "https://www.circuitricardotormo.com/tandas-de-motos/",
+      "image_url": null,
+      "short_ru": "Трек-дни Rehm на Рикардо Тормо между Рождеством и Новым годом.",
+      "full_ru": "🏍 <b>Трек-дни Rehm: проводы года на трассе</b>\n\nСерия открытых заездов для мотоциклов от Rehm на трассе в Честе — с 26 по 31 декабря. Нужна предварительная запись.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Cheste (Валенсия)"
+    },
+    {
+      "id": "06686de634",
+      "title": "Final de Temporada 2026 — Avispero Motero (Rubí)",
+      "date": "2026-12-27",
+      "end_date": null,
+      "city": "Rubí",
+      "region": "Barcelona",
+      "zone": "Каталония",
+      "venue": "Fina Low Cost, carretera de Sabadell km 12",
+      "url": "https://avisperomotero.com/eventos/lista/",
+      "image_url": null,
+      "short_ru": "Выезд-закрытие сезона клуба Avispero Motero, сбор в Руби.",
+      "full_ru": "🏍 <b>Закрытие сезона с Avispero Motero</b>\n\nГрупповой выезд клуба Avispero Motero в конце сезона: сбор у заправки Fina Low Cost на трассе на Сабадель, запись об участии открыта на сайте клуба.\n\n📍 <b>Локация:</b> Fina Low Cost, carretera de Sabadell km 12, Rubí (Барселона)"
+    },
+    {
+      "id": "c986efc96f",
+      "title": "X-Trial Pamplona 2026",
+      "date": "2026-12-27",
+      "end_date": null,
+      "city": "Pamplona",
+      "region": "Navarra",
+      "zone": "Наварра",
+      "venue": "Navarra Arena",
+      "url": "https://www.fnamoto.org/x-trial-27-12-26-pamplona-navarra-arena/",
+      "image_url": null,
+      "short_ru": "Индор-триал на арене в Памплоне.",
+      "full_ru": "🏍 <b>X-Trial в Памплоне</b>\n\nСоревнование по индор-триалу на арене Navarra Arena. Информация — от Федерации мотоциклизма Наварры.\n\n📍 <b>Локация:</b> Navarra Arena, Pamplona (Наварра)"
+    },
+    {
+      "id": "788697b4d4",
+      "title": "PPO Track Days — Ricardo Tormo, январь 2027",
+      "date": "2027-01-03",
+      "end_date": "2027-01-05",
+      "city": "Cheste",
+      "region": "Valencia",
+      "zone": "Комунидад Валенсиана",
+      "venue": "Circuit Ricardo Tormo",
+      "url": "https://ppotrackdays.com/moto_event/circuit-de-valencia-ricardo-tormo-03-04-05-janvier-2027-2/",
+      "image_url": null,
+      "short_ru": "Трек-дни PPO на трассе Рикардо Тормо, 3–5 января.",
+      "full_ru": "🏍 <b>Трек-дни PPO на трассе Рикардо Тормо</b>\n\nТри дня открытых заездов для мотоциклов от организатора PPO Track Days на трассе в Честе. Нужна предварительная запись у организатора.\n\n📍 <b>Локация:</b> Circuit Ricardo Tormo, Cheste (Валенсия)"
+    },
+    {
+      "id": "deff368841",
+      "title": "La Leyenda Continúa 2027 — Cantalejo",
+      "date": "2027-01-07",
+      "end_date": "2027-01-10",
+      "city": "Cantalejo",
+      "region": "Segovia",
+      "zone": "Кастилия-и-Леон",
+      "venue": "Cantalejo",
+      "url": "https://www.laleyendacontinua.info/",
+      "image_url": null,
+      "short_ru": "Зимний мотослёт в Канталехо (Сеговия).",
+      "full_ru": "🏍 <b>Зимний слёт «La Leyenda Continúa»</b>\n\nМотоциклетный слёт зимой в Канталехо с программой и в соседних городках провинции Сеговия.\n\n📍 <b>Локация:</b> Cantalejo (Сеговия)"
+    },
+    {
+      "id": "5a569b7638",
+      "title": "Concentración Motera Internacional Motauros 2027",
+      "date": "2027-01-14",
+      "end_date": "2027-01-17",
+      "city": "Tordesillas",
+      "region": "Valladolid",
+      "zone": "Кастилия-и-Леон",
+      "venue": "",
+      "url": "https://motauros.es/",
+      "image_url": null,
+      "short_ru": "Международный зимний мотослёт Motauros в Тордесильясе.",
+      "full_ru": "🏍 <b>Motauros — международный зимний слёт</b>\n\nМеждународная мотоконцентрация Motauros в Тордесильясе, с 14 по 17 января. Место проведения организаторы пока уточняют.\n\n📍 <b>Локация:</b> Tordesillas (Вальядолид)"
+    },
+    {
+      "id": "25ee1e2bec",
+      "title": "Tandas Bike Promotion Cartagena — январь 2027",
+      "date": "2027-01-21",
+      "end_date": "2027-01-24",
+      "city": "Cartagena",
+      "region": "Murcia",
+      "zone": "Мурсия",
+      "venue": "Circuito de Cartagena",
+      "url": "https://www.bike-promotion.com/es/events/overview/index/date/0/0/0/0#2294",
+      "image_url": null,
+      "short_ru": "Трек-дни Bike Promotion на трассе Картахены, 21–24 января.",
+      "full_ru": "🏍 <b>Трек-дни Bike Promotion в Картахене</b>\n\nОткрытые заезды для мотоциклов от Bike Promotion на трассе Circuito de Cartagena, четыре дня. Нужна предварительная запись.\n\n📍 <b>Локация:</b> Circuito de Cartagena, Cartagena (Мурсия)"
+    },
+    {
+      "id": "77f41f0a4b",
+      "title": "XIX Jabalinera 2027 — классические мотоциклы",
+      "date": "2027-01-22",
+      "end_date": "2027-01-24",
+      "city": "Corvera de Toranzo",
+      "region": "Cantabria",
+      "zone": "Кантабрия",
+      "venue": "Hotel Balneario de Alceda",
+      "url": "https://www.mcpiston.com/",
+      "image_url": null,
+      "short_ru": "Зимний слёт классических мотоциклов в Кантабрии.",
+      "full_ru": "🏍 <b>Jabalinera — слёт классических мотоциклов</b>\n\nДевятнадцатая Jabalinera собирает классические мотоциклы в Алседе (Кантабрия) с 22 по 24 января.\n\n📍 <b>Локация:</b> Hotel Balneario de Alceda, Corvera de Toranzo (Кантабрия)"
     }
   ],
   "news": [
