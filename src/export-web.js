@@ -72,7 +72,7 @@ function buildWebData(db) {
     .sort((a, b) => a.date.localeCompare(b.date));
 
   const news = db.news
-    .slice(-10)
+    .slice(-40)
     .reverse()
     .map((n) => ({
       title: n.title,
