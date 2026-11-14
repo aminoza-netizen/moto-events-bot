@@ -188,6 +188,15 @@ async function collectAll() {
     db.events.filter((e) => (store.daysUntil(e.date) ?? -1) >= 0).map((e) => ({ title: e.title, date: e.date, city: e.city }));
   const knownNews = () => db.news.slice(-15).map((n) => n.title);
 
+  // Сбор через API Anthropic платный: по умолчанию выключен (новости и события добавляются вручную, без ключа).
+  // Включить: COLLECT_USE_API=1 в .env
+  if (process.env.COLLECT_USE_API !== '1') {
+    console.log('Сбор через API выключен (COLLECT_USE_API не равен 1): ключ не расходуется. Только очистка и экспорт.');
+    store.save(db);
+    exportWeb(db);
+    return;
+  }
+
   try {
     const r1 = await collectFromSources(known(), knownNews());
     console.log(`Источники: событий ${r1.events.length} (новых ${store.addEvents(db, r1.events)}), новостей ${r1.news.length} (новых ${store.addNews(db, r1.news)})`);
@@ -241,7 +250,9 @@ async function runDaily(skipCollect = false) {
 }
 
 function checkEnv() {
-  const missing = ['TELEGRAM_BOT_TOKEN', 'CHANNEL_ID', 'ANTHROPIC_API_KEY'].filter((k) => !process.env[k]);
+  const need = ['TELEGRAM_BOT_TOKEN', 'CHANNEL_ID'];
+  if (process.env.COLLECT_USE_API === '1') need.push('ANTHROPIC_API_KEY');
+  const missing = need.filter((k) => !process.env[k]);
   if (missing.length) {
     console.error('В .env не заданы:', missing.join(', '));
     process.exit(1);
