@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:28:16.947Z",
+  "generated_at": "2026-11-15T08:00:00.947Z",
   "events": [
     {
       "id": "7d52d59203",
@@ -42,20 +42,6 @@
       "image_url": null,
       "short_ru": "",
       "full_ru": "🏍 <b>Copa de España de Velocidad - ESP - CIRCUITO DE NAVARRA</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Navarra, Лос-Аркос"
-    },
-    {
-      "id": "20290787cb",
-      "title": "Rodada Motor Extremo --- Sevilla",
-      "date": "2026-11-13",
-      "end_date": null,
-      "city": "Circuito de Sevilla, Севилья",
-      "region": "",
-      "zone": "Андалусия",
-      "venue": "Circuito de Sevilla, Севилья",
-      "url": "https://motorextremo.es/producto/rodada-circuito-de-sevilla-viernes-13-noviembre-2026/",
-      "image_url": null,
-      "short_ru": "",
-      "full_ru": "🏍 <b>Rodada Motor Extremo --- Sevilla</b>\n\n\n\n📍 <b>Локация:</b> Circuito de Sevilla, Севилья"
     },
     {
       "id": "16a748bd5d",
